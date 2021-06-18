@@ -1,0 +1,380 @@
+qc_id,gid,acueducto,serial,marcamedid,clasemedid,tipomedido,diametro_p,fecha_ins,usuario,cod_predio,cota,observacio,nombre,icon_url
+"0","335",San Antonio,"5015",Otro,Micromedidor,Volumétrico,0.5,,"10000210",,1041,,FAMILIA GOMEZ,./0.png
+"1","336",San Antonio,"14088",Otro,Micromedidor,Volumétrico,0.5,,"10000220",,1041,"Viene de tub 3""",COPIANO ZAMBRANO JOSE Y OTROS,./0.png
+"2","337",San Antonio,"5072",Otro,Micromedidor,Volumétrico,0.5,,"10001470",,1041,Viene del conjunto aeropuerto en 3/4,LOPEZ RAMIREZ JULIAN FERNANDO,./0.png
+"3","338",San Antonio,"31980",Otro,Micromedidor,Volumétrico,0.5,,"10001460",,1041,,PINILLA DE R. MARIA ELVIA,./0.png
+"4","339",San Antonio,"5073",Otro,Micromedidor,Volumétrico,0.5,,"10001510",,1043,Viene del conjunto Aeropuerto en lin 3/4,FAMILIA LOPEZ LOZANO,./0.png
+"5","340",San Antonio,"0228464",Otro,Micromedidor,Volumétrico,0.5,,"10001490",,1046,Viene del conj aeropuerto en lin 3/4,PINEDA GARCIA EMILIA,./0.png
+"6","341",San Antonio,"16029670",Otro,Micromedidor,Volumétrico,0.5,,"10000240",,1038,"Viene por debajo de la de 2""",GONZALES FRANCO OLVER,./0.png
+"7","342",San Antonio,"264589",Otro,Micromedidor,Volumétrico,0.5,,"10001520",,1044,Estaba en la mitad del lindero. Lo sacaron y la tub llega la medidor en 1/2 y regresa a la casa,ESTRADA QUINTERO RUBEN,./0.png
+"8","343",San Antonio,"31700",Otro,Micromedidor,Volumétrico,0.5,,"10001515",,1042,,SERNA JARAMILLO EDGAR,./0.png
+"9","344",San Antonio,"32348",Otro,Micromedidor,Volumétrico,0.5,,"10000330",,1035,"Viene de una tuberia de 2"" viene en 1""",OROZCO FERNANDO,./0.png
+"10","345",San Antonio,"450",Otro,Micromedidor,Volumétrico,0.5,,"10000335",,1037,Llega en tun 1/2,BUITRAGO MURILLO IVAN,./0.png
+"11","346",San Antonio,"31701",Otro,Micromedidor,Volumétrico,0.5,,"10000336",,1039,"Viene de la tub 1"" qur luego de la primera casa reduce a 3/4 y va en lin de 1/2",GAVIRIA DUQUE LUIS FERNANDO,./0.png
+"12","348",San Antonio,"40388",Otro,Micromedidor,Volumétrico,0.5,,"10000340",,1038,,"ZULUAGA G, JOSE RAMIRO",./0.png
+"13","351",San Antonio,"16029014",Otro,Micromedidor,Volumétrico,0.5,,"10000260",,1039,,UNIVERSIDAD DE MANIZALES,./0.png
+"14","352",San Antonio,"3227",Otro,Micromedidor,Volumétrico,0.5,,"10000230",,1038,,LOPEZ G. OMAR,./0.png
+"15","353",San Antonio,"330",Otro,Micromedidor,Volumétrico,0.5,,"10000250",,1035,,GUTIERREZ JARAMILLO ROBERTO,./0.png
+"16","354",San Antonio,"40390",Otro,Micromedidor,Volumétrico,0.5,,"10000270",,1036,,BLANCA ALBARRACIN / FRANKLIN MONTOYA,./0.png
+"17","355",San Antonio,"40422",Otro,Micromedidor,Volumétrico,0.5,,"10000271",,1034,,ARROYAVE CECILIA,./0.png
+"18","356",San Antonio,"40394",Otro,Micromedidor,Volumétrico,0.5,,"10000275",,1033,,DUQUE SALAZAR ALVARO,./0.png
+"19","357",San Antonio,"2070",Otro,Micromedidor,Volumétrico,0.5,,"10000280",,1035,,ROMERO OSORIO LUZ AMPARO,./0.png
+"20","359",San Antonio,"16027078",Otro,Micromedidor,Volumétrico,0.5,,"10000310",,1038,,HOTEL CARRETERO,./0.png
+"21","358",San Antonio,"40393",Otro,Micromedidor,Volumétrico,0.5,,"10000290",,1037,,ARCA ASESORES DE SEGUROS LTDA.,./0.png
+"22","349",San Antonio,"31978",Water meter,Micromedidor,Volumétrico,0.5,,"10001540",,1040,Viene lim 3/4,OSPINA HERRERA CARLOS ALBERTO,./0.png
+"23","16",San Antonio,ND011,Aquaforjas,Micromedidor,Volumétrico,0.5,,"10002490",,1030,Aquaforjas,GUTIERREZ JARAMILLO ROBERTO,./0.png
+"24","15",San Antonio,"9021",Aquaforjas,Micromedidor,Volumétrico,0.5,,"10001180",,1022,Acuaforjas,GUTIERREZ JARAMILLO ROBERTO,./0.png
+"25","19",San Antonio,"16029008",Water meter,Micromedidor,Ultrasónico,0.5,,"10002660",,979,,RESTREPO AURELIO,./0.png
+"26","360",San Antonio,"31970",Otro,Micromedidor,Volumétrico,0.5,,"10000300",,1031,,DUQUE MIRANDA HENRY,./0.png
+"27","361",San Antonio,"0168570",Otro,Micromedidor,Volumétrico,0.5,,"10000341",,1034,,GOMEZ CASTAÑO JOSE GABRIEL,./0.png
+"28","362",San Antonio,"0228462",Otro,Micromedidor,Volumétrico,0.5,,"10000305",,1038,,BEDOYA GARCIA JOSE ALIRIO,./0.png
+"29","363",San Antonio,"16029152",Otro,Micromedidor,Volumétrico,0.5,,"10000370",,1033,,GIRALDO HERNANDEZ DIANA LUCERO,./0.png
+"30","364",San Antonio,"40395",Otro,Micromedidor,Volumétrico,0.5,,"10000350",,1036,,LONDOÑO JARAMILLO MATILDE DEL PILAR Y FAMILIA,./0.png
+"31","365",San Antonio,"40418",Otro,Micromedidor,Volumétrico,0.5,,"10000360",,1038,,JARAMILLO JORGE EDUARDO,./0.png
+"32","366",San Antonio,"64852",Otro,Micromedidor,Volumétrico,0.5,,"10000490",,1029,,GONZALES GONZALES EFRAIN,./0.png
+"33","367",San Antonio,"184376",Otro,Micromedidor,Volumétrico,0.5,,"10000478",,1027,,CONDOMINIO CERROS DE SANTAGUEDA,./0.png
+"34","368",San Antonio,"58779",Otro,Micromedidor,Volumétrico,0.5,,"10000510",,1021,,HURTADO RAMIREZ NELSON,./0.png
+"35","369",San Antonio,"58701",Otro,Micromedidor,Volumétrico,0.5,,"10000480",,1021,,GONZALES SERNA AMPARO,./0.png
+"36","371",San Antonio,"2013",Otro,Micromedidor,Volumétrico,0.5,,"10000522",,1019,,PEREZ TORO MARIO,./0.png
+"37","372",San Antonio,"5016",Otro,Micromedidor,Volumétrico,0.5,,"10000520",,1018,,RAMOS GERARDO,./0.png
+"38","373",San Antonio,"14068",Otro,Micromedidor,Volumétrico,0.5,,"10000527",,1030,,ARBELAEZ JIMENEZ MARIA HELENA,./0.png
+"39","374",San Antonio,"40432",Otro,Micromedidor,Volumétrico,0.5,,"10000525",,1030,,TORO PLATA SAMUEL,./0.png
+"40","350",San Antonio,"64857",Otro,Micromedidor,Volumétrico,0.5,,"10001550",,1039,Viene de landr 3/4 frente al medixor de carlos Alberto Ospina queda el medidor. Lo sacaron a la via y hace el retorno a la casa en 1/2,SALAZAR GARCIA HUGO,./0.png
+"41","173",San Antonio,"16000813",Water meter,Micromedidor,Volumétrico,0.5,,"10000553",,1042,,GARCIA AGUDELO ALBEIRO DE JESUS,./0.png
+"42","174",San Antonio,"16000804",Water meter,Micromedidor,Volumétrico,0.5,,"10000552",,1042,,GARCIA AGUDELO LUZ ESTELA,./0.png
+"43","176",San Antonio,"16000816",Water meter,Micromedidor,Volumétrico,0.5,,"10000551",,1043,,LONDOÑO ANCIZAR,./0.png
+"44","177",San Antonio,"16000808",Water meter,Micromedidor,Volumétrico,0.5,,"10000549",,1044,,SANCHEZ JOSE WILLIAM,./0.png
+"45","27",San Antonio,"0266492",Otro,Micromedidor,Volumétrico,0.5,,"10002520",,1046,,GUTIERREZ JARAMILLO HERMANOS Y CIA EN C.A,./0.png
+"46","28",San Antonio,"31964",Otro,Micromedidor,Volumétrico,0.5,,"10002526",,1071,REPETIDO?,CALDERON ZULUAGA IRMA Y JHON HARVEY GAVIRIA,./0.png
+"47","279",San Antonio,"0266473",Otro,Micromedidor,Volumétrico,0.5,,"10002230","85809",1041,,PARRA QUINTERO MARIA EDITH,./0.png
+"48","280",San Antonio,"0266467",Otro,Micromedidor,Volumétrico,0.5,,"10002240","628227",1041,,JUAN PABLO Y ANGELICA FRANCO,./0.png
+"49","11",San Antonio,"171383",Otro,Micromedidor,Volumétrico,0.5,,"10001266",,1044,,CORREA GOMEZ ANDRES Y/O LUISA,./0.png
+"50","12",San Antonio,"0266498",Metrex,Micromedidor,De Velocidad,0.5,,"10001271",,1045,,RUBEN LLESAYDER RIOS LOPEZ,./0.png
+"51","13",San Antonio,"0266501",Metrex,Micromedidor,De Velocidad,0.5,,"10001273",,1050,,JEISSON GONZALEZ VALENCIA,./0.png
+"52","112",San Antonio,"266494",Metrex,Micromedidor,De Velocidad,0.5,,"10000530",,1047,,JARAMILLO JULIA CLEMENCIA,./0.png
+"53","387",San Antonio,"32098",Elster,Micromedidor,Volumétrico,0.5,,"10001220",,1065,,ZAPATA LOPEZ JESUS EVELIO,./0.png
+"54","0",San Antonio,"40441",Metrex,Micromedidor,Volumétrico,0.5,,"10001435",,1036,,UNE EPM TELECOMUNICACIONES S.A,./0.png
+"55","388",San Antonio,"266466",Metrex,Micromedidor,Volumétrico,0.5,,"10002430",,1042,,CARDONA ARIAS JORGE HUMBERTO,./0.png
+"56","69",San Antonio,"0266490",Otro,Micromedidor,Volumétrico,0.5,,"10000816",,1049,,LUZ AMPARO TREJOS OSPINA (La Campiña L 8),./0.png
+"57","231",San Antonio,"0266483",Otro,Micromedidor,Volumétrico,0.5,,"10001140",,1031,,COND.CAMPESTRE SIERRA VERDE,./0.png
+"58","18",San Antonio,"40424",Elster,Micromedidor,Volumétrico,0.5,,"10002670",,1000,Marca ELSTER,ROBLEDO VALENTINA-CARLOS NICOLAS,./0.png
+"59","72",San Antonio,"16000836",Water meter,Micromedidor,Volumétrico,0.5,,"10000823",,1052,,FUENTES DE VALENCIA BLANCA LILIA,./0.png
+"60","73",San Antonio,"0266496",Metrex,Micromedidor,De Velocidad,0.5,,"10000910",,1090,,BONIVENTO FERNANDEZ PEDRO,./0.png
+"61","74",San Antonio,"0168573",Otro,Micromedidor,Volumétrico,0.5,,"10000929",,1104,,GOMEZ QUINTERO RAFAEL RICARDO,./0.png
+"62","75",San Antonio,"452457",Otro,Micromedidor,Volumétrico,0.5,,"10000930",,1088,,BOTERO ALICIA,./0.png
+"63","81",San Antonio,"306709",Water meter,Micromedidor,Volumétrico,0.5,,"10000877",,1048,,F.SANCHEZ Y CIA S.C.A.,./0.png
+"64","389",San Antonio,"32118",Aquaforjas,Micromedidor,Volumétrico,0.5,,"10002690",,1008,,JARAMILLO RAFAEL,./0.png
+"65","390",San Antonio,"184354",Otro,Micromedidor,Volumétrico,0.5,,"10002691",,995,,SEPULVEDA CORREA FERNANDO,./0.png
+"66","391",San Antonio,"31598",Otro,Micromedidor,Volumétrico,0.5,,"10002692",,997,,VILLA RIVERA LUIS JOSE,./0.png
+"67","392",San Antonio,"31596",Otro,Micromedidor,Volumétrico,0.5,,"10002700",,995,,JARAMILLO ARIAS FERNANDO,./0.png
+"68","7",San Antonio,"16026853",Water meter,Micromedidor,Ultrasónico,0.5,,"10002630",,1078,,GUTIERREZ JARAMILLO LIBORIO,./0.png
+"69","39",San Antonio,"31187",Otro,Micromedidor,Volumétrico,0.5,,"10000832",,1074,,HERRON GOMEZ DANIEL,./0.png
+"70","10",San Antonio,"14098",Otro,Micromedidor,Volumétrico,0.5,,"10001250",,1070,Acuaforjas,GARCIA CUARTAS MARIA DEL PILAR,./0.png
+"71","82",San Antonio,"306715",Otro,Micromedidor,Volumétrico,0.5,,"10000880",,1048,,CORREA JARAMILLO ALBERTO,./0.png
+"72","84",San Antonio,"443",Otro,Micromedidor,Volumétrico,0.5,,"10000879",,1045,,RUIZ JAIME ALBERTO,./0.png
+"73","121",San Antonio,"14073",Otro,Micromedidor,Volumétrico,0.5,,"10000573",,1048,,RAMIRO TRUJILLO Y MARIA C. SOTO,./0.png
+"74","122",San Antonio,"14063",Otro,Micromedidor,Volumétrico,0.5,,"10000579",,1048,,GOMEZ BARRERA JULIAN,./0.png
+"75","123",San Antonio,"40382",Otro,Micromedidor,Volumétrico,0.5,,"10000577",,1049,,TREJOS GALLEGO DIANA,./0.png
+"76","154",San Antonio,ND015,Otro,Micromedidor,Volumétrico,0.5,,"10001210",,1039,,CASTAÑO TOVAR LUZ MARINA,./0.png
+"77","31",San Antonio,"96",Aquaforjas,Micromedidor,Volumétrico,0.5,,"10002480",,1039,Water forjas,GIRLADO HENAO SEBASTIAN,./0.png
+"78","149",San Antonio,"160792",Otro,Micromedidor,Volumétrico,0.5,,"10001030",,1025,,GIRALDO LLANO FRANCISCO,./0.png
+"79","150",San Antonio,"160806",Otro,Micromedidor,Volumétrico,0.5,,"10001135",,1034,,TRUJILLO BUSTAMANTE JORGE MARIO,./0.png
+"80","151",San Antonio,"58711",Otro,Micromedidor,Volumétrico,0.5,,"10001130",,1035,,ESCOBAR CARLOS HERNANDO,./0.png
+"81","152",San Antonio,"444",Otro,Micromedidor,Volumétrico,0.5,,"10001050",,1043,,CASTAÑO MUÑOZ CARLOS ALBERTO,./0.png
+"82","153",San Antonio,"322",Otro,Micromedidor,Volumétrico,0.5,,"10001040",,1040,,GIRALDO LLANO GERMAN,./0.png
+"83","155",San Antonio,"14067",Otro,Micromedidor,Volumétrico,0.5,,"10001060",,1041,,MEJIA ALIRIO,./0.png
+"84","156",San Antonio,"366",Otro,Micromedidor,Volumétrico,0.5,,"10001070",,1037,,SUAREZ URIBE CAROLINA,./0.png
+"85","157",San Antonio,"16000783",Water meter,Micromedidor,Volumétrico,0.5,,"10001080",,1044,,GIRALDO LOPEZ RICARDO LEON,./0.png
+"86","158",San Antonio,"0266470",Metrex,Micromedidor,De Velocidad,0.5,,"10001100",,1045,,ARANGO MARIO,./0.png
+"87","161",San Antonio,"40410",Otro,Micromedidor,Volumétrico,0.5,,"10000980",,1039,,GOMEZ ARIAS LIGIA,./0.png
+"88","23",San Antonio,"160801",Otro,Micromedidor,Volumétrico,0.5,,"10001256",,1077,,GARCIA DE MUÑOZ LIBIA CLEMENCIA,./0.png
+"89","32",San Antonio,"14057",Otro,Micromedidor,Volumétrico,0.5,,"10000890",,1116,,ARISTIZABAL HOYOS GERMAN,./0.png
+"90","220",San Antonio,ND009,Otro,Micromedidor,Volumétrico,0.5,,"10002641",,1039,,CANO LOPEZ OVIDIO,./0.png
+"91","219",San Antonio,"0228465",Otro,Micromedidor,Volumétrico,0.5,,"10002639",,1039,,CARDONA DAVILA AUGUSTO,./0.png
+"92","221",San Antonio,"40423",Otro,Micromedidor,Volumétrico,0.5,,"10000005",,1022,,PINEDA ZULUAGA ALBA NUBIA,./0.png
+"93","254",San Antonio,"0266481",Otro,Micromedidor,Volumétrico,0.5,,"10001330",,1043,,OSORIO JARAMILLO FRANCISCO JAVIER,./0.png
+"94","251",San Antonio,"16000784",Water meter,Micromedidor,Volumétrico,0.5,,"10001280",,1034,,GIRALDO GIRALDO JOSE LEONIDAS,./0.png
+"95","252",San Antonio,"16030439",Otro,Micromedidor,Volumétrico,0.5,,"10002790",,1035,,POLICIA DE SANTAGUEDA,./0.png
+"96","253",San Antonio,"40400",Otro,Micromedidor,Volumétrico,0.5,,"10001320",,1043,,ALZATE URREA GUSTAVO,./0.png
+"97","288",San Antonio,"40383",Otro,Micromedidor,Volumétrico,0.5,,"10002129","7547",1043,,OSPINA HERRERA JOSE FERNANDO,./0.png
+"98","285",San Antonio,"31984",Otro,Micromedidor,Volumétrico,0.5,,"10002441","826381",1046,,ROBLEDO LILIANA,./0.png
+"99","286",San Antonio,"31975",Otro,Micromedidor,Volumétrico,0.5,,"10002196","7273",1045,,MEZA GALEANO SILVIO,./0.png
+"100","57",San Antonio,"16000781",Water meter,Micromedidor,Volumétrico,0.5,,"10000839",,1068,,HERRON GOMEZ DANIEL,./0.png
+"101","61",San Antonio,"14087",Otro,Micromedidor,Volumétrico,0.5,,"10000738",,1046,,HERRON GOMEZ DANIEL,./0.png
+"102","287",San Antonio,"9020",Otro,Micromedidor,Volumétrico,0.5,,"10002190","8272",1043,,SUAREZ VALENCIA ERIKA,./0.png
+"103","289",San Antonio,"40381",Otro,Micromedidor,Volumétrico,0.5,,"10002191","98732",1044,,MURILLO NOREÑA FRANK ROBERT,./0.png
+"104","38",San Antonio,"40407",Otro,Micromedidor,Volumétrico,0.5,,"10000830",,1066,NO SE ENCUENTRA EN EL LISTADO,LONDOÑO ESTRADA JUAN PABLO,./0.png
+"105","36",San Antonio,"40398",Otro,Micromedidor,Volumétrico,0.5,,"10000850",,1084,,QUINTERO DE CORDOBA ARNOBIA,./0.png
+"106","17",San Antonio,"16000854",Aquaforjas,Micromedidor,Volumétrico,0.5,,"10002398",837r737,1039,Aquaforjas,CANCHA DE FUTBOL,./0.png
+"107","33",San Antonio,"14055",Otro,Micromedidor,Volumétrico,0.5,,"10000860",,1100,,JARAMILLO DE POSADA MARIA,./0.png
+"108","37",San Antonio,"39814",Otro,Micromedidor,Volumétrico,0.5,,"10000840",,1080,,LEGARDA GILBERTO,./0.png
+"109","34",San Antonio,"14100",Otro,Micromedidor,Volumétrico,0.5,,"10000859",,1086,,GOMEZ OROZCO PADRE HORACIO,./0.png
+"110","35",San Antonio,"32300",Otro,Micromedidor,Volumétrico,0.5,,"10000861",,1084,,GUTIERREZ RAMIREZ GLORIA INES,./0.png
+"111","40",San Antonio,"16000799",Water meter,Micromedidor,Volumétrico,0.5,,"10000826",,1075,"Se alimenta le la tub de 3"" con reducción",CARDONA RODAS GILBERTO,./0.png
+"112","25",San Antonio,"14083",Otro,Micromedidor,Volumétrico,0.5,,"10001268",,1076,,GARCIA CUARTAS LUZ ESTELLA,./0.png
+"113","47",San Antonio,"0266469",Otro,Micromedidor,Volumétrico,0.5,,"10000851",,1053,,PABLO FELIPE ARANGO TOBON (Lote 44 brisas),./0.png
+"114","20",San Antonio,"16021759",Water meter,Micromedidor,Ultrasónico,0.5,,"10002655",,972,,SINTRAISS,./0.png
+"115","22",San Antonio,"16029255",Water meter,Micromedidor,Ultrasónico,0.75,,"10002695",,995,,CONFAMILIARES,./0.png
+"116","24",San Antonio,"14081",Aquaforjas,Micromedidor,Volumétrico,0.5,,"10001265",,1082,Aqua forjas,MESA BOTERO NORMA BEATRIZ,./0.png
+"117","26",San Antonio,"453",Elster,Micromedidor,Volumétrico,0.5,,"10002560",,1057,Elbster,ARIAS ARANGO MARIA HELENA,./0.png
+"118","29",San Antonio,"14086",Otro,Micromedidor,Volumétrico,0.5,,"10002525",,1071,,FERNANDEZ PEREZ REBECA,./0.png
+"119","30",San Antonio,"0184358",Otro,Micromedidor,Volumétrico,0.5,,"10002491",,1039,,LOS GUADUALES,./0.png
+"120","41",San Antonio,"1184368",Otro,Micromedidor,Volumétrico,0.5,,"10000843",,1073,,AGUDELO TANG DIANA VLAVASKY,./0.png
+"121","42",San Antonio,"0228461",Otro,Micromedidor,Volumétrico,0.5,,"10000844",,1070,,ARIAS CARDONA CARLOMAN,./0.png
+"122","43",San Antonio,"0266500",Metrex,Micromedidor,De Velocidad,0.5,,"10000849",,1069,,JAIME ANDRES VIEIRA SALAZAR (Lote 21 brisas),./0.png
+"123","44",San Antonio,"0228497",Otro,Micromedidor,Volumétrico,0.5,,"10000845",,1067,,DANIEL HERRON Y/O SALGADO ANGELA,./0.png
+"124","45",San Antonio,"14085",Otro,Micromedidor,Volumétrico,0.5,,"10000837",,1067,,RIVAS SANTIAGO BERNAL MARCELA,./0.png
+"125","49",San Antonio,"16000853",Water meter,Micromedidor,Volumétrico,0.5,,"10000835",,1058,,CEBALLOS ALZATE CLAUDIA PATRICIA,./0.png
+"126","50",San Antonio,"331189",Otro,Micromedidor,Volumétrico,0.5,,"10000834",,1060,,JUAN CARLOS MARIN SANCHEZ (antes laura maracela Sanchez),./0.png
+"127","53",San Antonio,"16000849",Water meter,Micromedidor,Volumétrico,0.5,,"10000829",,1064,,LEON JAIME ALBERTO,./0.png
+"128","54",San Antonio,"29126",Otro,Micromedidor,Volumétrico,0.5,,"10000831",,1068,,QUINTERO ARCE ANTONIO MARIA,./0.png
+"129","55",San Antonio,"0228495",Otro,Micromedidor,Volumétrico,0.5,,"10000838",,1056,,LUZ NANCY AGUDELO DIAZ Y/O ABEL AGUDELO,./0.png
+"130","56",San Antonio,"29118",Otro,Micromedidor,Volumétrico,0.5,,"10000833",,1057,,HERRON CARMONA JHON CAMILO,./0.png
+"131","58",San Antonio,"02665030",Metrex,Micromedidor,De Velocidad,0.5,,"10000848",,1061,,JHON JAMES GUTIERREZ (lote 4 brisas),./0.png
+"132","59",San Antonio,"168571",Otro,Micromedidor,Volumétrico,0.5,,"10000842",,1051,,PUERTA OSORNO MARIBEL,./0.png
+"133","60",San Antonio,"16000859",Water meter,Micromedidor,Volumétrico,0.5,,"10000836",,1052,,MAURICIO PELAEZ GOMEZ Y/O BEATRIZ OLARTE,./0.png
+"134","62",San Antonio,"16000852",Water meter,Micromedidor,Volumétrico,0.5,,"10000841",,1045,,BETANCOURT LUIS EDUARDO,./0.png
+"135","63",San Antonio,"16000832",Otro,Micromedidor,Volumétrico,0.5,,"10000827",,1047,,ANGELA Y/O CARLOS ALBEIRO VALERO,./0.png
+"136","64",San Antonio,"16000845",Water meter,Micromedidor,Volumétrico,0.5,,"10000824",,1047,,ZULUAGA OCAMPO LEONEL FERNANDO,./0.png
+"137","65",San Antonio,"16000858",Water meter,Micromedidor,Volumétrico,0.5,,"10000828",,1047,,MARIN OSORIO ALBA MARINA,./0.png
+"138","66",San Antonio,"0184361",Otro,Micromedidor,Volumétrico,0.5,,"10000818",,1048,,CUERVO MARIN MARGARITA MARIA,./0.png
+"139","67",San Antonio,"4101",Otro,Micromedidor,Volumétrico,0.5,,"10000825",,1048,,GONZALEZ CASTRO JAIME,./0.png
+"140","68",San Antonio,"0266505",Metrex,Micromedidor,De Velocidad,0.5,,"10000809",,1049,,SANDRA YANETH HERRERA GARCIA(LOTE 4 CAMPIÑA,./0.png
+"141","51",San Antonio,"0266475",Otro,Micromedidor,Volumétrico,0.5,,"10000852",,1061,,DIEGO VELASQUEZ RODRIGUEZ,./0.png
+"142","92",San Antonio,"19031",Otro,Micromedidor,Volumétrico,0.5,,"10000863",,1042,,TOBON CORREA GABRIEL EUGENIO,./0.png
+"143","87",San Antonio,ND016,Otro,Micromedidor,Volumétrico,0.5,,"10000875","64854",1065,,GONZALES DE BUITRAGO ESPERANZA,./0.png
+"144","14",San Antonio,"16000848",Water meter,Micromedidor,Ultrasónico,0.5,,"10001269",,1074,,INVERSIONES GIF Y CIA,./0.png
+"145","70",San Antonio,"16000829",Water meter,Micromedidor,Volumétrico,0.5,,"10000821",,1050,,CONTRERAS JARAMILLO JUAN CAMILO,./0.png
+"146","71",San Antonio,"0184355",Otro,Micromedidor,Volumétrico,0.5,,"10000819",,1053,,SARAVIA GARCIA CARLOS ENRIQUE,./0.png
+"147","76",San Antonio,"0266497",Metrex,Micromedidor,De Velocidad,0.5,,"10000920",,1083,,SALAZAR CARDENAS MARIA ADIELA Y OTROS,./0.png
+"148","77",San Antonio,"451",Otro,Micromedidor,Volumétrico,0.5,,"10000925",,1066,,PINEDA ARISMENDY MARTHA,./0.png
+"149","78",San Antonio,"14064",Otro,Micromedidor,Volumétrico,0.5,,"10000882",,1042,,S.P.H. CONSTRUCCIONES S.A.S.,./0.png
+"150","79",San Antonio,"16000834",Water meter,Micromedidor,Volumétrico,0.5,,"10000881",,1051,,SANDOVAL BUITRAGO FRANCISCO JAVIER,./0.png
+"151","80",San Antonio,"284",Otro,Micromedidor,Volumétrico,0.5,,"10000885",,1049,,GOMEZ BERNAL OSCAR,./0.png
+"152","83",San Antonio,"306700",Otro,Micromedidor,Volumétrico,0.5,,"10000878",,1046,,SANTACOLOMA MARIO,./0.png
+"153","85",San Antonio,"2146",Otro,Micromedidor,Volumétrico,0.5,,"10000883",,1045,,SANCHEZ PRIETO RICARDO,./0.png
+"154","86",San Antonio,"434",Otro,Micromedidor,Volumétrico,0.5,,"10000884",,1046,,EL ENCIERRO LOPEZ Y CIA,./0.png
+"155","88",San Antonio,"23129",Otro,Micromedidor,Volumétrico,0.5,,"10000862",,1050,,CONJ. QUINTAS DE STA MARIA,./0.png
+"156","89",San Antonio,"40412",Otro,Micromedidor,Volumétrico,0.5,,"10000867",,1049,,MEJIA CORDOBES CARLOS GERMAN,./0.png
+"157","90",San Antonio,"395734",Otro,Micromedidor,Volumétrico,0.5,,"10000866",,1049,,VELEZ RAMIREZ HILDEBRANDO,./0.png
+"158","91",San Antonio,"14058",Otro,Micromedidor,Volumétrico,0.5,,"10001160",,1046,,SANCHEZ M. GUSTAVO IVAN,./0.png
+"159","93",San Antonio,"34018",Otro,Micromedidor,Volumétrico,0.5,,"10000869",,1042,,OCHOA ARANGO GLORIA INES,./0.png
+"160","256",San Antonio,"2221",Otro,Micromedidor,Volumétrico,0.5,,"10001350",,1042,,CANDAMIL CALLE JHON OMAR,./0.png
+"161","257",San Antonio,"441",Otro,Micromedidor,Volumétrico,0.5,,"10001360",,1041,,RENDON TORO JULIANA Y/O JUAN CAMILO,./0.png
+"162","269",San Antonio,"0266479",Otro,Micromedidor,Volumétrico,0.5,,"10002038","9182",1042,,CASTRO GARCIA OSCAR,./0.png
+"163","94",San Antonio,"429",Otro,Micromedidor,Volumétrico,0.5,,"10000872",,1042,,MEJIA ARANGO JORGE,./0.png
+"164","95",San Antonio,"16000785",Water meter,Micromedidor,Volumétrico,0.5,,"10000868",,1044,,CORREA MARIN OSCAR,./0.png
+"165","96",San Antonio,"40402",Otro,Micromedidor,Volumétrico,0.5,,"10000864",,1043,,SERNA UCHIMA DARIO,./0.png
+"166","98",San Antonio,"329741",Otro,Micromedidor,Volumétrico,0.5,,"10000865",,1043,,ARANGO ROJAS GERMAN,./0.png
+"167","99",San Antonio,"31998",Otro,Micromedidor,Volumétrico,0.5,,"10000807",,1043,,RAMIREZ HECTOR,./0.png
+"168","100",San Antonio,"446",Otro,Micromedidor,Volumétrico,0.5,,"10000810",,1040,,HOYOS GIRALDO ALDEMAR,./0.png
+"169","101",San Antonio,"31995",Otro,Micromedidor,Volumétrico,0.5,,"10000808",,1046,,RAMIREZ HECTOR,./0.png
+"170","102",San Antonio,"31985",Otro,Micromedidor,Volumétrico,0.5,,"10000815",,1046,,COOPEBENEFICENCIA,./0.png
+"171","103",San Antonio,"31960",Otro,Micromedidor,Volumétrico,0.5,,"10000805",,1046,,LAS MERCEDES,./0.png
+"172","104",San Antonio,"0266472",Metrex,Micromedidor,De Velocidad,0.5,,"10000800",,1063,,GRANJA LUKER,./0.png
+"173","105",San Antonio,"456",Otro,Micromedidor,Volumétrico,0.5,,"10000600",,1041,,SUCESORES DE LIBORIO GUTIERREZ Y CIA S.A.S,./0.png
+"174","106",San Antonio,"16054923",Otro,Micromedidor,Volumétrico,0.5,,"10000590",,1051,,COLEGIO NTRA SRA DEL PORTAL,./0.png
+"175","107",San Antonio,"31961",Otro,Micromedidor,Volumétrico,0.5,,"10000580",,1050,"1023",GUTIERREZ LUZ MARINA,./0.png
+"176","108",San Antonio,"31702",Otro,Micromedidor,Volumétrico,0.5,,"10000550",,1048,,CONJ.CAMPESTRE VILLAS DEL CAFE,./0.png
+"177","109",San Antonio,"40433",Otro,Micromedidor,Volumétrico,0.5,,"10000540",,1047,,JARAMILLO JULIA CLEMENCIA,./0.png
+"178","111",San Antonio,"65071",Otro,Micromedidor,Volumétrico,0.5,,"10000320",,1047,,MEJIA CORREA ERNESTO,./0.png
+"179","113",San Antonio,"0184365",Otro,Micromedidor,Volumétrico,0.5,,"10000547",,1043,,VASQUEZ LARA LUIS CARLOS,./0.png
+"180","114",San Antonio,"264591",Otro,Micromedidor,Volumétrico,0.5,,"10000542",,1043,,PARRA GIRALDO MARY ELIZABETH,./0.png
+"181","115",San Antonio,"16000790",Water meter,Micromedidor,Volumétrico,0.5,,"10000545",,1043,,VASQUEZ LARA VICTORIA EUGENIA,./0.png
+"182","116",San Antonio,"40397",Otro,Micromedidor,Volumétrico,0.5,,"10000560",,1045,,ALEJANDRO OROZCO CONSTRUCCIONES SAS,./0.png
+"183","117",San Antonio,"64855",Otro,Micromedidor,Volumétrico,0.5,,"10000562",,1046,,GLORIA LUCIA VARGAS S. Y HERNAN,./0.png
+"184","118",San Antonio,"16000800",Otro,Micromedidor,Volumétrico,0.5,,"10000564",,1046,,SANCHEZ SANCHEZ JESUS FERNANDO,./0.png
+"185","119",San Antonio,"320",Otro,Micromedidor,Volumétrico,0.5,,"10000570",,1047,,ALDO WALKER JARAMILLO,./0.png
+"186","120",San Antonio,"14074",Otro,Micromedidor,Volumétrico,0.5,,"10000575",,1045,,ANGELA MARIA ROMERO,./0.png
+"187","124",San Antonio,"31963",Otro,Micromedidor,Volumétrico,0.5,,"10000576",,1049,,LOPEZ CANO NATALIA,./0.png
+"188","125",San Antonio,"16000846",Water meter,Micromedidor,Volumétrico,0.5,,"10000574",,1044,,LONDOÑO DANIEL BERNARDO,./0.png
+"189","126",San Antonio,"0228463",Otro,Micromedidor,Volumétrico,0.5,,"10000572",,1040,,MORENO MEJIA JORGE WILLIAN,./0.png
+"190","127",San Antonio,"0228484",Otro,Micromedidor,Volumétrico,0.5,,"10000583",,1040,,LAVERDE RIVILLAS JULIO CESAR,./0.png
+"191","128",San Antonio,"39815",Otro,Micromedidor,Volumétrico,0.5,,"10000578",,1039,,RUBEN DARIO BOTERO SANCHEZ,./0.png
+"192","129",San Antonio,"30302",Otro,Micromedidor,Volumétrico,0.5,,"10000582",,1038,,RAMIREZ ARISTIZABAL ALBA ALICIA,./0.png
+"193","97",San Antonio,"0266491",Otro,Micromedidor,Volumétrico,0.5,,"10000871",,1044,,JULIAN HERNANDEZ VELEZ,./0.png
+"194","110",San Antonio,"16000840",Water meter,Micromedidor,Volumétrico,0.5,,"10000535",,1047,,JARAMILLO JULIA CLEMENCIA,./0.png
+"195","164",San Antonio,"16026607",Otro,Micromedidor,Ultrasónico,0.5,,"10001170",,1065,,ZAPATA LOPEZ JESUS EVELIO,./0.png
+"196","131",San Antonio,ND010,Otro,Micromedidor,Volumétrico,0.5,,"10001253",,1053,,GARCIA CUARTAS MARIA DEL PILAR,./0.png
+"197","130",San Antonio,"160810",Otro,Micromedidor,Volumétrico,0.5,,"10001259",,1051,,GARCIA CUARTAS GLORIA INES,./0.png
+"198","132",San Antonio,"160807",Otro,Micromedidor,Volumétrico,0.5,,"10001262",,1055,,GAVIRIA CALDERON MARIA ISABEL,./0.png
+"199","133",San Antonio,"16026134",Otro,Micromedidor,Ultrasónico,0.5,,"10000940",,1031,,RESTREPO HURTADO BERNARDA,./0.png
+"200","134",San Antonio,"40406",Otro,Micromedidor,Volumétrico,0.5,,"10000943",,1032,,BETANCURT B. JOSE ALBERTO,./0.png
+"201","135",San Antonio,"238564",Otro,Micromedidor,Volumétrico,0.5,,"10000945",,1033,,CRUZ BERNAL MARIA GENOVEVA,./0.png
+"202","136",San Antonio,"30812",Otro,Micromedidor,Volumétrico,0.5,,"10000946",,1033,,QUICENO MONTES MARIA LEONOR,./0.png
+"203","137",San Antonio,"160829",Otro,Micromedidor,Volumétrico,0.5,,"10000948",,1033,,CASTAÑO WILLIAM,./0.png
+"204","138",San Antonio,"0184357",Otro,Micromedidor,Volumétrico,0.5,,"10000949",,1033,,RAMIREZ OCAMPO YONIER ANDRES,./0.png
+"205","139",San Antonio,"40430",Otro,Micromedidor,Volumétrico,0.5,,"10000947",,1035,,POTEL JEAN CLAUDE,./0.png
+"206","140",San Antonio,"30795",Otro,Micromedidor,Volumétrico,0.5,,"10000950",,1036,,JARAMILLO MEJIA HERNAN,./0.png
+"207","141",San Antonio,"16000",Water meter,Micromedidor,Volumétrico,0.5,,"10000952",,1032,,CASTRILLON MUÑOZ MARIA ISABEL,./0.png
+"208","142",San Antonio,"40404",Otro,Micromedidor,Volumétrico,0.5,,"10000953",,1033,,ESTRADA HERNANDO,./0.png
+"209","143",San Antonio,"16000787",Water meter,Micromedidor,Volumétrico,0.5,,"10000955",,1034,,MURILLO OSPINA ANALIDA,./0.png
+"210","144",San Antonio,"0266499",Metrex,Micromedidor,De Velocidad,0.5,,"10000956",,1034,,GIRALDO CARDONA ROSALBA,./0.png
+"211","145",San Antonio,"333993",Otro,Micromedidor,Volumétrico,0.5,,"10000959",,1032,,VALENCIA RINCON WILMAR,./0.png
+"212","146",San Antonio,"30810",Otro,Micromedidor,Volumétrico,0.5,,"10000958",,1033,,ASTAIZA HERRERA MARCO ANDRES,./0.png
+"213","147",San Antonio,"0184375",Otro,Micromedidor,Volumétrico,0.5,,"10000960",,1033,,RUIZ VERA JULIAN Y PATRICIA DEL PILAR,./0.png
+"214","148",San Antonio,"40409",Otro,Micromedidor,Volumétrico,0.5,,"10000970",,1034,,CORREA VASQUEZ GUILLERMO,./0.png
+"215","159",San Antonio,"367",Otro,Micromedidor,Volumétrico,0.5,,"10001110",,1047,,ARBELAEZ LOPEZ ANDREA,./0.png
+"216","160",San Antonio,"64849",Otro,Micromedidor,Volumétrico,0.5,,"10001115",,1046,,JIMENEZ DE RUIIZ JULIETA Y OTRO,./0.png
+"217","162",San Antonio,"3196",Otro,Micromedidor,Volumétrico,0.5,,"10000990",,1042,,PIEDRAHITA GARCES SANTIAGO,./0.png
+"218","163",San Antonio,"30814",Otro,Micromedidor,Volumétrico,0.5,,"10001020",,1040,,BETANCURT GOMEZ ALBEIRO,./0.png
+"219","165",San Antonio,"16029747",Otro,Micromedidor,Ultrasónico,0.5,,"10001010",,1047,,PIEDRAHITA GARCES SANTIAGO,./0.png
+"220","166",San Antonio,"16000818",Water meter,Micromedidor,Volumétrico,0.5,,"10000561",,1044,,RAMOS PEDRO ANGEL,./0.png
+"221","167",San Antonio,"0266468",Metrex,Micromedidor,De Velocidad,0.5,,"10000559",,1044,,AGUDELO GLORIA INES,./0.png
+"222","170",San Antonio,"16000814",Water meter,Micromedidor,Volumétrico,0.5,,"10000556",,1043,,MESTIZO RIVERA LURY,./0.png
+"223","171",San Antonio,"16000811",Water meter,Micromedidor,Volumétrico,0.5,,"10000555",,1043,,GARCIA AGUDELO MARIA CLAUDIA,./0.png
+"224","172",San Antonio,"16000812",Otro,Micromedidor,Volumétrico,0.5,,"10000554",,1043,,DIAZ CUARTAS HECTOR FABIO,./0.png
+"225","168",San Antonio,"16000815",Water meter,Micromedidor,Volumétrico,0.5,,"10000558",,1044,,GARCIA ZULEIMA PATRICIA,./0.png
+"226","169",San Antonio,"16000820",Water meter,Micromedidor,Volumétrico,0.5,,"10000557",,1043,,BUSTAMANTE MARIA ROCIO,./0.png
+"227","175",San Antonio,"3148",Otro,Micromedidor,Volumétrico,0.5,,"10001015",,1043,,PUNTO PRO.VENDEDORES ESTACION,./0.png
+"228","178",San Antonio,"16000819",Water meter,Micromedidor,Volumétrico,0.5,,"10000548",,1044,,GIRALDO BLANCA NELY,./0.png
+"229","179",San Antonio,"16000828",Water meter,Micromedidor,Volumétrico,0.5,,"10000546",,1044,,ARIAS FERNANDO,./0.png
+"230","180",San Antonio,"16000827",Water meter,Micromedidor,Volumétrico,0.5,,"10000544",,1044,,DIAZ MARLENY DEL SOCORRO,./0.png
+"231","181",San Antonio,"16000825",Water meter,Micromedidor,Volumétrico,0.5,,"10000543",,1044,,YECY FRANLEY MEJIA GUERRA,./0.png
+"232","182",San Antonio,"16000824",Otro,Micromedidor,Volumétrico,0.5,,"10000541",,1044,,DIAZ CUARTAS JORGE IVAN,./0.png
+"233","183",San Antonio,"0266471",Metrex,Micromedidor,De Velocidad,0.5,,"10000539",,1045,,ALZATE LUCELY,./0.png
+"234","184",San Antonio,16000867-0,Water meter,Micromedidor,Volumétrico,0.5,,"10002792",,1044,,GLORIETA SANTAGUEDA,./0.png
+"235","185",San Antonio,"16054851",Otro,Micromedidor,Volumétrico,0.5,,"10000200",,1048,,GIRALDO NEIRA JAVIER,./0.png
+"236","186",San Antonio,"440",Otro,Micromedidor,Volumétrico,0.5,,"10000190",,1043,,ARANZAZU HERNANDO,./0.png
+"237","187",San Antonio,"373",Otro,Micromedidor,Volumétrico,0.5,,"10000185",,1042,,GIRALDO ZAPATA CAROLINA,./0.png
+"238","188",San Antonio,"40405",Otro,Micromedidor,Volumétrico,0.5,,"10000180",,1046,,RIVERA MARIN ELIZABETH,./0.png
+"239","189",San Antonio,"40391",Otro,Micromedidor,Volumétrico,0.5,,"10000170",,1050,,MEJIA PRIETO BERNARDO Y OTROS,./0.png
+"240","190",San Antonio,"31878",Otro,Micromedidor,Volumétrico,0.5,,"10000160",,1049,,CELADOR,./0.png
+"241","191",San Antonio,"64851",Otro,Micromedidor,Volumétrico,0.5,,"10000150",,1049,,MEJIA DE VILLEGAS LILIANA,./0.png
+"242","192",San Antonio,"31870",Otro,Micromedidor,Volumétrico,0.5,,"10000144",,1048,,NAVARRO DIEGO,./0.png
+"243","193",San Antonio,"1493",Otro,Micromedidor,Volumétrico,0.5,,"10000141",,1045,,JARAMILLO ARIEL CARLOS,./0.png
+"244","194",San Antonio,"16029684",Otro,Micromedidor,Volumétrico,0.5,,"10000140",,1046,,TORO GUTIERREZ MARCO ANTONIO,./0.png
+"245","195",San Antonio,"16028919",Otro,Micromedidor,Volumétrico,0.5,,"10000130",,1034,,BUITRAGO BETANCOURTH JAVIER,./0.png
+"246","196",San Antonio,"16000797",Water meter,Micromedidor,Volumétrico,0.5,,"10000120",,1039,,PATIÑO MOSQUERA CARMEN ROCIO,./0.png
+"247","197",San Antonio,"456192",Otro,Micromedidor,Volumétrico,0.5,,"10000110",,1042,,ACEVEDO ALVARADO CARLOS,./0.png
+"248","198",San Antonio,"40431",Otro,Micromedidor,Volumétrico,0.5,,"10000100",,1045,,OROZCO LOPEZ DIANA ALEXANDRA,./0.png
+"249","199",San Antonio,"18000841",Otro,Micromedidor,Volumétrico,0.5,,"10002451",,1017,,JARAMILLO SEPULVEDA LUZ ADRIANA,./0.png
+"250","200",San Antonio,"0184367",Otro,Micromedidor,Volumétrico,0.5,,"10002450",,1006,,GIRALDO E. GERMAN,./0.png
+"251","203",San Antonio,"439",Otro,Micromedidor,Volumétrico,0.5,,"10002455",,1006,,GALLEGO CARDONA FABIO,./0.png
+"252","204",San Antonio,"32320",Otro,Micromedidor,Volumétrico,0.5,,"10002457",,977,,AGUIRRE FRANCISCO JAVIER,./0.png
+"253","205",San Antonio,"0184362",Otro,Micromedidor,Volumétrico,0.5,,"10002500",,1029,,ESCOBAR ARISTIZABAL WILLIAN,./0.png
+"254","206",San Antonio,"313",Otro,Micromedidor,Volumétrico,0.5,,"10002510",,1084,,SANCHEZ PRIETO DANIEL,./0.png
+"255","207",San Antonio,"309",Otro,Micromedidor,Volumétrico,0.5,,"10002460",,1055,,ALZATE NOREÑA ALBA LUCIA,./0.png
+"256","208",San Antonio,"306698",Otro,Micromedidor,Volumétrico,0.5,,"10002545",,1066,,ZULUAGA ECHEVERRY EDNA PATRICIA,./0.png
+"257","209",San Antonio,"16000850",Water meter,Micromedidor,Volumétrico,0.5,,"10002550",,1067,,RESTREPO DIANA,./0.png
+"258","210",San Antonio,"16000833",Water meter,Micromedidor,Volumétrico,0.5,,"10002570",,1069,,SOTOMAYOR VALENCIA MARIELA,./0.png
+"259","211",San Antonio,"58702",Otro,Micromedidor,Volumétrico,0.5,,"10002646",,1056,Fué retirado hace varios años. Quedó la colilla,DORIS JIMENEZ VAN ALBERTUS,./0.png
+"260","212",San Antonio,"178",Otro,Micromedidor,Volumétrico,0.5,,"10002580",,1051,,SALGADO GERMAN Y OTROS,./0.png
+"261","213",San Antonio,"0184360",Otro,Micromedidor,Volumétrico,0.5,,"10002585",,1050,,JARAMILLO JARAMILLO OSCAR GERMAN,./0.png
+"262","214",San Antonio,"31992",Otro,Micromedidor,Volumétrico,0.5,,"10002590",,1049,,DE CARDONA ANA,./0.png
+"263","215",San Antonio,"16000860",Water meter,Micromedidor,Volumétrico,0.5,,"10002642",,1040,,PEREZ TABORDA RUBY,./0.png
+"264","216",San Antonio,"369",Otro,Micromedidor,Volumétrico,0.5,,"10002644",,1022,,R. MONTES Y COMPAÑIA S.A.S,./0.png
+"265","217",San Antonio,"16000859",Water meter,Micromedidor,Volumétrico,0.5,,"10002600",,1023,,R. MONTES Y COMPAÑIA S.A.S,./0.png
+"266","218",San Antonio,"16026624",Otro,Micromedidor,Volumétrico,0.5,,"10002640",,1028,,CEOCAL,./0.png
+"267","222",San Antonio,"32013",Otro,Micromedidor,Volumétrico,0.5,,"10000006",,1016,,MORALES RAMOS ANA ISABEL / VAN DE POL EDDY A J,./0.png
+"268","223",San Antonio,"40420",Otro,Micromedidor,Volumétrico,0.5,,"10000007",,1013,,ZULUAGA DE BOTERO ELVIRA DE LAS MERCEDES,./0.png
+"269","224",San Antonio,"16029012",Otro,Micromedidor,Ultrasónico,0.5,,"10000008",,1004,,GIRALDO GIL JORGE ALONSO,./0.png
+"270","225",San Antonio,"14095",Otro,Micromedidor,Volumétrico,0.5,,"10000009",,1022,,HOYOS MEDINA WILDER,./0.png
+"271","226",San Antonio,"278",Otro,Micromedidor,Volumétrico,0.5,,"10001230",,1017,,DIAZ CUARTAS GLORIA PATRICIA,./0.png
+"272","227",San Antonio,"378",Otro,Micromedidor,Volumétrico,0.5,,"10000010",,1026,,JARAMILLO ARANGO JUAN CARLOS OTROS,./0.png
+"273","228",San Antonio,"31990",Otro,Micromedidor,Volumétrico,0.5,,"10000040",,1030,,NARANJO MARIN DUVAN,./0.png
+"274","229",San Antonio,"30306",Otro,Micromedidor,Volumétrico,0.5,,"10000016",,1032,,KAPOTA RUBEN,./0.png
+"275","230",San Antonio,"32152",Otro,Micromedidor,Volumétrico,0.5,,"10000012",,1034,,BAUTISTA PARRADO MIGUEL,./0.png
+"276","232",San Antonio,"454",Otro,Micromedidor,Volumétrico,0.5,,"10000015",,1030,,PIEDRAHITA GOMEZ LUIS MIGUEL Y OTROS,./0.png
+"277","233",San Antonio,"14061",Otro,Micromedidor,Volumétrico,0.5,,"10000018",,1034,,HOYOS ROSERO JUAN ESTEBAN,./0.png
+"278","234",San Antonio,"16000830",Water meter,Micromedidor,Volumétrico,0.5,,"10000019",,1034,,QUIJANO ROSALBA / KLINGER FAUSTO,./0.png
+"279","235",San Antonio,"370",Otro,Micromedidor,Volumétrico,0.5,,"10000017",,1035,,LONDOÑO LOPEZ JAIME,./0.png
+"280","236",San Antonio,"160826",Otro,Micromedidor,Volumétrico,0.5,,"10000022",,1031,,CORREA HERRERA HERNANDO,./0.png
+"281","237",San Antonio,"31973",Otro,Micromedidor,Volumétrico,0.5,,"10000021",,1032,,CHICA ROBERTO,./0.png
+"282","238",San Antonio,"16029085",Otro,Micromedidor,Volumétrico,0.5,,"10000020",,1032,,BLANDON OROZCO OCTAVIO,./0.png
+"283","239",San Antonio,"436",Otro,Micromedidor,Volumétrico,0.5,,"10000050",,1032,,SALAZAR TORO JUAN MANUEL,./0.png
+"284","240",San Antonio,"5078",Otro,Micromedidor,Volumétrico,0.5,,"10001270",,1034,,RAMIREZ ROBERTO,./0.png
+"285","241",San Antonio,"31599",Otro,Micromedidor,Volumétrico,0.5,,"10000055",,1034,,MARIN URIBE SILVIO CARLOS Y JORGE,./0.png
+"286","242",San Antonio,"01840366",Otro,Micromedidor,Volumétrico,0.5,,"10000051",,1034,,ROJAS MALAGON JOSE ANGEL,./0.png
+"287","243",San Antonio,"5017",Otro,Micromedidor,Volumétrico,0.5,,"10000035",,1034,,SINTRABECOLICAS - CALDAS,./0.png
+"288","244",San Antonio,"16029653",Otro,Micromedidor,Volumétrico,0.5,,"10000030",,1032,,NARANJO MARIN DUVAN,./0.png
+"289","245",San Antonio,"437",Otro,Micromedidor,Volumétrico,0.5,,"10000060",,1034,,RAMIREZ RUBEN DARIO Y MARIA SONIA,./0.png
+"290","246",San Antonio,"40387",Otro,Micromedidor,Volumétrico,0.5,,"10000065",,1032,,GONZALEZ GOMEZ GERMAN,./0.png
+"291","247",San Antonio,"0184359",Otro,Micromedidor,Volumétrico,0.5,,"10000070",,1034,,CARDONA GUTIERREZ GERMAN,./0.png
+"292","248",San Antonio,"171383",Otro,Micromedidor,Volumétrico,0.5,,"10000090",,1047,,SERNA LOPEZ JESICA,./0.png
+"293","249",San Antonio,"40415",Otro,Micromedidor,Volumétrico,0.5,,"10000080",,1046,,TORO IRMA,./0.png
+"294","250",San Antonio,"31594",Otro,Micromedidor,Volumétrico,0.5,,"10000082",,1047,,TORO ESCOBAR CARLOS HORACIO,./0.png
+"295","255",San Antonio,"265371",Otro,Micromedidor,Volumétrico,0.5,,"10001340",,1040,,BETANCUR GOMEZ JUAN CARLOS,./0.png
+"296","258",San Antonio,"16000786",Water meter,Micromedidor,Volumétrico,0.5,,"10001390",,1039,,HOYOS ARISTIZABAL CARLOS,./0.png
+"297","259",San Antonio,"265360",Otro,Micromedidor,Volumétrico,0.5,,"10001370",,1041,,RAMIREZ GOMEZ ALFONSO,./0.png
+"298","260",San Antonio,"40397",Otro,Micromedidor,Volumétrico,0.5,,"10001380",,1042,,ALVAREZ LOPEZ LUIS JOSE,./0.png
+"299","261",San Antonio,"65013",Otro,Micromedidor,Volumétrico,0.5,,"10001400",,1037,,OROZCO GONZALES MARIELA,./0.png
+"300","262",San Antonio,"14062",Otro,Micromedidor,Volumétrico,0.5,,"10001410",,1040,,JARAMILLO AURELIO,./0.png
+"301","263",San Antonio,"31981",Otro,Micromedidor,Volumétrico,0.5,,"10001420",,1044,,VARGAS GUTIERREZ ALONSO,./0.png
+"302","264",San Antonio,"16000842",Otro,Micromedidor,Volumétrico,0.5,,"10002425","71717",1041,,COMITE DTAL DE GANADEROS CALDAS,./0.png
+"303","265",San Antonio,"303",Otro,Micromedidor,Volumétrico,0.5,,"10002429","82637",1042,,CONJ. AEROPUERTO PALESTINA.,./0.png
+"304","266",San Antonio,"14094",Otro,Micromedidor,Volumétrico,0.5,,"10002427","726361",1041,,CDI SANTAGUEDA,./0.png
+"305","267",San Antonio,"40442",Otro,Micromedidor,Volumétrico,0.5,,"10002300","7171",1042,,PARRA CIFUENTES JOSE MARINO,./0.png
+"306","268",San Antonio,"0228467",Otro,Micromedidor,Volumétrico,0.5,,"10002290","8761",1043,,MARTINEZ BERRIO ESTEBAN Y/O ALEJANDRO,./0.png
+"307","270",San Antonio,"0168574",Otro,Micromedidor,Volumétrico,0.5,,"10002039","7161",1042,,MORALES LUZ HELENA,./0.png
+"308","271",San Antonio,"14072",Otro,Micromedidor,Volumétrico,0.5,,"10002032","8172",1043,,GRAJALES LEON RUBEN DARIO,./0.png
+"309","272",San Antonio,"40416",Otro,Micromedidor,Volumétrico,0.5,,"10002030","81726",1044,,DUQUE GALLO ALBA MARINA,./0.png
+"310","274",San Antonio,"5011",Otro,Micromedidor,Volumétrico,0.5,,"10002036","1872",1042,,MONTOYA DE GIRALDO MABEL INES,./0.png
+"311","275",San Antonio,"30511",Otro,Micromedidor,Volumétrico,0.5,,"10002040","716271",1041,,HENAO VALENCIA ALBEIRO,./0.png
+"312","276",San Antonio,"14070",Otro,Micromedidor,Volumétrico,0.5,,"10002060","5173",1043,,GIL RAMIREZ ESPERANZA,./0.png
+"313","281",San Antonio,"40426",Otro,Micromedidor,Volumétrico,0.5,,"10002330","2974",1042,,TOBON TOBON WILLIAN,./0.png
+"314","282",San Antonio,"448",Otro,Micromedidor,Volumétrico,0.5,,"10002210","7178",1047,,GIRALDO NIETO DARIO,./0.png
+"315","283",San Antonio,"40427",Otro,Micromedidor,Volumétrico,0.5,,"10002110","8167",1041,,NARANJO RODRIGUEZ MONICA,./0.png
+"316","273",San Antonio,"101",Otro,Micromedidor,Volumétrico,0.5,,"10002034","816261",1044,Dejó de pagar,ARMANDO FRANCO,./0.png
+"317","277",San Antonio,ND013,Otro,Micromedidor,Volumétrico,0.5,,"10002350","6391",1043,,GALEANO PULGARIN LILIANA,./0.png
+"318","278",San Antonio,ND014,Otro,Micromedidor,Volumétrico,0.5,,"10002340","163818",1044,,GARCIA GIRALDO SANDRA MILENA,./0.png
+"319","333",San Antonio,"16026217",Otro,Micromedidor,Ultrasónico,0.5,,"10002780",,1036,,INSTITUTO DOCENTE SANTAGUEDA,./0.png
+"320","290",San Antonio,"0266480",Otro,Micromedidor,Volumétrico,0.5,,"10002130",91u1781,1045,,SAFARIE ALI ASGHAR,./0.png
+"321","321",San Antonio,"438",Otro,Micromedidor,Volumétrico,0.5,,"10001790","9382824",1042,,CASTILLO GIRALDO HECTOR JULIAN,./0.png
+"322","284",San Antonio,"16027644",Otro,Micromedidor,Volumétrico,0.5,,"10002440","816621",1045,,ROBLEDO ISAZA GUSTAVO,./0.png
+"323","291",San Antonio,"276",Otro,Micromedidor,Volumétrico,0.5,,"10002194","9868",1046,,RAMIREZ ARBOLEDA HERNANDO,./0.png
+"324","293",San Antonio,"0184363",Otro,Micromedidor,Volumétrico,0.5,,"10002127","176318",1042,,CASTAÑEDA JORGE ENRIQUE,./0.png
+"325","294",San Antonio,"22480",Otro,Micromedidor,Volumétrico,0.5,,"10002120","0871",1041,,DUQUE LONDOÑO ARIEL,./0.png
+"326","295",San Antonio,"19016",Otro,Micromedidor,Volumétrico,0.5,,"10002421","5367",1041,,ROBERT FRANCISCO RODRIGUEZ,./0.png
+"327","322",San Antonio,"40419",Otro,Micromedidor,Volumétrico,0.5,,"10001800","382738",1041,,QUINTERO MARTHA CECILIA,./0.png
+"328","323",San Antonio,"64856",Otro,Micromedidor,Volumétrico,0.5,,"10001830","837282",1043,,MONTOYA JARAMILLO RUBEN,./0.png
+"329","324",San Antonio,"457",Otro,Micromedidor,Volumétrico,0.5,,"10001840","02882",1042,,GARCIA JESUS MARIA,./0.png
+"330","325",San Antonio,"40419",Otro,Micromedidor,Volumétrico,0.5,,"10001850","72628",1042,,BOTERO SANCHEZ JOSE FERNANDO,./0.png
+"331","326",San Antonio,"40377",Otro,Micromedidor,Volumétrico,0.5,,"10001860","72682",1041,,PEREZ JARAMILLO DELFINA,./0.png
+"332","327",San Antonio,"31592",Otro,Micromedidor,Volumétrico,0.5,,"10001000","84728",1044,,VANEGAS RONDON JORGE ALBERTO,./0.png
+"333","328",San Antonio,"40380",Otro,Micromedidor,Volumétrico,0.5,,"10002432","827292",1044,,ALZATE JOHANA PAOLA,./0.png
+"334","329",San Antonio,"58712",Otro,Micromedidor,Volumétrico,0.5,,"10002431","8173",1042,,PATIÑO VEGA ANA ELVIA,./0.png
+"335","330",San Antonio,"0184371",Otro,Micromedidor,Volumétrico,0.5,,"10002705","987",1033,,CONJ. ALTOS DEL RIO,./0.png
+"336","331",San Antonio,"0184374",Otro,Micromedidor,Volumétrico,0.5,,"10002710","786",1030,,MEJIA DUQUE OCTAVIO,./0.png
+"337","332",San Antonio,"106",Otro,Micromedidor,Volumétrico,0.5,,"10002707","871",1014,,ALVAREZ LARA GUSTAVO ADOLFO,./0.png
+"338","46",San Antonio,"0266469",Metrex,Micromedidor,De Velocidad,0.5,,"10000846",,1067,,PABLO EMILIO VARGAS RIVERA,./0.png
+"339","48",San Antonio,"0266502",Metrex,Micromedidor,De Velocidad,0.5,,"10000847",,1057,,GLORIA MATILDE GARCES /JAIME GONZALES,./0.png
+"340","296",San Antonio,"40447",Otro,Micromedidor,Volumétrico,0.5,,"10002126","0717",1041,,RESTREPO HENAO CLARIBEL,./0.png
+"341","297",San Antonio,"9025",Otro,Micromedidor,Volumétrico,0.5,,"10002124","862",1041,,DIAZ ZAPATA JHON JAIRO,./0.png
+"342","298",San Antonio,"389",Otro,Micromedidor,Volumétrico,0.5,,"10002123","827722",1039,,ARDILA SALAZAR JUAN CARLOS,./0.png
+"343","299",San Antonio,"16000831",Otro,Micromedidor,Volumétrico,0.5,,"10002135","93872",1038,,ROBLEDO MORA FABIO,./0.png
+"344","300",San Antonio,"31958",Otro,Micromedidor,Volumétrico,0.5,,"10002160","9281",1042,,VALENCIA LOPEZ GLORIA INES Y OTROS,./0.png
+"345","301",San Antonio,"0184372",Otro,Micromedidor,Volumétrico,0.5,,"10002170","727271",1042,,SEPULVEDA MEJIA FABIO,./0.png
+"346","302",San Antonio,"31993",Otro,Micromedidor,Volumétrico,0.5,,"10002180","716198",1041,,CIRO ALFONSO SERNA M. Y/O MARIA C. SERNA,./0.png
+"347","304",San Antonio,"19019",Otro,Micromedidor,Volumétrico,0.5,,"10002150","87619",1041,,BERMUDEZ MARLENY,./0.png
+"348","305",San Antonio,"362",Otro,Micromedidor,Volumétrico,0.5,,"10001610","19763",1039,,BERMUDEZ LOPEZ MARLENY,./0.png
+"349","306",San Antonio,"9022",Otro,Micromedidor,Volumétrico,0.5,,"10001645","5865",1037,,ACEVEDO AMANDA BALBINA,./0.png
+"350","308",San Antonio,"287",Otro,Micromedidor,Volumétrico,0.5,,"10001640","183727",1038,,ANTIA ARROYAVE ALONSO Y OTROS,./0.png
+"351","309",San Antonio,"0266474",Metrex,Micromedidor,De Velocidad,0.5,,"10001650","187276",1039,,SANCHEZ SANCHEZ OLGA MARIA,./0.png
+"352","310",San Antonio,"265361",Otro,Micromedidor,Volumétrico,0.5,,"10001560","817617",1036,,PINEDA JOSE FERNANDO Y OTRO,./0.png
+"353","312",San Antonio,"39750",Otro,Micromedidor,Volumétrico,0.5,,"10001680","0877",1041,,CASTILLO GERMAN,./0.png
+"354","313",San Antonio,"40421",Otro,Micromedidor,Volumétrico,0.5,,"10001690","87382",1041,Viene lim 3/4,PINILLA ROMERO HERNANDO,./0.png
+"355","314",San Antonio,"58770",Otro,Micromedidor,Volumétrico,0.5,,"10001700","83728",1041,,ESCOBAR HOYOS CECILIA,./0.png
+"356","315",San Antonio,"40403",Otro,Micromedidor,Volumétrico,0.5,,"10001710","938282",1041,,HOYOS LOPEZ FABIO ALONSO,./0.png
+"357","316",San Antonio,"14071",Otro,Micromedidor,Volumétrico,0.5,,"10001480","6764",1046,,CARVAJAL SANDRA XIMENA,./0.png
+"358","317",San Antonio,"30514",Otro,Micromedidor,Volumétrico,0.5,,"10001730","92829",1046,,SANCHEZ ARANGO OLGA LUCIA,./0.png
+"359","318",San Antonio,"30510",Otro,Micromedidor,Volumétrico,0.5,,"10001740","8282",1041,,COLORADO CORTES JHON JAIRO,./0.png
+"360","319",San Antonio,"14069",Otro,Micromedidor,Volumétrico,0.5,,"10001750","93829",1042,,OLGA LUCIA BUSTAMANTE / JOSE HOOVER NARANJO,./0.png
+"361","320",San Antonio,ND012,Otro,Micromedidor,Volumétrico,0.5,,"10002380","93782",1041,,RUIZ CAMARGO CLARA LIGIA,./0.png
+"362","303",San Antonio,"0266482",Otro,Micromedidor,Volumétrico,0.5,,"10002140","5754",1042,,BERMUDEZ MARLENY,./0.png
+"363","307",San Antonio,"0266476",Otro,Micromedidor,Volumétrico,0.5,,"10001630","677",1037,,VELEZ TREJOS PEDRO YESID,./0.png
+"364","311",San Antonio,"0266484",Water meter,Micromedidor,Volumétrico,0.5,,"10001670","716382",1041,,SERNA ARSENIO SUCESORES,./0.png
+"365","347",San Antonio,"0266486",Metrex,Micromedidor,De Velocidad,0.5,,"10000338",,1038,,GOMEZ GOMEZ JOSE LUIS,./0.png
+"366","370",San Antonio,"16000788",Water meter,Micromedidor,Volumétrico,0.5,,"10000479",,1018,,MARIN VARGAS CLEMENCIA URREGO BARRERA ALBEIRO,./0.png
+"367","375",San Antonio,"16000796",Water meter,Micromedidor,Volumétrico,0.5,,"10000526",,1032,,MUÑOZ HOYOS JULIAN,./0.png
+"368","377",San Antonio,"16000798",Water meter,Micromedidor,Volumétrico,0.5,,"10000460",,1014,,MEJIA MARIA DEL SOCORRO,./0.png
+"369","382",San Antonio,"16000823",Water meter,Micromedidor,Volumétrico,0.5,,"10000400",,1033,,PERALTA HECTOR F. PERALTA LUZ ELENA,./0.png
+"370","383",San Antonio,"16000794",Water meter,Micromedidor,Volumétrico,0.5,,"10000410",,1030,,ESCOBAR OSORIO KATHERINE ANDREA,./0.png
+"371","384",San Antonio,"16000793",Water meter,Micromedidor,Volumétrico,0.5,,"10000420",,1028,,OROZCO GRISALES HOOVER,./0.png
+"372","385",San Antonio,"16000795",Water meter,Micromedidor,Volumétrico,0.5,,"10000430",,1028,,OCAMPO LOPEZ SOCORRO,./0.png
+"373","376",San Antonio,"103",Otro,Micromedidor,Volumétrico,0.5,,"10000465",,1014,,CARDONA DUQUE WILLIAM,./0.png
+"374","378",San Antonio,"32108",Otro,Micromedidor,Volumétrico,0.5,,"10000390",,1030,,ECHEVERRY DE CHAVEZ LIBIA,./0.png
+"375","380",San Antonio,"456912",Otro,Micromedidor,Volumétrico,0.5,,"10000440",,1034,,BOTERO MAURICIO,./0.png
+"376","381",San Antonio,"31928",Otro,Micromedidor,Volumétrico,0.5,,"10000380",,1034,,CONJ. CONDOMINIO LA PAZ,./0.png
+"377","379",San Antonio,"290",Otro,Micromedidor,Volumétrico,0.5,,"10000385",,1030,,GOMEZ CESAR AGUSTO PRESBITERO,./0.png
+"378","386",San Antonio,"0266495",Otro,Micromedidor,Volumétrico,0.5,,"10000565",,1047,,EL SOLARIO,./0.png

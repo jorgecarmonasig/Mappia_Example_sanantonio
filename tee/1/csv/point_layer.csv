@@ -1,0 +1,259 @@
+qc_id,gid,tipoinfra,acueducto,caracter,estainf,adecuacion,tipo_adec,calidad,image,observ,cota,material_f,fecha_ins,funcion_ti,diam_pulg,diam_pg_sa,diam_pg__1,coord_este,coord_nort,icon_url
+"0","477",TEE,San Antonio,Derivación,Existente,No,Ninguna,Bueno,,,1036,PVC,,Derivación,0.75,0.75,0.5,822269.12,1054102.72,./0.png
+"1","481",TEE,San Antonio,Derivación,Existente,No,Ninguna,Bueno,,,1007,PVC,,Derivación,1,1,0.5,823503.99,1053914.31,./0.png
+"2","78",TEE,San Antonio,"Tee 2""",Existente,No,Ninguna,Bueno,D:\SIGCIVIL\PROYECTOS\sig_sanantonio\QGS\DCIM\infraestructura-puntos_20210312120714892.jpg,,1029,PVC,,Derivación,2,2,1,821932.63,1054809.59,./0.png
+"3","80",TEE,San Antonio,Tee,Existente,No,Ninguna,Bueno,,"Cierra anillo linea de 3"" desde planta",1036,PVC,,Derivación,1.5,1.25,1.28,821173.94,1053864.3,./0.png
+"4","89",TEE,San Antonio,"Tee de 3""",Existente,No,Ninguna,Bueno,,,1053,PVC,,Derivación,3,3,,821268.95,1053016.67,./0.png
+"5","104",TEE,San Antonio,"Tee 1""",Existente,No,Ninguna,Bueno,,Acometida,1022,PVC,,Otro,1,1,0.5,822434.94,1055397.83,./0.png
+"6","117",TEE,San Antonio,"Tee 1/2""",Existente,No,Ninguna,Bueno,,Acometida,971,PVC,,Derivación,0.5,0.5,0.5,823839,1053874.15,./0.png
+"7","132",TEE,San Antonio,Tee,Existente,No,Ninguna,Bueno,,,1108,PVC,,Derivación,1.5,1.5,0.5,820899.74,1052501.83,./0.png
+"8","31",TEE,San Antonio,"Tee con reducción  a 3""",Existente,No,Ninguna,Bueno,,,1104,PVC,,Derivación,6,,,820789.49,1052720.87,./0.png
+"9","198",TEE,San Antonio,Derivación,Existente,No,Ninguna,Bueno,,,1031,PVC,,Derivación,1.5,1.5,0.5,821592.1,1054603.01,./0.png
+"10","199",TEE,San Antonio,Derivación,Existente,No,Ninguna,Bueno,,,1034,PVC,,Derivación,1.5,1.5,0.5,821592.1,1054603.01,./0.png
+"11","34",TEE,San Antonio,Tee condominio brisas,Existente,No,Ninguna,Bueno,D:\SIGCIVIL\PROYECTOS\sig_sanantonio\QGS\DCIM\infraestructura-puntos_20210305094525957.jpg,"Derivacion condominio brisas de 6"" a 3""",1058,PVC,,Derivación,6,,,821283.85,1052971.18,./0.png
+"12","38",TEE,San Antonio,Tee condominio villas del café,Existente,No,Ninguna,Bueno,D:\SIGCIVIL\PROYECTOS\sig_sanantonio\QGS\DCIM\infraestructura-puntos_20210305102143102.jpg,"De 4""",1046,PVC,,Derivación,4,,,821887.25,1053861.7,./0.png
+"13","44",TEE,San Antonio,"Tee 3"" a 2""",Existente,No,Ninguna,Bueno,D:\SIGCIVIL\PROYECTOS\sig_sanantonio\QGS\DCIM\infraestructura-puntos_20210305110819519.jpg,"Entra en 3"" y sale en 2"" tanto la principal como la derivación",1032,PVC,,Derivación,3,2,2,821690.61,1054574.19,./0.png
+"14","45",TEE,San Antonio,Tee 2 condominio Sierra Verde,Existente,No,Ninguna,Bueno,D:\SIGCIVIL\PROYECTOS\sig_sanantonio\QGS\DCIM\infraestructura-puntos_20210305111245154.jpg,"Entra en 2"", derivación  en 1 1/2"" y continúa en 2""",1031,PVC,,Conduce agua potable,2,2,1.2,821620.96,1054616.12,./0.png
+"15","46",TEE,San Antonio,"Tee 2"" cierre anillo",Existente,No,Ninguna,Bueno,D:\SIGCIVIL\PROYECTOS\sig_sanantonio\QGS\DCIM\infraestructura-puntos_20210305111928747.jpg,"Tee de 2"" recibe el anillo que inició con la tee de 4"" junto a la Válvula dañada",1033,PVC,,Derivación,2,2,2,821531.02,1054701.84,./0.png
+"16","57",TEE,San Antonio,"Tee 4"" galvanizada",Existente,No,Ninguna,Bueno,,Derivación de para la Válvula de purga,1039,Galvanizado,,Derivación,4,4,4,821651.9,1054158.5,./0.png
+"17","62",TEE,San Antonio,"Tee union lineas 3/4""",Existente,No,Ninguna,Bueno,,Dos tee,1043,PVC,,Derivación,0.75,0.75,1,821774.97,1053853.86,./0.png
+"18","63",TEE,San Antonio,Tee,Existente,No,Ninguna,Bueno,D:\SIGCIVIL\PROYECTOS\sig_sanantonio\QGS\DCIM\infraestructura-puntos_20210309111254535.jpg,"Tee que une con la linea de 1""",1047,PVC,,Derivación,1.25,1.25,1,821609.5,1053866.3,./0.png
+"19","64",TEE,San Antonio,Tee recibe derivación,Existente,No,Ninguna,Bueno,D:\SIGCIVIL\PROYECTOS\sig_sanantonio\QGS\DCIM\infraestructura-puntos_20210309111557607.jpg,"Recibe derivación de la linea de 1 1/4""",1047,PVC,,Derivación,1,1,1,821610.6,1053842.23,./0.png
+"20","70",TEE,San Antonio,"Tee 4""",Existente,No,Ninguna,Bueno,D:\SIGCIVIL\PROYECTOS\sig_sanantonio\QGS\DCIM\infraestructura-puntos_20210312110147025.jpg,"Reduce a 3"" en las dos salidas",1036,PVC,,Derivación,4,3,3,822160.14,1054313.7,./0.png
+"21","72",TEE,San Antonio,Tee,Existente,No,Ninguna,Bueno,D:\SIGCIVIL\PROYECTOS\sig_sanantonio\QGS\DCIM\infraestructura-puntos_20210312111104123.jpg,,1033,PVC,,Derivación,2,2,2,821969.48,1054730.83,./0.png
+"22","77",TEE,San Antonio,"Tee 1""",Existente,No,Ninguna,Bueno,,Cierra el anillo desde los collarines,1018,PVC,,Derivación,1,1,0.75,821847.81,1054648.21,./0.png
+"23","82",TEE,San Antonio,"Tee 2""",Existente,No,Ninguna,Bueno,D:\SIGCIVIL\PROYECTOS\sig_sanantonio\QGS\DCIM\infraestructura-puntos_20210312144305700.jpg,,1048,PVC,,Derivación,2,2,2,820824.24,1053740.35,./0.png
+"24","83",TEE,San Antonio,"Tee 3""",Existente,No,Ninguna,Bueno,D:\SIGCIVIL\PROYECTOS\sig_sanantonio\QGS\DCIM\infraestructura-puntos_20210312144711085.jpg,,1053,PVC,,Derivación,3,3,1.5,820766.44,1053695.26,./0.png
+"25","87",TEE,San Antonio,"Tee 3""",Existente,No,Ninguna,Bueno,,,1108,PVC,,Derivación,3,3,2,820712.33,1052781.17,./0.png
+"26","90",TEE,San Antonio,"Tee de 3""",Existente,No,Ninguna,Bueno,D:\SIGCIVIL\PROYECTOS\sig_sanantonio\QGS\DCIM\infraestructura-puntos_20210316111004677.jpg,,1056,PVC,,Derivación,3,3,0.5,821231.82,1053065.37,./0.png
+"27","91",TEE,San Antonio,"Tee 3""",Existente,No,Ninguna,Bueno,D:\SIGCIVIL\PROYECTOS\sig_sanantonio\QGS\DCIM\infraestructura-puntos_20210316112555258.jpg,Cruce de Vía,1064,PVC,,Derivación,3,3,3,820959.31,1053102.55,./0.png
+"28","92",TEE,San Antonio,"Tee 3""",Existente,No,Ninguna,Bueno,,,1068,PVC,,Derivación,3,3,3,821091.27,1052955.66,./0.png
+"29","93",TEE,San Antonio,"Tee 2""",Existente,No,Ninguna,Bueno,D:\SIGCIVIL\PROYECTOS\sig_sanantonio\QGS\DCIM\infraestructura-puntos_20210316133558897.jpg,,1049,PVC,,Derivación,2,2,2,821008.55,1053326.54,./0.png
+"30","95",TEE,San Antonio,"Tee 2""",Existente,No,Ninguna,Bueno,,,1044,PVC,,Derivación,2,,,820999.42,1053280.1,./0.png
+"31","96",TEE,San Antonio,"Tee 2""",Existente,No,Ninguna,Bueno,,,1043,PVC,,Derivación,2,2,2,820995.5,1053261.02,./0.png
+"32","97",TEE,San Antonio,Tee 1 1/2,Existente,No,Ninguna,Bueno,D:\SIGCIVIL\PROYECTOS\sig_sanantonio\QGS\DCIM\infraestructura-puntos_20210316154525661.jpg,,1044,PVC,,Derivación,1.5,1.5,0.5,819999.27,1053837.04,./0.png
+"33","98",TEE,San Antonio,"Tee 1""",Existente,No,Ninguna,Bueno,D:\SIGCIVIL\PROYECTOS\sig_sanantonio\QGS\DCIM\infraestructura-puntos_20210316155036848.jpg,"Tee con tapon de 3/4""",1044,PVC,,Derivación,1,1,0.75,819939.98,1053917.9,./0.png
+"34","99",TEE,San Antonio,"Tee 3/4""",Existente,No,Ninguna,Bueno,,,1049,PVC,,Derivación,0.75,0.75,0.5,819825.99,1053929.99,./0.png
+"35","102",TEE,San Antonio,"Tee 2""",Existente,No,Ninguna,Bueno,D:\SIGCIVIL\PROYECTOS\sig_sanantonio\QGS\DCIM\infraestructura-puntos_20210318102255376.jpg,,1040,PVC,,Derivación,2,2,0.75,822253.24,1054914.77,./0.png
+"36","103",TEE,San Antonio,Tee 3/4,Existente,No,Ninguna,Bueno,D:\SIGCIVIL\PROYECTOS\sig_sanantonio\QGS\DCIM\infraestructura-puntos_20210318102845231.jpg,,1042,PVC,,Derivación,0.75,0.5,0.75,822339.3,1054940.01,./0.png
+"37","105",TEE,San Antonio,"Tee""",Existente,No,Ninguna,Bueno,,,1036,PVC,,Derivación,3,3,1.5,822279.33,1054102.11,./0.png
+"38","108",TEE,San Antonio,"Tee 3""",Existente,No,Ninguna,Bueno,D:\SIGCIVIL\PROYECTOS\sig_sanantonio\QGS\DCIM\infraestructura-puntos_20210318120543750.jpg,,1042,PVC,,Derivación,3,3,1.5,822386.39,1054136.37,./0.png
+"39","115",TEE,San Antonio,Tee,Existente,No,Ninguna,Bueno,,Subasta ganadera,1037,PVC,,Derivación,1.5,1.5,0.5,822644.07,1053723.5,./0.png
+"40","116",TEE,San Antonio,"Tee 1 1/2""",Existente,No,Ninguna,Bueno,D:\SIGCIVIL\PROYECTOS\sig_sanantonio\QGS\DCIM\infraestructura-puntos_20210319084105034.jpg,,1016,PVC,,Derivación,1.5,1.5,1,823382.22,1053873.61,./0.png
+"41","118",TEE,San Antonio,"Tee 2""",Existente,No,Ninguna,Bueno,,Acometida,1036,PVC,,Derivación,2,2,0.5,822138.85,1054875.04,./0.png
+"42","119",TEE,San Antonio,"Tee 3""",Existente,No,Ninguna,Bueno,D:\SIGCIVIL\PROYECTOS\sig_sanantonio\QGS\DCIM\infraestructura-puntos_20210319114250191.jpg,,1077,PVC,,Derivación,3,3,1.5,820272.72,1053145.15,./0.png
+"43","120",TEE,San Antonio,"Tee 3""",Existente,No,Ninguna,Bueno,,,1083,PVC,,Derivación,3,3,1.5,821232.64,1056245.34,./0.png
+"44","121",TEE,San Antonio,"Tee 1""",Existente,No,Ninguna,Bueno,D:\SIGCIVIL\PROYECTOS\sig_sanantonio\QGS\DCIM\infraestructura-puntos_20210319143550827.jpg,,1051,PVC,,Derivación,1,1,0.75,821622.78,1056401.35,./0.png
+"45","125",TEE,San Antonio,Tee 1 1/2,Existente,No,Ninguna,Bueno,,,1062,PVC,,Derivación,1.5,1.5,0.75,821222.73,1057239.74,./0.png
+"46","126",TEE,San Antonio,"Tee 1 1/2""",Existente,No,Ninguna,Bueno,,Acometida,1039,PVC,,Otro,1.5,1.5,0.5,822644,1053725.58,./0.png
+"47","127",TEE,San Antonio,"TEE 1/2""",Existente,No,Ninguna,Bueno,,Acometida,1039,PVC,,Otro,0.5,0.5,0.5,821175.29,1057507.38,./0.png
+"48","130",TEE,San Antonio,Collarín,Existente,No,Ninguna,Bueno,,,1057,PVC,,Derivación,1,1,0.5,821601.61,1056503.03,./0.png
+"49","131",TEE,San Antonio,Tee,Existente,No,Ninguna,Bueno,,,1050,PVC,,Derivación,1.5,1.5,1.5,821350.44,1052755.62,./0.png
+"50","133",TEE,San Antonio,Tee,Existente,No,Ninguna,Bueno,D:\SIGCIVIL\PROYECTOS\sig_sanantonio\QGS\DCIM\infraestructura-puntos_20210330112636091.jpg,,1045,PVC,,Derivación,0.75,0.75,0.5,821215.86,1053420.81,./0.png
+"51","136",TEE,San Antonio,Tee 3/4,Existente,No,Ninguna,Bueno,,,1026,PVC,,Derivación,0.75,0.5,0.5,821568.74,1055970.43,./0.png
+"52","137",TEE,San Antonio,Tee 1/2,Existente,No,Ninguna,Bueno,,,1025,PVC,,Derivación,0.5,0.5,0.5,821597.3,1055951.45,./0.png
+"53","138",TEE,San Antonio,Derivación,Existente,No,Ninguna,Bueno,,,1048,PVC,,Derivación,0.5,0.5,0.5,821790.73,1053799.39,./0.png
+"54","140",TEE,San Antonio,Derivación TEE,Existente,No,Ninguna,Bueno,,,1043,PVC,,Derivación,1,1,0.5,821733.8,1053854.48,./0.png
+"55","141",TEE,San Antonio,Derivación,Existente,No,Ninguna,Bueno,,,1045,PVC,,Conduce agua potable,1,1,0.5,821694.33,1053853.22,./0.png
+"56","142",TEE,San Antonio,Derivación,Existente,No,Ninguna,Bueno,,,1047,PVC,,Conduce agua potable,1,1,0.5,821642.46,1053852.46,./0.png
+"57","143",TEE,San Antonio,Derivación,Existente,No,Ninguna,Bueno,,,1045,PVC,,Conduce agua potable,1,1,0.5,821583.22,1053852.32,./0.png
+"58","144",TEE,San Antonio,Derivación,Existente,No,Ninguna,Bueno,,,1048,PVC,,Derivación,0.75,0.75,0.5,821562.55,1053778.17,./0.png
+"59","145",TEE,San Antonio,Derivación,Existente,No,Ninguna,Bueno,,,1048,PVC,,Derivación,0.75,0.75,0.5,821561.81,1053774.88,./0.png
+"60","146",TEE,San Antonio,Derivación,Existente,No,Ninguna,Bueno,,,1043,PVC,,Derivación,0.75,0.75,0.5,821519.61,1053773.35,./0.png
+"61","147",TEE,San Antonio,Derivación,Existente,No,Ninguna,Bueno,,,1040,PVC,,Derivación,0.75,0.75,0.5,821513.07,1053773.2,./0.png
+"62","148",TEE,San Antonio,Derivación,Existente,No,Ninguna,Bueno,,,1040,PVC,,Derivación,0.75,0.75,0.5,821462.99,1053710.11,./0.png
+"63","149",TEE,San Antonio,Derivación,Existente,No,Ninguna,Bueno,,,1039,PVC,,Derivación,0.75,0.75,0.5,821461.74,1053693.44,./0.png
+"64","155",TEE,San Antonio,Derivación,Existente,No,Ninguna,Bueno,,,1069,PVC,,Derivación,1.5,1,0.5,821517.29,1056343.91,./0.png
+"65","156",TEE,San Antonio,Derivación,Existente,No,Ninguna,Bueno,,,1056,PVC,,Derivación,1,1,0.5,821574.03,1056373.75,./0.png
+"66","157",TEE,San Antonio,Derivación,Existente,No,Ninguna,Bueno,,,1066,PVC,,Derivación,1.5,1.5,0.5,821443.05,1056237.8,./0.png
+"67","158",TEE,San Antonio,Derivación,Existente,No,Ninguna,Bueno,,,1067,PVC,,Derivación,1.5,1.5,0.5,821500.45,1056276.49,./0.png
+"68","197",TEE,San Antonio,Derivación,Existente,No,Ninguna,Bueno,,,1033,PVC,,Derivación,1.5,1.5,0.5,821592.1,1054603.01,./0.png
+"69","200",TEE,San Antonio,Derivación,Existente,No,Ninguna,Bueno,,,1035,PVC,,Derivación,1.5,1.5,0.5,821592.1,1054603.01,./0.png
+"70","212",TEE,San Antonio,Derivación,Existente,No,Ninguna,Bueno,,,1034,PVC,,Derivación,0.5,0.5,0.5,821489.48,1054411.57,./0.png
+"71","214",TEE,San Antonio,Derivación,Existente,No,Ninguna,Bueno,,,1025,PVC,,Derivación,0.5,0.5,0.5,821489.48,1054411.57,./0.png
+"72","215",TEE,San Antonio,Derivación,Existente,No,Ninguna,Bueno,,,1040,PVC,,Derivación,0.75,0.75,0.5,821376.89,1054229.25,./0.png
+"73","217",TEE,San Antonio,Derivación,Existente,No,Ninguna,Bueno,,,1043,PVC,,Derivación,0.75,0.75,0.5,821376.89,1054229.25,./0.png
+"74","219",TEE,San Antonio,Derivación,Existente,No,Ninguna,Bueno,,,1040,PVC,,Derivación,0.5,0.5,0.5,821593.28,1054131.94,./0.png
+"75","220",TEE,San Antonio,Derivación,Existente,No,Ninguna,Bueno,,,1042,PVC,,Derivación,0.75,0.75,0.5,821216.84,1054301.45,./0.png
+"76","221",TEE,San Antonio,Derivación,Existente,No,Ninguna,Bueno,,,1039,PVC,,Derivación,1,1,0.5,821216.84,1054301.45,./0.png
+"77","222",TEE,San Antonio,Derivación,Existente,No,Ninguna,Bueno,,,1065,PVC,,Derivación,1.25,1.25,0.5,820949.21,1054283.19,./0.png
+"78","223",TEE,San Antonio,Derivación,Existente,No,Ninguna,Bueno,,,1053,PVC,,Derivación,1.5,1.5,0.5,820897.62,1053745.85,./0.png
+"79","224",TEE,San Antonio,Derivación,Existente,No,Ninguna,Bueno,,,1052,PVC,,Derivación,2,2,0.5,820897.62,1053745.85,./0.png
+"80","225",TEE,San Antonio,Derivación,Existente,No,Ninguna,Bueno,,,1054,PVC,,Derivación,1.5,1.5,0.5,820897.62,1053745.85,./0.png
+"81","226",TEE,San Antonio,Derivación,Existente,No,Ninguna,Bueno,,,1074,PVC,,Derivación,2,0.5,0.5,820876.45,1053929.58,./0.png
+"82","227",TEE,San Antonio,Derivación,Existente,No,Ninguna,Bueno,,,1049,PVC,,Derivación,1.5,1.5,0.5,821355.15,1052761.2,./0.png
+"83","228",TEE,San Antonio,Derivación,Existente,No,Ninguna,Bueno,,,1048,PVC,,Derivación,1.5,1.5,0.5,821355.15,1052761.2,./0.png
+"84","229",TEE,San Antonio,Derivación,Existente,No,Ninguna,Bueno,,,1048,PVC,,Derivación,1.5,1.5,0.5,821355.15,1052761.2,./0.png
+"85","230",TEE,San Antonio,Derivación,Existente,No,Ninguna,Bueno,,,1047,PVC,,Derivación,1.5,1.5,0.5,821355.15,1052761.2,./0.png
+"86","231",TEE,San Antonio,Derivación,Existente,No,Ninguna,Bueno,,,1047,PVC,,Derivación,1.5,1.5,0.5,821355.15,1052761.2,./0.png
+"87","232",TEE,San Antonio,Derivación,Existente,No,Ninguna,Bueno,,,1047,PVC,,Derivación,1.5,1.5,0.5,821355.15,1052761.2,./0.png
+"88","233",TEE,San Antonio,Derivación,Existente,No,Ninguna,Bueno,,,1050,PVC,,Derivación,1.5,1.5,0.5,821355.15,1052761.2,./0.png
+"89","234",TEE,San Antonio,Derivación,Existente,No,Ninguna,Bueno,,,1052,PVC,,Derivación,1.5,1.5,0.5,821355.15,1052761.2,./0.png
+"90","235",TEE,San Antonio,Derivación,Existente,No,Ninguna,Bueno,,,1063,PVC,,Derivación,1.5,1.5,0.5,821355.15,1052761.2,./0.png
+"91","236",TEE,San Antonio,Derivación,Existente,No,Ninguna,Bueno,,,1049,PVC,,Derivación,1.5,1.5,0.5,821355.15,1052761.2,./0.png
+"92","237",TEE,San Antonio,Derivación,Existente,No,Ninguna,Bueno,,,1052,PVC,,Derivación,1.5,1.5,0.5,821355.15,1052761.2,./0.png
+"93","238",TEE,San Antonio,Derivación,Existente,No,Ninguna,Bueno,,,1088,PVC,,Derivación,0.75,0.75,0.5,820887.7,1052553.71,./0.png
+"94","239",TEE,San Antonio,Derivación,Existente,No,Ninguna,Bueno,,,1083,PVC,,Derivación,0.75,0.75,0.5,820887.7,1052553.71,./0.png
+"95","240",TEE,San Antonio,Derivación,Existente,No,Ninguna,Bueno,,,1107,PVC,,Derivación,0.75,0.75,0.5,820887.7,1052553.71,./0.png
+"96","249",TEE,San Antonio,Derivación,Existente,No,Ninguna,Bueno,,,1051,PVC,,Derivación,2,2,0.5,820990.21,1053244.67,./0.png
+"97","250",TEE,San Antonio,Derivación,Existente,No,Ninguna,Bueno,,,1042,PVC,,Derivación,2,2,0.5,820990.21,1053244.67,./0.png
+"98","251",TEE,San Antonio,Derivación,Existente,No,Ninguna,Bueno,,,1042,PVC,,Derivación,2,2,0.5,820990.21,1053244.67,./0.png
+"99","252",TEE,San Antonio,Derivación,Existente,No,Ninguna,Bueno,,,1043,PVC,,Derivación,2,2,0.5,820990.21,1053244.67,./0.png
+"100","254",TEE,San Antonio,Derivación,Existente,No,Ninguna,Bueno,,,1041,PVC,,Derivación,2,2,0.5,820990.21,1053244.67,./0.png
+"101","255",TEE,San Antonio,Derivación,Existente,No,Ninguna,Bueno,,,1044,PVC,,Derivación,2,2,0.5,820990.21,1053244.67,./0.png
+"102","256",TEE,San Antonio,Derivación,Existente,No,Ninguna,Bueno,,,1048,PVC,,Derivación,0.75,0.75,0.5,820990.21,1053244.67,./0.png
+"103","257",TEE,San Antonio,Derivación,Existente,No,Ninguna,Bueno,,,1051,PVC,,Derivación,2,2,0.5,820990.21,1053244.67,./0.png
+"104","259",TEE,San Antonio,Derivación,Existente,No,Ninguna,Bueno,,,1050,PVC,,Derivación,2,2,0.5,820990.21,1053244.67,./0.png
+"105","260",TEE,San Antonio,Derivación,Existente,No,Ninguna,Bueno,,,1045,PVC,,Derivación,1,1,0.5,820990.21,1053244.67,./0.png
+"106","261",TEE,San Antonio,Derivación,Existente,No,Ninguna,Bueno,,,1050,PVC,,Derivación,0.75,0.75,0.5,820990.21,1053244.67,./0.png
+"107","262",TEE,San Antonio,Derivación,Existente,No,Ninguna,Bueno,,,1046,PVC,,Derivación,2,2,0.5,820990.21,1053244.67,./0.png
+"108","263",TEE,San Antonio,Derivación,Existente,No,Ninguna,Bueno,,,1082,PVC,,Derivación,1.5,1.5,0.5,820281.93,1053147.44,./0.png
+"109","265",TEE,San Antonio,Derivación,Existente,No,Ninguna,Bueno,,,1078,PVC,,Derivación,0.5,0.5,0.5,820281.93,1053147.44,./0.png
+"110","269",TEE,San Antonio,Tee,Existente,No,Ninguna,Bueno,,,1067,PVC,,Derivación,0.5,0.5,0.5,820971.01,1053021.65,./0.png
+"111","270",TEE,San Antonio,Tee,Existente,No,Ninguna,Bueno,,,1049,PVC,,Derivación,,,,821575.32,1053727.01,./0.png
+"112","272",TEE,San Antonio,Tee,Existente,No,Ninguna,Bueno,,,1046,PVC,,Derivación,0.5,0.5,0.5,821591.61,1054094.22,./0.png
+"113","273",TEE,San Antonio,Tee,Existente,No,Ninguna,Bueno,,,1046,PVC,,Derivación,0.5,0.5,0.5,821641.11,1053774.37,./0.png
+"114","274",TEE,San Antonio,Tee,Existente,No,Ninguna,Bueno,,,1045,PVC,,Derivación,1,1,0.5,821690.62,1053853.1,./0.png
+"115","279",TEE,San Antonio,Tee,Existente,No,Ninguna,Bueno,,,1033,PVC,,Derivación,,,,821342.29,1054748.03,./0.png
+"116","280",TEE,San Antonio,Tee,Existente,No,Ninguna,Bueno,,,1033,PVC,,Derivación,,,,821341.71,1054747.97,./0.png
+"117","285",TEE,San Antonio,Tee,Existente,No,Ninguna,Bueno,,,1042,PVC,,Derivación,0.75,0.75,0.5,822340.61,1054934.13,./0.png
+"118","286",TEE,San Antonio,Tee,Existente,No,Ninguna,Bueno,,,1044,PVC,,Derivación,0.75,0.75,0.5,821889.76,1053971.2,./0.png
+"119","287",TEE,San Antonio,Tee,Existente,No,Ninguna,Bueno,,,1042,PVC,,Derivación,0.75,0.75,0.5,821951.39,1053941.21,./0.png
+"120","288",TEE,San Antonio,Tee,Existente,No,Ninguna,Bueno,,,1042,PVC,,Derivación,0.75,0.75,0.5,821956.9,1053936.3,./0.png
+"121","289",TEE,San Antonio,Tee,Existente,No,Ninguna,Bueno,,,1042,PVC,,Derivación,0.75,0.75,0.5,821962.74,1053929.34,./0.png
+"122","290",TEE,San Antonio,Tee,Existente,No,Ninguna,Bueno,,,1042,PVC,,Derivación,0.75,0.75,0.5,821970.59,1053920.58,./0.png
+"123","291",TEE,San Antonio,Tee,Existente,No,Ninguna,Bueno,,,1043,PVC,,Derivación,0.75,0.75,0.5,821974.41,1053914.07,./0.png
+"124","292",TEE,San Antonio,Tee,Existente,No,Ninguna,Bueno,,,1043,PVC,,Derivación,0.75,0.75,0.5,821978.9,1053905.09,./0.png
+"125","293",TEE,San Antonio,Tee,Existente,No,Ninguna,Bueno,,,1043,PVC,,Derivación,0.75,0.75,0.5,821981.15,1053895.44,./0.png
+"126","294",TEE,San Antonio,Tee,Existente,No,Ninguna,Bueno,,,1044,PVC,,Derivación,0.75,0.75,0.5,821981.82,1053884.66,./0.png
+"127","295",TEE,San Antonio,Tee,Existente,No,Ninguna,Bueno,,,1044,PVC,,Derivación,0.75,0.75,0.5,821981.59,1053877.71,./0.png
+"128","296",TEE,San Antonio,Tee,Existente,No,Ninguna,Bueno,,,1044,PVC,,Derivación,0.75,0.75,0.5,821962.51,1053875.68,./0.png
+"129","297",TEE,San Antonio,Tee,Existente,No,Ninguna,Bueno,,,1044,PVC,,Derivación,0.75,0.75,0.5,821962.96,1053882.87,./0.png
+"130","298",TEE,San Antonio,Tee,Existente,No,Ninguna,Bueno,,,1044,PVC,,Derivación,0.75,0.75,0.5,821963.41,1053888.7,./0.png
+"131","299",TEE,San Antonio,Tee,Existente,No,Ninguna,Bueno,,,1044,PVC,,Derivación,0.75,0.75,0.5,821962.29,1053896.56,./0.png
+"132","300",TEE,San Antonio,Tee,Existente,No,Ninguna,Bueno,,,1044,PVC,,Derivación,0.75,0.75,0.5,821950.17,1053904.64,./0.png
+"133","301",TEE,San Antonio,Tee,Existente,No,Ninguna,Bueno,,,1043,PVC,,Derivación,0.75,0.75,0.5,821956.23,1053913.17,./0.png
+"134","302",TEE,San Antonio,Tee,Existente,No,Ninguna,Bueno,,,1042,PVC,,Derivación,0.75,0.75,0.5,822552.97,1053980.82,./0.png
+"135","303",TEE,San Antonio,Tee,Existente,No,Ninguna,Bueno,,,1041,PVC,,Derivación,0.75,0.75,0.5,822403.55,1054363.13,./0.png
+"136","304",TEE,San Antonio,Tee,Existente,No,Ninguna,Bueno,,,1046,PVC,,Derivación,0.75,0.75,0.5,822388.25,1054442.99,./0.png
+"137","305",TEE,San Antonio,Tee,Existente,No,Ninguna,Bueno,,,1046,PVC,,Derivación,0.75,0.75,0.5,822391.82,1054444.07,./0.png
+"138","306",TEE,San Antonio,Tee,Existente,No,Ninguna,Bueno,,,1041,PVC,,Derivación,0.75,0.75,0.5,822366.86,1054524.39,./0.png
+"139","307",TEE,San Antonio,Tee,Existente,No,Ninguna,Bueno,,,1041,PVC,,Derivación,0.75,0.75,0.5,822318.1,1054588.85,./0.png
+"140","308",TEE,San Antonio,Tee,Existente,No,Ninguna,Bueno,,,1041,PVC,,Derivación,0.75,0.75,0.5,822300.02,1054582.2,./0.png
+"141","309",TEE,San Antonio,Tee,Existente,No,Ninguna,Bueno,,,1042,PVC,,Derivación,0.75,0.75,0.5,822294.46,1054580.11,./0.png
+"142","310",TEE,San Antonio,Tee,Existente,No,Ninguna,Bueno,,,1041,PVC,,Derivación,0.75,0.75,0.5,822288.8,1054662.19,./0.png
+"143","311",TEE,San Antonio,Tee,Existente,No,Ninguna,Bueno,,,1039,PVC,,Derivación,0.75,0.75,0.5,822274.84,1054742.23,./0.png
+"144","312",TEE,San Antonio,Tee,Existente,No,Ninguna,Bueno,,,1042,PVC,,Derivación,0.75,0.75,0.5,822334.07,1054865.65,./0.png
+"145","313",TEE,San Antonio,Tee,Existente,No,Ninguna,Bueno,,,1041,PVC,,Derivación,0.75,0.75,0.5,822326.2,1054736.5,./0.png
+"146","314",TEE,San Antonio,Tee,Existente,No,Ninguna,Bueno,,,1041,PVC,,Derivación,0.75,0.75,0.5,822328.1,1054731.27,./0.png
+"147","315",TEE,San Antonio,Tee,Existente,No,Ninguna,Bueno,,,1041,PVC,,Derivación,0.75,0.75,0.5,822361.15,1054742.07,./0.png
+"148","316",TEE,San Antonio,Tee,Existente,No,Ninguna,Bueno,,,1041,PVC,,Derivación,0.75,0.75,0.5,822394.6,1054751.05,./0.png
+"149","317",TEE,San Antonio,Tee,Existente,No,Ninguna,Bueno,,,1041,PVC,,Derivación,0.75,0.75,0.5,822391.47,1054757.98,./0.png
+"150","318",TEE,San Antonio,Tee,Existente,No,Ninguna,Bueno,,,1043,PVC,,Derivación,0.75,0.75,0.5,822367.29,1054634.27,./0.png
+"151","319",TEE,San Antonio,Tee,Existente,No,Ninguna,Bueno,,,1043,PVC,,Derivación,0.75,0.75,0.5,822351.68,1054635.3,./0.png
+"152","320",TEE,San Antonio,Tee,Existente,No,Ninguna,Bueno,,,1045,PVC,,Derivación,0.75,0.75,0.5,822398.5,1054644.85,./0.png
+"153","321",TEE,San Antonio,Tee,Existente,No,Ninguna,Bueno,,,1045,PVC,,Derivación,0.75,0.75,0.5,822394.5,1054650.14,./0.png
+"154","322",TEE,San Antonio,Tee,Existente,No,Ninguna,Bueno,,,1046,PVC,,Derivación,0.75,0.75,0.5,822427,1054654.39,./0.png
+"155","323",TEE,San Antonio,Tee,Existente,No,Ninguna,Bueno,,,1046,PVC,,Derivación,0.75,0.75,0.5,822425.19,1054659.03,./0.png
+"156","324",TEE,San Antonio,Tee,Existente,No,Ninguna,Bueno,,,1046,PVC,,Derivación,0.75,0.75,0.5,822504.64,1054539.1,./0.png
+"157","325",TEE,San Antonio,Tee,Existente,No,Ninguna,Bueno,,,1044,PVC,,Derivación,0.75,0.75,0.5,822448.28,1054387.51,./0.png
+"158","326",TEE,San Antonio,Tee,Existente,No,Ninguna,Bueno,,,1042,PVC,,Derivación,0.75,0.5,0.5,822336.6,1054857.79,./0.png
+"159","327",TEE,San Antonio,Tee,Existente,No,Ninguna,Bueno,,,1047,PVC,,Derivación,0.5,0.5,0.5,822510.23,1054552.78,./0.png
+"160","328",TEE,San Antonio,Tee,Existente,No,Ninguna,Bueno,,,1041,PVC,,Derivación,0.75,0.5,0.5,822499.56,1054404.78,./0.png
+"161","329",TEE,San Antonio,Tee,Existente,No,Ninguna,Bueno,,,1044,PVC,,Derivación,0.75,0.5,0.5,822652.03,1053953.71,./0.png
+"162","330",TEE,San Antonio,Tee,Existente,No,Ninguna,Bueno,,,1041,PVC,,Derivación,0.75,0.5,0.5,822311.06,1054332.98,./0.png
+"163","331",TEE,San Antonio,Tee,Existente,No,Ninguna,Bueno,,,1040,PVC,,Derivación,0.75,0.5,0.5,822242.98,1054646.46,./0.png
+"164","332",TEE,San Antonio,Tee,Existente,No,Ninguna,Bueno,,,1037,PVC,,Derivación,1.5,1.5,0.5,822263.5,1054835.14,./0.png
+"165","333",TEE,San Antonio,Tee,Existente,No,Ninguna,Bueno,,,1037,PVC,,Derivación,1.5,1.5,0.5,822268.31,1054820.92,./0.png
+"166","334",TEE,San Antonio,Tee,Existente,No,Ninguna,Bueno,,,1039,PVC,,Derivación,1.5,1.5,0.5,822288.83,1054760.8,./0.png
+"167","335",TEE,San Antonio,Tee,Existente,No,Ninguna,Bueno,,,1040,PVC,,Derivación,1.5,1.5,0.75,822292.3,1054749.13,./0.png
+"168","336",TEE,San Antonio,Tee,Existente,No,Ninguna,Bueno,,,1042,PVC,,Derivación,1.5,1.5,0.75,822318.45,1054671.02,./0.png
+"169","337",TEE,San Antonio,Tee,Existente,No,Ninguna,Bueno,,,1042,PVC,,Derivación,1.5,1.5,0.75,822343.22,1054596.87,./0.png
+"170","338",TEE,San Antonio,Tee,Existente,No,Ninguna,Bueno,,,1041,PVC,,Derivación,1.5,1.5,0.75,822368.76,1054524.91,./0.png
+"171","339",TEE,San Antonio,Tee,Existente,No,Ninguna,Bueno,,,1041,PVC,,Derivación,1.5,1.5,0.5,822369.79,1054521.97,./0.png
+"172","340",TEE,San Antonio,Tee,Existente,No,Ninguna,Bueno,,,1045,PVC,,Derivación,1.5,1.5,0.75,822397,1054444.97,./0.png
+"173","341",TEE,San Antonio,Tee,Existente,No,Ninguna,Bueno,,,1043,PVC,,Derivación,1.5,1.5,0.75,822423.86,1054368.86,./0.png
+"174","342",TEE,San Antonio,Tee,Existente,No,Ninguna,Bueno,,,1042,PVC,,Derivación,1.5,1.5,0.5,822425.58,1054364.04,./0.png
+"175","343",TEE,San Antonio,Tee,Existente,No,Ninguna,Bueno,,,1042,PVC,,Derivación,1.5,1.5,0.5,822461.19,1054260.85,./0.png
+"176","344",TEE,San Antonio,Tee,Existente,No,Ninguna,Bueno,,,1041,PVC,,Derivación,1.5,1.5,0.5,822496.65,1054156.16,./0.png
+"177","345",TEE,San Antonio,Tee,Existente,No,Ninguna,Bueno,,,1043,PVC,,Derivación,1.5,1.5,0.5,822530.91,1054059.03,./0.png
+"178","346",TEE,San Antonio,Tee,Existente,No,Ninguna,Bueno,,,1042,PVC,,Derivación,1.5,1.5,0.5,822556.48,1053981.74,./0.png
+"179","347",TEE,San Antonio,Tee,Existente,No,Ninguna,Bueno,,,1041,PVC,,Derivación,1.5,1.5,0.5,822578.69,1053916.44,./0.png
+"180","348",TEE,San Antonio,Tee,Existente,No,Ninguna,Bueno,,,1042,PVC,,Derivación,1.5,1.5,0.5,822596.47,1053862.96,./0.png
+"181","349",TEE,San Antonio,Tee,Existente,No,Ninguna,Bueno,,,1044,PVC,,Derivación,0.75,0.5,0.5,821961.62,1053870.75,./0.png
+"182","350",TEE,San Antonio,Tee,Existente,No,Ninguna,Bueno,,,1043,PVC,,Derivación,0.75,0.75,0.75,821953.08,1053908.68,./0.png
+"183","351",TEE,San Antonio,Tee,Existente,No,Ninguna,Bueno,,,1042,PVC,,Derivación,0.75,0.75,0.75,821966.78,1053925.3,./0.png
+"184","376",TEE,San Antonio,Tee,Existente,No,Ninguna,Bueno,,,1033,PVC,,Derivación,0.75,0.75,0.5,823121.91,1053800.53,./0.png
+"185","377",TEE,San Antonio,Tee,Existente,No,Ninguna,Bueno,,,1030,PVC,,Derivación,0.75,0.5,0.5,823127.2,1053815.86,./0.png
+"186","378",TEE,San Antonio,Tee,Existente,No,Ninguna,Bueno,,,999,PVC,,Derivación,1,1,0.5,823596.88,1053743.2,./0.png
+"187","379",TEE,San Antonio,Tee,Existente,No,Ninguna,Bueno,,,976,PVC,,Derivación,0.75,0.75,0.5,823716.76,1053802.01,./0.png
+"188","380",TEE,San Antonio,Tee,Existente,No,Ninguna,Bueno,,,1041,PVC,,Derivación,1,1,0.75,822395.15,1054112.57,./0.png
+"189","381",TEE,San Antonio,Tee,Existente,No,Ninguna,Bueno,,,1041,PVC,,Derivación,1,1,0.75,822411.72,1054058.35,./0.png
+"190","382",TEE,San Antonio,Tee,Existente,No,Ninguna,Bueno,,,1041,PVC,,Derivación,1,0.75,0.75,822426.02,1054022.94,./0.png
+"191","383",TEE,San Antonio,Tee,Existente,No,Ninguna,Bueno,,,1041,PVC,,Derivación,0.75,0.5,0.5,822421.56,1054021.7,./0.png
+"192","384",TEE,San Antonio,Tee,Existente,No,Ninguna,Bueno,,,1042,PVC,,Derivación,0.75,0.5,0.5,822434.75,1054025.63,./0.png
+"193","385",TEE,San Antonio,Tee,Existente,No,Ninguna,Bueno,,,1041,PVC,,Derivación,0.75,0.5,0.5,822383.79,1054048.64,./0.png
+"194","386",TEE,San Antonio,Tee,Existente,No,Ninguna,Bueno,,,1037,PVC,,Derivación,0.75,0.5,0.5,822338.7,1054094.43,./0.png
+"195","387",TEE,San Antonio,Tee,Existente,No,Ninguna,Bueno,,,1043,PVC,,Derivación,0.5,0.5,0.5,822465.15,1054030.03,./0.png
+"196","388",TEE,San Antonio,Tee,Existente,No,Ninguna,Bueno,,,1035,PVC,,Derivación,0.75,0.5,0.5,822460,1053932.47,./0.png
+"197","409",TEE,San Antonio,Tee,Existente,No,Ninguna,Bueno,,,1036,PVC,,Derivación,0.75,0.75,0.5,822006.58,1054811.74,./0.png
+"198","410",TEE,San Antonio,Tee,Existente,No,Ninguna,Bueno,,,1029,PVC,,Derivación,1,1,0.5,821955.74,1054735.97,./0.png
+"199","411",TEE,San Antonio,Tee,Existente,No,Ninguna,Bueno,,,1019,PVC,,Derivación,1,1,0.5,821893.08,1054669.5,./0.png
+"200","412",TEE,San Antonio,Tee,Existente,No,Ninguna,Bueno,,,1018,PVC,,Derivación,1,1,0.5,821848.83,1054648.41,./0.png
+"201","413",TEE,San Antonio,Tee,Existente,No,Ninguna,Bueno,,,1018,PVC,,Derivación,1,1,0.5,821847.38,1054650.13,./0.png
+"202","414",TEE,San Antonio,Tee,Existente,No,Ninguna,Bueno,,,1020,PVC,,Derivación,1,1,0.5,821866.57,1054803.56,./0.png
+"203","415",TEE,San Antonio,Tee,Existente,No,Ninguna,Bueno,,,1030,PVC,,Derivación,1,1,0.5,821904.54,1054844.5,./0.png
+"204","416",TEE,San Antonio,Tee,Existente,No,Ninguna,Bueno,,,1030,PVC,,Derivación,1,1,0.5,821890.17,1054865.51,./0.png
+"205","417",TEE,San Antonio,Tee,Existente,No,Ninguna,Bueno,,,1034,PVC,,Derivación,1,1,0.5,821890.27,1054883.21,./0.png
+"206","418",TEE,San Antonio,Tee,Existente,No,Ninguna,Bueno,,,1034,PVC,,Derivación,1,1,0.5,821887.91,1054903.56,./0.png
+"207","419",TEE,San Antonio,Tee,Existente,No,Ninguna,Bueno,,,1033,PVC,,Derivación,1,1,0.5,821879.03,1054903.39,./0.png
+"208","420",TEE,San Antonio,Tee,Existente,No,Ninguna,Bueno,,,1030,PVC,,Derivación,1,1,0.5,821864.85,1054903.18,./0.png
+"209","421",TEE,San Antonio,Tee,Existente,No,Ninguna,Bueno,,,1028,PVC,,Derivación,1,1,0.5,821853.48,1054903.01,./0.png
+"210","422",TEE,San Antonio,Tee,Existente,No,Ninguna,Bueno,,,1028,PVC,,Derivación,0.5,0.5,0.5,821853.35,1054898.04,./0.png
+"211","423",TEE,San Antonio,Tee,Existente,No,Ninguna,Bueno,,,1030,PVC,,Derivación,0.5,0.5,0.5,821850.91,1054597.6,./0.png
+"212","424",TEE,San Antonio,Tee,Existente,No,Ninguna,Bueno,,,1030,PVC,,Derivación,0.5,0.5,0.5,821854.33,1054597.96,./0.png
+"213","425",TEE,San Antonio,Tee,Existente,No,Ninguna,Bueno,,,1014,PVC,,Derivación,0.5,0.5,0.75,821780.52,1054836.19,./0.png
+"214","426",TEE,San Antonio,Tee,Existente,No,Ninguna,Bueno,,,1039,PVC,,Derivación,0.75,0.5,0.5,821881.7,1054485.56,./0.png
+"215","427",TEE,San Antonio,Tee,Existente,No,Ninguna,Bueno,,,1042,PVC,,Derivación,0.75,0.75,0.5,821865.46,1054443.22,./0.png
+"216","428",TEE,San Antonio,Tee,Existente,No,Ninguna,Bueno,,,1047,PVC,,Derivación,0.75,0.75,0.5,821806.13,1054405.4,./0.png
+"217","431",TEE,San Antonio,Tee,Existente,No,Ninguna,Bueno,,,1034,PVC,,Derivación,0.5,0.5,0.5,821706.23,1054555.58,./0.png
+"218","432",TEE,San Antonio,Tee,Existente,No,Ninguna,Bueno,,,1034,PVC,,Derivación,0.5,0.5,0.5,821668.5,1054715.45,./0.png
+"219","433",TEE,San Antonio,Tee,Existente,No,Ninguna,Bueno,,,1034,PVC,,Derivación,0.5,0.5,0.5,821721.8,1054730.06,./0.png
+"220","438",TEE,San Antonio,Tee,Existente,No,Ninguna,Bueno,,,1042,PVC,,Derivación,0.75,0.75,0.5,821084.31,1053266.93,./0.png
+"221","439",TEE,San Antonio,Tee,Existente,No,Ninguna,Bueno,,,1043,PVC,,Derivación,0.75,0.5,0.5,820990.6,1053236.25,./0.png
+"222","442",TEE,San Antonio,Tee,Existente,No,Ninguna,Bueno,,,1050,PVC,,Derivación,0.5,0.5,0.5,821049.21,1053325.97,./0.png
+"223","444",TEE,San Antonio,Tee,Existente,No,Ninguna,Bueno,,,1043,PVC,,Derivación,0.75,0.75,0.75,821774.47,1053853.89,./0.png
+"224","445",TEE,San Antonio,Tee,Existente,No,Ninguna,Bueno,,,1043,PVC,,Derivación,1,1,0.5,821770.56,1053853.93,./0.png
+"225","446",TEE,San Antonio,Tee,Existente,No,Ninguna,Bueno,,,1043,PVC,,Derivación,1,1,0.5,821774.72,1053853.83,./0.png
+"226","447",TEE,San Antonio,Tee,Existente,No,Ninguna,Bueno,,,1034,PVC,,Derivación,0.75,0.75,0.5,821515.53,1054658.27,./0.png
+"227","449",TEE,San Antonio,Tee,Existente,No,Ninguna,Bueno,,,1022,PVC,,Derivación,1,1,1,821541.34,1055294.62,./0.png
+"228","450",TEE,San Antonio,Tee,Existente,No,Ninguna,Bueno,,,1016,PVC,,Derivación,0.75,0.75,0.5,821570.47,1055298.63,./0.png
+"229","451",TEE,San Antonio,Tee,Existente,No,Ninguna,Bueno,,,1039,PVC,,Derivación,0.75,0.75,0.5,821481.61,1056019.02,./0.png
+"230","452",TEE,San Antonio,Tee,Existente,No,Ninguna,Bueno,,,1051,PVC,,Derivación,0.75,0.75,0.5,821630.9,1056392.29,./0.png
+"231","453",TEE,San Antonio,Tee,Existente,No,Ninguna,Bueno,,,1049,PVC,,Derivación,0.75,0.5,0.5,821670.89,1056365.54,./0.png
+"232","454",TEE,San Antonio,Tee,Existente,No,Ninguna,Bueno,,,1071,PVC,,Derivación,1,1,0.5,821212.28,1057147.77,./0.png
+"233","456",TEE,San Antonio,TEE,Existente,No,Ninguna,Bueno,,,1049,PVC,,Derivación,0.75,0.5,0.5,821938.98,1054149.28,./0.png
+"234","458",TEE,San Antonio,Tee,Existente,No,Ninguna,Bueno,,,1035,PVC,,Derivación,1,1,0.5,822102.03,1054626.86,./0.png
+"235","459",TEE,San Antonio,Tee,Existente,No,Ninguna,Bueno,,,1037,PVC,,Derivación,0.75,0.75,0.5,822112.65,1054629.24,./0.png
+"236","460",TEE,San Antonio,Tee,Existente,No,Ninguna,Bueno,,,1038,PVC,,Derivación,0.75,0.5,0.5,822140.18,1054632.42,./0.png
+"237","461",TEE,San Antonio,Tee,Existente,No,Ninguna,Bueno,,,1038,PVC,,Derivación,0.5,0.5,0.5,822111.25,1054651.16,./0.png
+"238","462",TEE,San Antonio,Tee,Existente,No,Ninguna,Bueno,,,1024,PVC,,Derivación,1.5,1.5,0.5,820930.53,1057478.2,./0.png
+"239","463",TEE,San Antonio,Tee,Existente,No,Ninguna,Bueno,,,992,PVC,,Derivación,1,1,0.5,820715.22,1057583.42,./0.png
+"240","464",TEE,San Antonio,Tee,Existente,No,Ninguna,Bueno,,,1003,PVC,,Derivación,1,1,0.5,820414.61,1057869.5,./0.png
+"241","465",TEE,San Antonio,Tee,Existente,No,Ninguna,Bueno,,,1004,PVC,,Derivación,1,0.75,0.5,820406.96,1057873.77,./0.png
+"242","466",TEE,San Antonio,Tee,Existente,No,Ninguna,Bueno,,,1000,PVC,,Derivación,0.5,0.5,0.5,820294.75,1057938.29,./0.png
+"243","467",TEE,San Antonio,Tee,Existente,No,Ninguna,Bueno,,,1007,PVC,,Derivación,0.75,0.75,0.5,820346.92,1057850.1,./0.png
+"244","468",TEE,San Antonio,Tee,Existente,No,Ninguna,Bueno,,,1007,PVC,,Derivación,0.75,0.75,0.5,820360.29,1057854.2,./0.png
+"245","470",TEE,San Antonio,Derivación,Existente,No,Ninguna,Bueno,,,1033,PVC,,Derivación,0.5,0.5,0.5,821260.31,1054500.37,./0.png
+"246","471",TEE,San Antonio,Tee,Existente,No,Ninguna,Bueno,D:\SIGCIVIL\PROYECTOS\sig_sanantonio\QGS\DCIM\infraestructura-puntos_20210330112636091.jpg,,1046,PVC,,Derivación,0.75,0.75,0.75,821215.86,1053420.81,./0.png
+"247","480",TEE,San Antonio,Derivación,Existente,No,Ninguna,Bueno,,,1047,PVC,,Derivación,0.75,0.5,0.5,821856.73,1053900.91,./0.png
+"248","482",TEE,San Antonio,Derivación,Existente,No,Ninguna,Bueno,,,998,PVC,,Derivación,1.5,1.5,0.5,823537.73,1054003.33,./0.png
+"249","483",TEE,San Antonio,Derivación,Existente,No,Ninguna,Bueno,,,998,PVC,,Derivación,1.5,1.5,0.5,823537.73,1054003.33,./0.png
+"250","484",TEE,San Antonio,Derivación,Existente,No,Ninguna,Bueno,,,998,PVC,,Derivación,1.5,1.5,0.5,823537.73,1054003.33,./0.png
+"251","109",TEE,San Antonio,"Tee 3""",Existente,No,Ninguna,Bueno,D:\SIGCIVIL\PROYECTOS\sig_sanantonio\QGS\DCIM\infraestructura-puntos_20210318135039436.jpg,,1042,PVC,,Derivación,3,1.5,1.5,822486.83,1054183.6,./0.png
+"252","110",TEE,San Antonio,"Tee 2""",Existente,No,Ninguna,Bueno,D:\SIGCIVIL\PROYECTOS\sig_sanantonio\QGS\DCIM\infraestructura-puntos_20210318135552255.jpg,Conduce al Corozo,1041,PVC,,Derivación,2,2,0.75,822396.24,1054505.33,./0.png
+"253","111",TEE,San Antonio,"Tee 2""",Existente,No,Ninguna,Bueno,D:\SIGCIVIL\PROYECTOS\sig_sanantonio\QGS\DCIM\infraestructura-puntos_20210318140506835.jpg,,1042,PVC,,Derivación,2,2,1.5,822625.6,1053845.01,./0.png
+"254","113",TEE,San Antonio,"Tee 2""",Existente,No,Ninguna,Bueno,D:\SIGCIVIL\PROYECTOS\sig_sanantonio\QGS\DCIM\infraestructura-puntos_20210318142729782.jpg,Condominio,1043,PVC,,Derivación,2,2,0.75,823007.51,1053812.03,./0.png
+"255","473",TEE,San Antonio,TEE,Existente,No,Ninguna,Bueno,,,1049,PVC,,Derivación,0.75,0.75,0.5,821938.98,1054149.28,./0.png
+"256","474",TEE,San Antonio,"Tee 2""",Existente,No,Ninguna,Bueno,D:\SIGCIVIL\PROYECTOS\sig_sanantonio\QGS\DCIM\infraestructura-puntos_20210318101757262.jpg,Es un anillo,1039,PVC,,Derivación,2,2,1.5,822237.17,1054911.28,./0.png
+"257","476",TEE,San Antonio,Tee,Existente,No,Ninguna,Bueno,,,1044,PVC,,Derivación,0.75,0.5,0.5,822652.03,1053953.71,./0.png

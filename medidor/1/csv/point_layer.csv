@@ -1,0 +1,392 @@
+qc_id,gid,acueducto,serial,marcamedid,clasemedid,tipomedido,diametro_p,fecha_ins,usuario,cod_predio,cota,observacio,icon_url
+"0","335",San Antonio,"5015",Otro,Micromedidor,Volumétrico,0.5,,"10000210",,1041,,./0.png
+"1","336",San Antonio,"14088",Otro,Micromedidor,Volumétrico,0.5,,"10000220",,1041,"Viene de tub 3""",./0.png
+"2","337",San Antonio,"5072",Otro,Micromedidor,Volumétrico,0.5,,"10001470",,1041,Viene del conjunto aeropuerto en 3/4,./0.png
+"3","338",San Antonio,"31980",Otro,Micromedidor,Volumétrico,0.5,,"10001460",,1041,,./0.png
+"4","339",San Antonio,"5073",Otro,Micromedidor,Volumétrico,0.5,,"10001510",,1043,Viene del conjunto Aeropuerto en lin 3/4,./0.png
+"5","340",San Antonio,"0228464",Otro,Micromedidor,Volumétrico,0.5,,"10001490",,1046,Viene del conj aeropuerto en lin 3/4,./0.png
+"6","341",San Antonio,"16029670",Otro,Micromedidor,Volumétrico,0.5,,"10000240",,1038,"Viene por debajo de la de 2""",./0.png
+"7","342",San Antonio,"264589",Otro,Micromedidor,Volumétrico,0.5,,"10001520",,1044,Estaba en la mitad del lindero. Lo sacaron y la tub llega la medidor en 1/2 y regresa a la casa,./0.png
+"8","343",San Antonio,"31700",Otro,Micromedidor,Volumétrico,0.5,,"10001515",,1042,,./0.png
+"9","344",San Antonio,"32348",Otro,Micromedidor,Volumétrico,0.5,,"10000330",,1035,"Viene de una tuberia de 2"" viene en 1""",./0.png
+"10","345",San Antonio,"450",Otro,Micromedidor,Volumétrico,0.5,,"10000335",,1037,Llega en tun 1/2,./0.png
+"11","346",San Antonio,"31701",Otro,Micromedidor,Volumétrico,0.5,,"10000336",,1039,"Viene de la tub 1"" qur luego de la primera casa reduce a 3/4 y va en lin de 1/2",./0.png
+"12","348",San Antonio,"40388",Otro,Micromedidor,Volumétrico,0.5,,"10000340",,1038,,./0.png
+"13","351",San Antonio,"16029014",Otro,Micromedidor,Volumétrico,0.5,,"10000260",,1039,,./0.png
+"14","352",San Antonio,"3227",Otro,Micromedidor,Volumétrico,0.5,,"10000230",,1038,,./0.png
+"15","353",San Antonio,"330",Otro,Micromedidor,Volumétrico,0.5,,"10000250",,1035,,./0.png
+"16","354",San Antonio,"40390",Otro,Micromedidor,Volumétrico,0.5,,"10000270",,1036,,./0.png
+"17","355",San Antonio,"40422",Otro,Micromedidor,Volumétrico,0.5,,"10000271",,1034,,./0.png
+"18","356",San Antonio,"40394",Otro,Micromedidor,Volumétrico,0.5,,"10000275",,1033,,./0.png
+"19","357",San Antonio,"2070",Otro,Micromedidor,Volumétrico,0.5,,"10000280",,1035,,./0.png
+"20","359",San Antonio,"16027078",Otro,Micromedidor,Volumétrico,0.5,,"10000310",,1038,,./0.png
+"21","358",San Antonio,"40393",Otro,Micromedidor,Volumétrico,0.5,,"10000290",,1037,,./0.png
+"22","349",San Antonio,"31978",Water meter,Micromedidor,Volumétrico,0.5,,"10001540",,1040,Viene lim 3/4,./0.png
+"23","3",San Antonio,ND,Otro,Macromedidor,Ultrasónico,6,,"10000000",,1127,En funcionamiento Water Meter,./0.png
+"24","16",San Antonio,ND011,Aquaforjas,Micromedidor,Volumétrico,0.5,,"10002490",,1030,Aquaforjas,./0.png
+"25","9",San Antonio,ND,Otro,Macromedidor,Volumétrico,3,,"10000000",,1055,Pendiente identificar tipo de medidor,./0.png
+"26","15",San Antonio,"9021",Aquaforjas,Micromedidor,Volumétrico,0.5,,"10001180",,1022,Acuaforjas,./0.png
+"27","19",San Antonio,"16029008",Water meter,Micromedidor,Ultrasónico,0.5,,"10002660",,979,,./0.png
+"28","360",San Antonio,"31970",Otro,Micromedidor,Volumétrico,0.5,,"10000300",,1031,,./0.png
+"29","361",San Antonio,"0168570",Otro,Micromedidor,Volumétrico,0.5,,"10000341",,1034,,./0.png
+"30","362",San Antonio,"0228462",Otro,Micromedidor,Volumétrico,0.5,,"10000305",,1038,,./0.png
+"31","363",San Antonio,"16029152",Otro,Micromedidor,Volumétrico,0.5,,"10000370",,1033,,./0.png
+"32","364",San Antonio,"40395",Otro,Micromedidor,Volumétrico,0.5,,"10000350",,1036,,./0.png
+"33","365",San Antonio,"40418",Otro,Micromedidor,Volumétrico,0.5,,"10000360",,1038,,./0.png
+"34","366",San Antonio,"64852",Otro,Micromedidor,Volumétrico,0.5,,"10000490",,1029,,./0.png
+"35","367",San Antonio,"184376",Otro,Micromedidor,Volumétrico,0.5,,"10000478",,1027,,./0.png
+"36","368",San Antonio,"58779",Otro,Micromedidor,Volumétrico,0.5,,"10000510",,1021,,./0.png
+"37","369",San Antonio,"58701",Otro,Micromedidor,Volumétrico,0.5,,"10000480",,1021,,./0.png
+"38","371",San Antonio,"2013",Otro,Micromedidor,Volumétrico,0.5,,"10000522",,1019,,./0.png
+"39","372",San Antonio,"5016",Otro,Micromedidor,Volumétrico,0.5,,"10000520",,1018,,./0.png
+"40","373",San Antonio,"14068",Otro,Micromedidor,Volumétrico,0.5,,"10000527",,1030,,./0.png
+"41","374",San Antonio,"40432",Otro,Micromedidor,Volumétrico,0.5,,"10000525",,1030,,./0.png
+"42","350",San Antonio,"64857",Otro,Micromedidor,Volumétrico,0.5,,"10001550",,1039,Viene de landr 3/4 frente al medixor de carlos Alberto Ospina queda el medidor. Lo sacaron a la via y hace el retorno a la casa en 1/2,./0.png
+"43","173",San Antonio,"16000813",Water meter,Micromedidor,Volumétrico,0.5,,"10000553",,1042,,./0.png
+"44","174",San Antonio,"16000804",Water meter,Micromedidor,Volumétrico,0.5,,"10000552",,1042,,./0.png
+"45","176",San Antonio,"16000816",Water meter,Micromedidor,Volumétrico,0.5,,"10000551",,1043,,./0.png
+"46","177",San Antonio,"16000808",Water meter,Micromedidor,Volumétrico,0.5,,"10000549",,1044,,./0.png
+"47","27",San Antonio,"0266492",Otro,Micromedidor,Volumétrico,0.5,,"10002520",,1046,,./0.png
+"48","28",San Antonio,"31964",Otro,Micromedidor,Volumétrico,0.5,,"10002526",,1071,REPETIDO?,./0.png
+"49","4",San Antonio,ND,Otro,Macromedidor,Ultrasónico,3,,"10000000",,1127,En funcionamiento marca Water meter,./0.png
+"50","21",San Antonio,ND008,Otro,Micromedidor,Volumétrico,0.5,,ND,,970,Ya no está activo por falta de pago (Genoveva Estrada),./0.png
+"51","202",San Antonio,"0228469",Otro,Micromedidor,Volumétrico,0.5,,ND,,1000,Pendiente por registrar. Es nuevo (Luisa Fernanda Zapata),./0.png
+"52","279",San Antonio,"0266473",Otro,Micromedidor,Volumétrico,0.5,,"10002230","85809",1041,,./0.png
+"53","280",San Antonio,"0266467",Otro,Micromedidor,Volumétrico,0.5,,"10002240","628227",1041,,./0.png
+"54","11",San Antonio,"171383",Otro,Micromedidor,Volumétrico,0.5,,"10001266",,1044,,./0.png
+"55","12",San Antonio,"0266498",Metrex,Micromedidor,De Velocidad,0.5,,"10001271",,1045,,./0.png
+"56","13",San Antonio,"0266501",Metrex,Micromedidor,De Velocidad,0.5,,"10001273",,1050,,./0.png
+"57","112",San Antonio,"266494",Metrex,Micromedidor,De Velocidad,0.5,,"10000530",,1047,,./0.png
+"58","387",San Antonio,"32098",Elster,Micromedidor,Volumétrico,0.5,,"10001220",,1065,,./0.png
+"59","0",San Antonio,"40441",Metrex,Micromedidor,Volumétrico,0.5,,"10001435",,1036,,./0.png
+"60","388",San Antonio,"266466",Metrex,Micromedidor,Volumétrico,0.5,,"10002430",,1042,,./0.png
+"61","69",San Antonio,"0266490",Otro,Micromedidor,Volumétrico,0.5,,"10000816",,1049,,./0.png
+"62","231",San Antonio,"0266483",Otro,Micromedidor,Volumétrico,0.5,,"10001140",,1031,,./0.png
+"63","18",San Antonio,"40424",Elster,Micromedidor,Volumétrico,0.5,,"10002670",,1000,Marca ELSTER,./0.png
+"64","72",San Antonio,"16000836",Water meter,Micromedidor,Volumétrico,0.5,,"10000823",,1052,,./0.png
+"65","73",San Antonio,"0266496",Metrex,Micromedidor,De Velocidad,0.5,,"10000910",,1090,,./0.png
+"66","74",San Antonio,"0168573",Otro,Micromedidor,Volumétrico,0.5,,"10000929",,1104,,./0.png
+"67","75",San Antonio,"452457",Otro,Micromedidor,Volumétrico,0.5,,"10000930",,1088,,./0.png
+"68","81",San Antonio,"306709",Water meter,Micromedidor,Volumétrico,0.5,,"10000877",,1048,,./0.png
+"69","389",San Antonio,"32118",Aquaforjas,Micromedidor,Volumétrico,0.5,,"10002690",,1008,,./0.png
+"70","390",San Antonio,"184354",Otro,Micromedidor,Volumétrico,0.5,,"10002691",,995,,./0.png
+"71","391",San Antonio,"31598",Otro,Micromedidor,Volumétrico,0.5,,"10002692",,997,,./0.png
+"72","392",San Antonio,"31596",Otro,Micromedidor,Volumétrico,0.5,,"10002700",,995,,./0.png
+"73","1",San Antonio,ND,Otro,Macromedidor,De Velocidad,3,,"10000000",,1413,Macro medidor para el rebose del tanque Los Alpes,./0.png
+"74","7",San Antonio,"16026853",Water meter,Micromedidor,Ultrasónico,0.5,,"10002630",,1078,,./0.png
+"75","39",San Antonio,"31187",Otro,Micromedidor,Volumétrico,0.5,,"10000832",,1074,,./0.png
+"76","10",San Antonio,"14098",Otro,Micromedidor,Volumétrico,0.5,,"10001250",,1070,Acuaforjas,./0.png
+"77","82",San Antonio,"306715",Otro,Micromedidor,Volumétrico,0.5,,"10000880",,1048,,./0.png
+"78","84",San Antonio,"443",Otro,Micromedidor,Volumétrico,0.5,,"10000879",,1045,,./0.png
+"79","121",San Antonio,"14073",Otro,Micromedidor,Volumétrico,0.5,,"10000573",,1048,,./0.png
+"80","122",San Antonio,"14063",Otro,Micromedidor,Volumétrico,0.5,,"10000579",,1048,,./0.png
+"81","123",San Antonio,"40382",Otro,Micromedidor,Volumétrico,0.5,,"10000577",,1049,,./0.png
+"82","154",San Antonio,ND015,Otro,Micromedidor,Volumétrico,0.5,,"10001210",,1039,,./0.png
+"83","31",San Antonio,"96",Aquaforjas,Micromedidor,Volumétrico,0.5,,"10002480",,1039,Water forjas,./0.png
+"84","149",San Antonio,"160792",Otro,Micromedidor,Volumétrico,0.5,,"10001030",,1025,,./0.png
+"85","150",San Antonio,"160806",Otro,Micromedidor,Volumétrico,0.5,,"10001135",,1034,,./0.png
+"86","151",San Antonio,"58711",Otro,Micromedidor,Volumétrico,0.5,,"10001130",,1035,,./0.png
+"87","152",San Antonio,"444",Otro,Micromedidor,Volumétrico,0.5,,"10001050",,1043,,./0.png
+"88","153",San Antonio,"322",Otro,Micromedidor,Volumétrico,0.5,,"10001040",,1040,,./0.png
+"89","155",San Antonio,"14067",Otro,Micromedidor,Volumétrico,0.5,,"10001060",,1041,,./0.png
+"90","156",San Antonio,"366",Otro,Micromedidor,Volumétrico,0.5,,"10001070",,1037,,./0.png
+"91","157",San Antonio,"16000783",Water meter,Micromedidor,Volumétrico,0.5,,"10001080",,1044,,./0.png
+"92","158",San Antonio,"0266470",Metrex,Micromedidor,De Velocidad,0.5,,"10001100",,1045,,./0.png
+"93","161",San Antonio,"40410",Otro,Micromedidor,Volumétrico,0.5,,"10000980",,1039,,./0.png
+"94","201",San Antonio,"0266477",Metrex,Micromedidor,De Velocidad,0.5,,ND,,1000,Pendiente por registrar nombre usuaro es nuevo,./0.png
+"95","23",San Antonio,"160801",Otro,Micromedidor,Volumétrico,0.5,,"10001256",,1077,,./0.png
+"96","32",San Antonio,"14057",Otro,Micromedidor,Volumétrico,0.5,,"10000890",,1116,,./0.png
+"97","220",San Antonio,ND009,Otro,Micromedidor,Volumétrico,0.5,,"10002641",,1039,,./0.png
+"98","219",San Antonio,"0228465",Otro,Micromedidor,Volumétrico,0.5,,"10002639",,1039,,./0.png
+"99","221",San Antonio,"40423",Otro,Micromedidor,Volumétrico,0.5,,"10000005",,1022,,./0.png
+"100","254",San Antonio,"0266481",Otro,Micromedidor,Volumétrico,0.5,,"10001330",,1043,,./0.png
+"101","251",San Antonio,"16000784",Water meter,Micromedidor,Volumétrico,0.5,,"10001280",,1034,,./0.png
+"102","252",San Antonio,"16030439",Otro,Micromedidor,Volumétrico,0.5,,"10002790",,1035,,./0.png
+"103","253",San Antonio,"40400",Otro,Micromedidor,Volumétrico,0.5,,"10001320",,1043,,./0.png
+"104","288",San Antonio,"40383",Otro,Micromedidor,Volumétrico,0.5,,"10002129","7547",1043,,./0.png
+"105","285",San Antonio,"31984",Otro,Micromedidor,Volumétrico,0.5,,"10002441","826381",1046,,./0.png
+"106","286",San Antonio,"31975",Otro,Micromedidor,Volumétrico,0.5,,"10002196","7273",1045,,./0.png
+"107","57",San Antonio,"16000781",Water meter,Micromedidor,Volumétrico,0.5,,"10000839",,1068,,./0.png
+"108","61",San Antonio,"14087",Otro,Micromedidor,Volumétrico,0.5,,"10000738",,1046,,./0.png
+"109","287",San Antonio,"9020",Otro,Micromedidor,Volumétrico,0.5,,"10002190","8272",1043,,./0.png
+"110","289",San Antonio,"40381",Otro,Micromedidor,Volumétrico,0.5,,"10002191","98732",1044,,./0.png
+"111","38",San Antonio,"40407",Otro,Micromedidor,Volumétrico,0.5,,"10000830",,1066,NO SE ENCUENTRA EN EL LISTADO,./0.png
+"112","2",San Antonio,ND,Otro,Macromedidor,De Velocidad,0.5,,"10000000",,1236,,./0.png
+"113","36",San Antonio,"40398",Otro,Micromedidor,Volumétrico,0.5,,"10000850",,1084,,./0.png
+"114","17",San Antonio,"16000854",Aquaforjas,Micromedidor,Volumétrico,0.5,,"10002398",837r737,1039,Aquaforjas,./0.png
+"115","33",San Antonio,"14055",Otro,Micromedidor,Volumétrico,0.5,,"10000860",,1100,,./0.png
+"116","37",San Antonio,"39814",Otro,Micromedidor,Volumétrico,0.5,,"10000840",,1080,,./0.png
+"117","34",San Antonio,"14100",Otro,Micromedidor,Volumétrico,0.5,,"10000859",,1086,,./0.png
+"118","35",San Antonio,"32300",Otro,Micromedidor,Volumétrico,0.5,,"10000861",,1084,,./0.png
+"119","40",San Antonio,"16000799",Water meter,Micromedidor,Volumétrico,0.5,,"10000826",,1075,"Se alimenta le la tub de 3"" con reducción",./0.png
+"120","25",San Antonio,"14083",Otro,Micromedidor,Volumétrico,0.5,,"10001268",,1076,,./0.png
+"121","47",San Antonio,"0266469",Otro,Micromedidor,Volumétrico,0.5,,"10000851",,1053,,./0.png
+"122","20",San Antonio,"16021759",Water meter,Micromedidor,Ultrasónico,0.5,,"10002655",,972,,./0.png
+"123","22",San Antonio,"16029255",Water meter,Micromedidor,Ultrasónico,0.75,,"10002695",,995,,./0.png
+"124","24",San Antonio,"14081",Aquaforjas,Micromedidor,Volumétrico,0.5,,"10001265",,1082,Aqua forjas,./0.png
+"125","26",San Antonio,"453",Elster,Micromedidor,Volumétrico,0.5,,"10002560",,1057,Elbster,./0.png
+"126","29",San Antonio,"14086",Otro,Micromedidor,Volumétrico,0.5,,"10002525",,1071,,./0.png
+"127","30",San Antonio,"0184358",Otro,Micromedidor,Volumétrico,0.5,,"10002491",,1039,,./0.png
+"128","41",San Antonio,"1184368",Otro,Micromedidor,Volumétrico,0.5,,"10000843",,1073,,./0.png
+"129","42",San Antonio,"0228461",Otro,Micromedidor,Volumétrico,0.5,,"10000844",,1070,,./0.png
+"130","43",San Antonio,"0266500",Metrex,Micromedidor,De Velocidad,0.5,,"10000849",,1069,,./0.png
+"131","44",San Antonio,"0228497",Otro,Micromedidor,Volumétrico,0.5,,"10000845",,1067,,./0.png
+"132","45",San Antonio,"14085",Otro,Micromedidor,Volumétrico,0.5,,"10000837",,1067,,./0.png
+"133","49",San Antonio,"16000853",Water meter,Micromedidor,Volumétrico,0.5,,"10000835",,1058,,./0.png
+"134","50",San Antonio,"331189",Otro,Micromedidor,Volumétrico,0.5,,"10000834",,1060,,./0.png
+"135","53",San Antonio,"16000849",Water meter,Micromedidor,Volumétrico,0.5,,"10000829",,1064,,./0.png
+"136","54",San Antonio,"29126",Otro,Micromedidor,Volumétrico,0.5,,"10000831",,1068,,./0.png
+"137","55",San Antonio,"0228495",Otro,Micromedidor,Volumétrico,0.5,,"10000838",,1056,,./0.png
+"138","56",San Antonio,"29118",Otro,Micromedidor,Volumétrico,0.5,,"10000833",,1057,,./0.png
+"139","58",San Antonio,"02665030",Metrex,Micromedidor,De Velocidad,0.5,,"10000848",,1061,,./0.png
+"140","59",San Antonio,"168571",Otro,Micromedidor,Volumétrico,0.5,,"10000842",,1051,,./0.png
+"141","60",San Antonio,"16000859",Water meter,Micromedidor,Volumétrico,0.5,,"10000836",,1052,,./0.png
+"142","62",San Antonio,"16000852",Water meter,Micromedidor,Volumétrico,0.5,,"10000841",,1045,,./0.png
+"143","63",San Antonio,"16000832",Otro,Micromedidor,Volumétrico,0.5,,"10000827",,1047,,./0.png
+"144","64",San Antonio,"16000845",Water meter,Micromedidor,Volumétrico,0.5,,"10000824",,1047,,./0.png
+"145","65",San Antonio,"16000858",Water meter,Micromedidor,Volumétrico,0.5,,"10000828",,1047,,./0.png
+"146","66",San Antonio,"0184361",Otro,Micromedidor,Volumétrico,0.5,,"10000818",,1048,,./0.png
+"147","67",San Antonio,"4101",Otro,Micromedidor,Volumétrico,0.5,,"10000825",,1048,,./0.png
+"148","68",San Antonio,"0266505",Metrex,Micromedidor,De Velocidad,0.5,,"10000809",,1049,,./0.png
+"149","51",San Antonio,"0266475",Otro,Micromedidor,Volumétrico,0.5,,"10000852",,1061,,./0.png
+"150","6",San Antonio,ND,Water meter,Macromedidor,Ultrasónico,3,2019/03/02,"10000000",,1132,No está funcionando por intermitencia en el caudal de entrada.,./0.png
+"151","92",San Antonio,"19031",Otro,Micromedidor,Volumétrico,0.5,,"10000863",,1042,,./0.png
+"152","8",San Antonio,ND,Otro,Macromedidor,Ultrasónico,1.5,,"10000000",,1127,No está funcionando diámetro 1 1/2 Water Meter,./0.png
+"153","87",San Antonio,ND016,Otro,Micromedidor,Volumétrico,0.5,,"10000875","64854",1065,,./0.png
+"154","14",San Antonio,"16000848",Water meter,Micromedidor,Ultrasónico,0.5,,"10001269",,1074,,./0.png
+"155","70",San Antonio,"16000829",Water meter,Micromedidor,Volumétrico,0.5,,"10000821",,1050,,./0.png
+"156","71",San Antonio,"0184355",Otro,Micromedidor,Volumétrico,0.5,,"10000819",,1053,,./0.png
+"157","76",San Antonio,"0266497",Metrex,Micromedidor,De Velocidad,0.5,,"10000920",,1083,,./0.png
+"158","77",San Antonio,"451",Otro,Micromedidor,Volumétrico,0.5,,"10000925",,1066,,./0.png
+"159","78",San Antonio,"14064",Otro,Micromedidor,Volumétrico,0.5,,"10000882",,1042,,./0.png
+"160","79",San Antonio,"16000834",Water meter,Micromedidor,Volumétrico,0.5,,"10000881",,1051,,./0.png
+"161","80",San Antonio,"284",Otro,Micromedidor,Volumétrico,0.5,,"10000885",,1049,,./0.png
+"162","83",San Antonio,"306700",Otro,Micromedidor,Volumétrico,0.5,,"10000878",,1046,,./0.png
+"163","85",San Antonio,"2146",Otro,Micromedidor,Volumétrico,0.5,,"10000883",,1045,,./0.png
+"164","86",San Antonio,"434",Otro,Micromedidor,Volumétrico,0.5,,"10000884",,1046,,./0.png
+"165","88",San Antonio,"23129",Otro,Micromedidor,Volumétrico,0.5,,"10000862",,1050,,./0.png
+"166","89",San Antonio,"40412",Otro,Micromedidor,Volumétrico,0.5,,"10000867",,1049,,./0.png
+"167","90",San Antonio,"395734",Otro,Micromedidor,Volumétrico,0.5,,"10000866",,1049,,./0.png
+"168","91",San Antonio,"14058",Otro,Micromedidor,Volumétrico,0.5,,"10001160",,1046,,./0.png
+"169","93",San Antonio,"34018",Otro,Micromedidor,Volumétrico,0.5,,"10000869",,1042,,./0.png
+"170","256",San Antonio,"2221",Otro,Micromedidor,Volumétrico,0.5,,"10001350",,1042,,./0.png
+"171","257",San Antonio,"441",Otro,Micromedidor,Volumétrico,0.5,,"10001360",,1041,,./0.png
+"172","269",San Antonio,"0266479",Otro,Micromedidor,Volumétrico,0.5,,"10002038","9182",1042,,./0.png
+"173","5",San Antonio,ND,Toshiba,Macromedidor,Magnético,6,,"10000000",,1133,"Marca Toshiba,  electromagnético",./0.png
+"174","94",San Antonio,"429",Otro,Micromedidor,Volumétrico,0.5,,"10000872",,1042,,./0.png
+"175","95",San Antonio,"16000785",Water meter,Micromedidor,Volumétrico,0.5,,"10000868",,1044,,./0.png
+"176","96",San Antonio,"40402",Otro,Micromedidor,Volumétrico,0.5,,"10000864",,1043,,./0.png
+"177","98",San Antonio,"329741",Otro,Micromedidor,Volumétrico,0.5,,"10000865",,1043,,./0.png
+"178","99",San Antonio,"31998",Otro,Micromedidor,Volumétrico,0.5,,"10000807",,1043,,./0.png
+"179","100",San Antonio,"446",Otro,Micromedidor,Volumétrico,0.5,,"10000810",,1040,,./0.png
+"180","101",San Antonio,"31995",Otro,Micromedidor,Volumétrico,0.5,,"10000808",,1046,,./0.png
+"181","102",San Antonio,"31985",Otro,Micromedidor,Volumétrico,0.5,,"10000815",,1046,,./0.png
+"182","103",San Antonio,"31960",Otro,Micromedidor,Volumétrico,0.5,,"10000805",,1046,,./0.png
+"183","104",San Antonio,"0266472",Metrex,Micromedidor,De Velocidad,0.5,,"10000800",,1063,,./0.png
+"184","105",San Antonio,"456",Otro,Micromedidor,Volumétrico,0.5,,"10000600",,1041,,./0.png
+"185","106",San Antonio,"16054923",Otro,Micromedidor,Volumétrico,0.5,,"10000590",,1051,,./0.png
+"186","107",San Antonio,"31961",Otro,Micromedidor,Volumétrico,0.5,,"10000580",,1050,"1023",./0.png
+"187","108",San Antonio,"31702",Otro,Micromedidor,Volumétrico,0.5,,"10000550",,1048,,./0.png
+"188","109",San Antonio,"40433",Otro,Micromedidor,Volumétrico,0.5,,"10000540",,1047,,./0.png
+"189","111",San Antonio,"65071",Otro,Micromedidor,Volumétrico,0.5,,"10000320",,1047,,./0.png
+"190","113",San Antonio,"0184365",Otro,Micromedidor,Volumétrico,0.5,,"10000547",,1043,,./0.png
+"191","114",San Antonio,"264591",Otro,Micromedidor,Volumétrico,0.5,,"10000542",,1043,,./0.png
+"192","115",San Antonio,"16000790",Water meter,Micromedidor,Volumétrico,0.5,,"10000545",,1043,,./0.png
+"193","116",San Antonio,"40397",Otro,Micromedidor,Volumétrico,0.5,,"10000560",,1045,,./0.png
+"194","117",San Antonio,"64855",Otro,Micromedidor,Volumétrico,0.5,,"10000562",,1046,,./0.png
+"195","118",San Antonio,"16000800",Otro,Micromedidor,Volumétrico,0.5,,"10000564",,1046,,./0.png
+"196","119",San Antonio,"320",Otro,Micromedidor,Volumétrico,0.5,,"10000570",,1047,,./0.png
+"197","120",San Antonio,"14074",Otro,Micromedidor,Volumétrico,0.5,,"10000575",,1045,,./0.png
+"198","124",San Antonio,"31963",Otro,Micromedidor,Volumétrico,0.5,,"10000576",,1049,,./0.png
+"199","125",San Antonio,"16000846",Water meter,Micromedidor,Volumétrico,0.5,,"10000574",,1044,,./0.png
+"200","126",San Antonio,"0228463",Otro,Micromedidor,Volumétrico,0.5,,"10000572",,1040,,./0.png
+"201","127",San Antonio,"0228484",Otro,Micromedidor,Volumétrico,0.5,,"10000583",,1040,,./0.png
+"202","128",San Antonio,"39815",Otro,Micromedidor,Volumétrico,0.5,,"10000578",,1039,,./0.png
+"203","129",San Antonio,"30302",Otro,Micromedidor,Volumétrico,0.5,,"10000582",,1038,,./0.png
+"204","97",San Antonio,"0266491",Otro,Micromedidor,Volumétrico,0.5,,"10000871",,1044,,./0.png
+"205","110",San Antonio,"16000840",Water meter,Micromedidor,Volumétrico,0.5,,"10000535",,1047,,./0.png
+"206","164",San Antonio,"16026607",Otro,Micromedidor,Ultrasónico,0.5,,"10001170",,1065,,./0.png
+"207","131",San Antonio,ND010,Otro,Micromedidor,Volumétrico,0.5,,"10001253",,1053,,./0.png
+"208","130",San Antonio,"160810",Otro,Micromedidor,Volumétrico,0.5,,"10001259",,1051,,./0.png
+"209","132",San Antonio,"160807",Otro,Micromedidor,Volumétrico,0.5,,"10001262",,1055,,./0.png
+"210","133",San Antonio,"16026134",Otro,Micromedidor,Ultrasónico,0.5,,"10000940",,1031,,./0.png
+"211","134",San Antonio,"40406",Otro,Micromedidor,Volumétrico,0.5,,"10000943",,1032,,./0.png
+"212","135",San Antonio,"238564",Otro,Micromedidor,Volumétrico,0.5,,"10000945",,1033,,./0.png
+"213","136",San Antonio,"30812",Otro,Micromedidor,Volumétrico,0.5,,"10000946",,1033,,./0.png
+"214","137",San Antonio,"160829",Otro,Micromedidor,Volumétrico,0.5,,"10000948",,1033,,./0.png
+"215","138",San Antonio,"0184357",Otro,Micromedidor,Volumétrico,0.5,,"10000949",,1033,,./0.png
+"216","139",San Antonio,"40430",Otro,Micromedidor,Volumétrico,0.5,,"10000947",,1035,,./0.png
+"217","140",San Antonio,"30795",Otro,Micromedidor,Volumétrico,0.5,,"10000950",,1036,,./0.png
+"218","141",San Antonio,"16000",Water meter,Micromedidor,Volumétrico,0.5,,"10000952",,1032,,./0.png
+"219","142",San Antonio,"40404",Otro,Micromedidor,Volumétrico,0.5,,"10000953",,1033,,./0.png
+"220","143",San Antonio,"16000787",Water meter,Micromedidor,Volumétrico,0.5,,"10000955",,1034,,./0.png
+"221","144",San Antonio,"0266499",Metrex,Micromedidor,De Velocidad,0.5,,"10000956",,1034,,./0.png
+"222","145",San Antonio,"333993",Otro,Micromedidor,Volumétrico,0.5,,"10000959",,1032,,./0.png
+"223","146",San Antonio,"30810",Otro,Micromedidor,Volumétrico,0.5,,"10000958",,1033,,./0.png
+"224","147",San Antonio,"0184375",Otro,Micromedidor,Volumétrico,0.5,,"10000960",,1033,,./0.png
+"225","148",San Antonio,"40409",Otro,Micromedidor,Volumétrico,0.5,,"10000970",,1034,,./0.png
+"226","159",San Antonio,"367",Otro,Micromedidor,Volumétrico,0.5,,"10001110",,1047,,./0.png
+"227","160",San Antonio,"64849",Otro,Micromedidor,Volumétrico,0.5,,"10001115",,1046,,./0.png
+"228","162",San Antonio,"3196",Otro,Micromedidor,Volumétrico,0.5,,"10000990",,1042,,./0.png
+"229","163",San Antonio,"30814",Otro,Micromedidor,Volumétrico,0.5,,"10001020",,1040,,./0.png
+"230","165",San Antonio,"16029747",Otro,Micromedidor,Ultrasónico,0.5,,"10001010",,1047,,./0.png
+"231","166",San Antonio,"16000818",Water meter,Micromedidor,Volumétrico,0.5,,"10000561",,1044,,./0.png
+"232","167",San Antonio,"0266468",Metrex,Micromedidor,De Velocidad,0.5,,"10000559",,1044,,./0.png
+"233","170",San Antonio,"16000814",Water meter,Micromedidor,Volumétrico,0.5,,"10000556",,1043,,./0.png
+"234","171",San Antonio,"16000811",Water meter,Micromedidor,Volumétrico,0.5,,"10000555",,1043,,./0.png
+"235","172",San Antonio,"16000812",Otro,Micromedidor,Volumétrico,0.5,,"10000554",,1043,,./0.png
+"236","168",San Antonio,"16000815",Water meter,Micromedidor,Volumétrico,0.5,,"10000558",,1044,,./0.png
+"237","169",San Antonio,"16000820",Water meter,Micromedidor,Volumétrico,0.5,,"10000557",,1043,,./0.png
+"238","175",San Antonio,"3148",Otro,Micromedidor,Volumétrico,0.5,,"10001015",,1043,,./0.png
+"239","178",San Antonio,"16000819",Water meter,Micromedidor,Volumétrico,0.5,,"10000548",,1044,,./0.png
+"240","179",San Antonio,"16000828",Water meter,Micromedidor,Volumétrico,0.5,,"10000546",,1044,,./0.png
+"241","180",San Antonio,"16000827",Water meter,Micromedidor,Volumétrico,0.5,,"10000544",,1044,,./0.png
+"242","181",San Antonio,"16000825",Water meter,Micromedidor,Volumétrico,0.5,,"10000543",,1044,,./0.png
+"243","182",San Antonio,"16000824",Otro,Micromedidor,Volumétrico,0.5,,"10000541",,1044,,./0.png
+"244","183",San Antonio,"0266471",Metrex,Micromedidor,De Velocidad,0.5,,"10000539",,1045,,./0.png
+"245","184",San Antonio,16000867-0,Water meter,Micromedidor,Volumétrico,0.5,,"10002792",,1044,,./0.png
+"246","185",San Antonio,"16054851",Otro,Micromedidor,Volumétrico,0.5,,"10000200",,1048,,./0.png
+"247","186",San Antonio,"440",Otro,Micromedidor,Volumétrico,0.5,,"10000190",,1043,,./0.png
+"248","187",San Antonio,"373",Otro,Micromedidor,Volumétrico,0.5,,"10000185",,1042,,./0.png
+"249","188",San Antonio,"40405",Otro,Micromedidor,Volumétrico,0.5,,"10000180",,1046,,./0.png
+"250","189",San Antonio,"40391",Otro,Micromedidor,Volumétrico,0.5,,"10000170",,1050,,./0.png
+"251","190",San Antonio,"31878",Otro,Micromedidor,Volumétrico,0.5,,"10000160",,1049,,./0.png
+"252","191",San Antonio,"64851",Otro,Micromedidor,Volumétrico,0.5,,"10000150",,1049,,./0.png
+"253","192",San Antonio,"31870",Otro,Micromedidor,Volumétrico,0.5,,"10000144",,1048,,./0.png
+"254","193",San Antonio,"1493",Otro,Micromedidor,Volumétrico,0.5,,"10000141",,1045,,./0.png
+"255","194",San Antonio,"16029684",Otro,Micromedidor,Volumétrico,0.5,,"10000140",,1046,,./0.png
+"256","195",San Antonio,"16028919",Otro,Micromedidor,Volumétrico,0.5,,"10000130",,1034,,./0.png
+"257","196",San Antonio,"16000797",Water meter,Micromedidor,Volumétrico,0.5,,"10000120",,1039,,./0.png
+"258","197",San Antonio,"456192",Otro,Micromedidor,Volumétrico,0.5,,"10000110",,1042,,./0.png
+"259","198",San Antonio,"40431",Otro,Micromedidor,Volumétrico,0.5,,"10000100",,1045,,./0.png
+"260","199",San Antonio,"18000841",Otro,Micromedidor,Volumétrico,0.5,,"10002451",,1017,,./0.png
+"261","200",San Antonio,"0184367",Otro,Micromedidor,Volumétrico,0.5,,"10002450",,1006,,./0.png
+"262","203",San Antonio,"439",Otro,Micromedidor,Volumétrico,0.5,,"10002455",,1006,,./0.png
+"263","204",San Antonio,"32320",Otro,Micromedidor,Volumétrico,0.5,,"10002457",,977,,./0.png
+"264","205",San Antonio,"0184362",Otro,Micromedidor,Volumétrico,0.5,,"10002500",,1029,,./0.png
+"265","206",San Antonio,"313",Otro,Micromedidor,Volumétrico,0.5,,"10002510",,1084,,./0.png
+"266","207",San Antonio,"309",Otro,Micromedidor,Volumétrico,0.5,,"10002460",,1055,,./0.png
+"267","208",San Antonio,"306698",Otro,Micromedidor,Volumétrico,0.5,,"10002545",,1066,,./0.png
+"268","209",San Antonio,"16000850",Water meter,Micromedidor,Volumétrico,0.5,,"10002550",,1067,,./0.png
+"269","210",San Antonio,"16000833",Water meter,Micromedidor,Volumétrico,0.5,,"10002570",,1069,,./0.png
+"270","211",San Antonio,"58702",Otro,Micromedidor,Volumétrico,0.5,,"10002646",,1056,Fué retirado hace varios años. Quedó la colilla,./0.png
+"271","212",San Antonio,"178",Otro,Micromedidor,Volumétrico,0.5,,"10002580",,1051,,./0.png
+"272","213",San Antonio,"0184360",Otro,Micromedidor,Volumétrico,0.5,,"10002585",,1050,,./0.png
+"273","214",San Antonio,"31992",Otro,Micromedidor,Volumétrico,0.5,,"10002590",,1049,,./0.png
+"274","215",San Antonio,"16000860",Water meter,Micromedidor,Volumétrico,0.5,,"10002642",,1040,,./0.png
+"275","216",San Antonio,"369",Otro,Micromedidor,Volumétrico,0.5,,"10002644",,1022,,./0.png
+"276","217",San Antonio,"16000859",Water meter,Micromedidor,Volumétrico,0.5,,"10002600",,1023,,./0.png
+"277","218",San Antonio,"16026624",Otro,Micromedidor,Volumétrico,0.5,,"10002640",,1028,,./0.png
+"278","222",San Antonio,"32013",Otro,Micromedidor,Volumétrico,0.5,,"10000006",,1016,,./0.png
+"279","223",San Antonio,"40420",Otro,Micromedidor,Volumétrico,0.5,,"10000007",,1013,,./0.png
+"280","224",San Antonio,"16029012",Otro,Micromedidor,Ultrasónico,0.5,,"10000008",,1004,,./0.png
+"281","225",San Antonio,"14095",Otro,Micromedidor,Volumétrico,0.5,,"10000009",,1022,,./0.png
+"282","226",San Antonio,"278",Otro,Micromedidor,Volumétrico,0.5,,"10001230",,1017,,./0.png
+"283","227",San Antonio,"378",Otro,Micromedidor,Volumétrico,0.5,,"10000010",,1026,,./0.png
+"284","228",San Antonio,"31990",Otro,Micromedidor,Volumétrico,0.5,,"10000040",,1030,,./0.png
+"285","229",San Antonio,"30306",Otro,Micromedidor,Volumétrico,0.5,,"10000016",,1032,,./0.png
+"286","230",San Antonio,"32152",Otro,Micromedidor,Volumétrico,0.5,,"10000012",,1034,,./0.png
+"287","232",San Antonio,"454",Otro,Micromedidor,Volumétrico,0.5,,"10000015",,1030,,./0.png
+"288","233",San Antonio,"14061",Otro,Micromedidor,Volumétrico,0.5,,"10000018",,1034,,./0.png
+"289","234",San Antonio,"16000830",Water meter,Micromedidor,Volumétrico,0.5,,"10000019",,1034,,./0.png
+"290","235",San Antonio,"370",Otro,Micromedidor,Volumétrico,0.5,,"10000017",,1035,,./0.png
+"291","236",San Antonio,"160826",Otro,Micromedidor,Volumétrico,0.5,,"10000022",,1031,,./0.png
+"292","237",San Antonio,"31973",Otro,Micromedidor,Volumétrico,0.5,,"10000021",,1032,,./0.png
+"293","238",San Antonio,"16029085",Otro,Micromedidor,Volumétrico,0.5,,"10000020",,1032,,./0.png
+"294","239",San Antonio,"436",Otro,Micromedidor,Volumétrico,0.5,,"10000050",,1032,,./0.png
+"295","240",San Antonio,"5078",Otro,Micromedidor,Volumétrico,0.5,,"10001270",,1034,,./0.png
+"296","241",San Antonio,"31599",Otro,Micromedidor,Volumétrico,0.5,,"10000055",,1034,,./0.png
+"297","242",San Antonio,"01840366",Otro,Micromedidor,Volumétrico,0.5,,"10000051",,1034,,./0.png
+"298","243",San Antonio,"5017",Otro,Micromedidor,Volumétrico,0.5,,"10000035",,1034,,./0.png
+"299","244",San Antonio,"16029653",Otro,Micromedidor,Volumétrico,0.5,,"10000030",,1032,,./0.png
+"300","245",San Antonio,"437",Otro,Micromedidor,Volumétrico,0.5,,"10000060",,1034,,./0.png
+"301","246",San Antonio,"40387",Otro,Micromedidor,Volumétrico,0.5,,"10000065",,1032,,./0.png
+"302","247",San Antonio,"0184359",Otro,Micromedidor,Volumétrico,0.5,,"10000070",,1034,,./0.png
+"303","248",San Antonio,"171383",Otro,Micromedidor,Volumétrico,0.5,,"10000090",,1047,,./0.png
+"304","249",San Antonio,"40415",Otro,Micromedidor,Volumétrico,0.5,,"10000080",,1046,,./0.png
+"305","250",San Antonio,"31594",Otro,Micromedidor,Volumétrico,0.5,,"10000082",,1047,,./0.png
+"306","255",San Antonio,"265371",Otro,Micromedidor,Volumétrico,0.5,,"10001340",,1040,,./0.png
+"307","258",San Antonio,"16000786",Water meter,Micromedidor,Volumétrico,0.5,,"10001390",,1039,,./0.png
+"308","259",San Antonio,"265360",Otro,Micromedidor,Volumétrico,0.5,,"10001370",,1041,,./0.png
+"309","260",San Antonio,"40397",Otro,Micromedidor,Volumétrico,0.5,,"10001380",,1042,,./0.png
+"310","261",San Antonio,"65013",Otro,Micromedidor,Volumétrico,0.5,,"10001400",,1037,,./0.png
+"311","262",San Antonio,"14062",Otro,Micromedidor,Volumétrico,0.5,,"10001410",,1040,,./0.png
+"312","263",San Antonio,"31981",Otro,Micromedidor,Volumétrico,0.5,,"10001420",,1044,,./0.png
+"313","264",San Antonio,"16000842",Otro,Micromedidor,Volumétrico,0.5,,"10002425","71717",1041,,./0.png
+"314","265",San Antonio,"303",Otro,Micromedidor,Volumétrico,0.5,,"10002429","82637",1042,,./0.png
+"315","266",San Antonio,"14094",Otro,Micromedidor,Volumétrico,0.5,,"10002427","726361",1041,,./0.png
+"316","267",San Antonio,"40442",Otro,Micromedidor,Volumétrico,0.5,,"10002300","7171",1042,,./0.png
+"317","268",San Antonio,"0228467",Otro,Micromedidor,Volumétrico,0.5,,"10002290","8761",1043,,./0.png
+"318","270",San Antonio,"0168574",Otro,Micromedidor,Volumétrico,0.5,,"10002039","7161",1042,,./0.png
+"319","271",San Antonio,"14072",Otro,Micromedidor,Volumétrico,0.5,,"10002032","8172",1043,,./0.png
+"320","272",San Antonio,"40416",Otro,Micromedidor,Volumétrico,0.5,,"10002030","81726",1044,,./0.png
+"321","274",San Antonio,"5011",Otro,Micromedidor,Volumétrico,0.5,,"10002036","1872",1042,,./0.png
+"322","275",San Antonio,"30511",Otro,Micromedidor,Volumétrico,0.5,,"10002040","716271",1041,,./0.png
+"323","276",San Antonio,"14070",Otro,Micromedidor,Volumétrico,0.5,,"10002060","5173",1043,,./0.png
+"324","281",San Antonio,"40426",Otro,Micromedidor,Volumétrico,0.5,,"10002330","2974",1042,,./0.png
+"325","282",San Antonio,"448",Otro,Micromedidor,Volumétrico,0.5,,"10002210","7178",1047,,./0.png
+"326","283",San Antonio,"40427",Otro,Micromedidor,Volumétrico,0.5,,"10002110","8167",1041,,./0.png
+"327","273",San Antonio,"101",Otro,Micromedidor,Volumétrico,0.5,,"10002034","816261",1044,Dejó de pagar,./0.png
+"328","277",San Antonio,ND013,Otro,Micromedidor,Volumétrico,0.5,,"10002350","6391",1043,,./0.png
+"329","278",San Antonio,ND014,Otro,Micromedidor,Volumétrico,0.5,,"10002340","163818",1044,,./0.png
+"330","333",San Antonio,"16026217",Otro,Micromedidor,Ultrasónico,0.5,,"10002780",,1036,,./0.png
+"331","290",San Antonio,"0266480",Otro,Micromedidor,Volumétrico,0.5,,"10002130",91u1781,1045,,./0.png
+"332","321",San Antonio,"438",Otro,Micromedidor,Volumétrico,0.5,,"10001790","9382824",1042,,./0.png
+"333","284",San Antonio,"16027644",Otro,Micromedidor,Volumétrico,0.5,,"10002440","816621",1045,,./0.png
+"334","291",San Antonio,"276",Otro,Micromedidor,Volumétrico,0.5,,"10002194","9868",1046,,./0.png
+"335","292",San Antonio,"98",Otro,Micromedidor,Volumétrico,0.5,,"10002192","92882",1046,"No existe, lo levantaron",./0.png
+"336","293",San Antonio,"0184363",Otro,Micromedidor,Volumétrico,0.5,,"10002127","176318",1042,,./0.png
+"337","294",San Antonio,"22480",Otro,Micromedidor,Volumétrico,0.5,,"10002120","0871",1041,,./0.png
+"338","295",San Antonio,"19016",Otro,Micromedidor,Volumétrico,0.5,,"10002421","5367",1041,,./0.png
+"339","322",San Antonio,"40419",Otro,Micromedidor,Volumétrico,0.5,,"10001800","382738",1041,,./0.png
+"340","323",San Antonio,"64856",Otro,Micromedidor,Volumétrico,0.5,,"10001830","837282",1043,,./0.png
+"341","324",San Antonio,"457",Otro,Micromedidor,Volumétrico,0.5,,"10001840","02882",1042,,./0.png
+"342","325",San Antonio,"40419",Otro,Micromedidor,Volumétrico,0.5,,"10001850","72628",1042,,./0.png
+"343","326",San Antonio,"40377",Otro,Micromedidor,Volumétrico,0.5,,"10001860","72682",1041,,./0.png
+"344","327",San Antonio,"31592",Otro,Micromedidor,Volumétrico,0.5,,"10001000","84728",1044,,./0.png
+"345","328",San Antonio,"40380",Otro,Micromedidor,Volumétrico,0.5,,"10002432","827292",1044,,./0.png
+"346","329",San Antonio,"58712",Otro,Micromedidor,Volumétrico,0.5,,"10002431","8173",1042,,./0.png
+"347","330",San Antonio,"0184371",Otro,Micromedidor,Volumétrico,0.5,,"10002705","987",1033,,./0.png
+"348","331",San Antonio,"0184374",Otro,Micromedidor,Volumétrico,0.5,,"10002710","786",1030,,./0.png
+"349","332",San Antonio,"106",Otro,Micromedidor,Volumétrico,0.5,,"10002707","871",1014,,./0.png
+"350","46",San Antonio,"0266469",Metrex,Micromedidor,De Velocidad,0.5,,"10000846",,1067,,./0.png
+"351","48",San Antonio,"0266502",Metrex,Micromedidor,De Velocidad,0.5,,"10000847",,1057,,./0.png
+"352","296",San Antonio,"40447",Otro,Micromedidor,Volumétrico,0.5,,"10002126","0717",1041,,./0.png
+"353","297",San Antonio,"9025",Otro,Micromedidor,Volumétrico,0.5,,"10002124","862",1041,,./0.png
+"354","298",San Antonio,"389",Otro,Micromedidor,Volumétrico,0.5,,"10002123","827722",1039,,./0.png
+"355","299",San Antonio,"16000831",Otro,Micromedidor,Volumétrico,0.5,,"10002135","93872",1038,,./0.png
+"356","300",San Antonio,"31958",Otro,Micromedidor,Volumétrico,0.5,,"10002160","9281",1042,,./0.png
+"357","301",San Antonio,"0184372",Otro,Micromedidor,Volumétrico,0.5,,"10002170","727271",1042,,./0.png
+"358","302",San Antonio,"31993",Otro,Micromedidor,Volumétrico,0.5,,"10002180","716198",1041,,./0.png
+"359","304",San Antonio,"19019",Otro,Micromedidor,Volumétrico,0.5,,"10002150","87619",1041,,./0.png
+"360","305",San Antonio,"362",Otro,Micromedidor,Volumétrico,0.5,,"10001610","19763",1039,,./0.png
+"361","306",San Antonio,"9022",Otro,Micromedidor,Volumétrico,0.5,,"10001645","5865",1037,,./0.png
+"362","308",San Antonio,"287",Otro,Micromedidor,Volumétrico,0.5,,"10001640","183727",1038,,./0.png
+"363","309",San Antonio,"0266474",Metrex,Micromedidor,De Velocidad,0.5,,"10001650","187276",1039,,./0.png
+"364","310",San Antonio,"265361",Otro,Micromedidor,Volumétrico,0.5,,"10001560","817617",1036,,./0.png
+"365","312",San Antonio,"39750",Otro,Micromedidor,Volumétrico,0.5,,"10001680","0877",1041,,./0.png
+"366","313",San Antonio,"40421",Otro,Micromedidor,Volumétrico,0.5,,"10001690","87382",1041,Viene lim 3/4,./0.png
+"367","314",San Antonio,"58770",Otro,Micromedidor,Volumétrico,0.5,,"10001700","83728",1041,,./0.png
+"368","315",San Antonio,"40403",Otro,Micromedidor,Volumétrico,0.5,,"10001710","938282",1041,,./0.png
+"369","316",San Antonio,"14071",Otro,Micromedidor,Volumétrico,0.5,,"10001480","6764",1046,,./0.png
+"370","317",San Antonio,"30514",Otro,Micromedidor,Volumétrico,0.5,,"10001730","92829",1046,,./0.png
+"371","318",San Antonio,"30510",Otro,Micromedidor,Volumétrico,0.5,,"10001740","8282",1041,,./0.png
+"372","319",San Antonio,"14069",Otro,Micromedidor,Volumétrico,0.5,,"10001750","93829",1042,,./0.png
+"373","320",San Antonio,ND012,Otro,Micromedidor,Volumétrico,0.5,,"10002380","93782",1041,,./0.png
+"374","303",San Antonio,"0266482",Otro,Micromedidor,Volumétrico,0.5,,"10002140","5754",1042,,./0.png
+"375","307",San Antonio,"0266476",Otro,Micromedidor,Volumétrico,0.5,,"10001630","677",1037,,./0.png
+"376","311",San Antonio,"0266484",Water meter,Micromedidor,Volumétrico,0.5,,"10001670","716382",1041,,./0.png
+"377","347",San Antonio,"0266486",Metrex,Micromedidor,De Velocidad,0.5,,"10000338",,1038,,./0.png
+"378","370",San Antonio,"16000788",Water meter,Micromedidor,Volumétrico,0.5,,"10000479",,1018,,./0.png
+"379","375",San Antonio,"16000796",Water meter,Micromedidor,Volumétrico,0.5,,"10000526",,1032,,./0.png
+"380","377",San Antonio,"16000798",Water meter,Micromedidor,Volumétrico,0.5,,"10000460",,1014,,./0.png
+"381","382",San Antonio,"16000823",Water meter,Micromedidor,Volumétrico,0.5,,"10000400",,1033,,./0.png
+"382","383",San Antonio,"16000794",Water meter,Micromedidor,Volumétrico,0.5,,"10000410",,1030,,./0.png
+"383","384",San Antonio,"16000793",Water meter,Micromedidor,Volumétrico,0.5,,"10000420",,1028,,./0.png
+"384","385",San Antonio,"16000795",Water meter,Micromedidor,Volumétrico,0.5,,"10000430",,1028,,./0.png
+"385","376",San Antonio,"103",Otro,Micromedidor,Volumétrico,0.5,,"10000465",,1014,,./0.png
+"386","378",San Antonio,"32108",Otro,Micromedidor,Volumétrico,0.5,,"10000390",,1030,,./0.png
+"387","380",San Antonio,"456912",Otro,Micromedidor,Volumétrico,0.5,,"10000440",,1034,,./0.png
+"388","381",San Antonio,"31928",Otro,Micromedidor,Volumétrico,0.5,,"10000380",,1034,,./0.png
+"389","379",San Antonio,"290",Otro,Micromedidor,Volumétrico,0.5,,"10000385",,1030,,./0.png
+"390","386",San Antonio,"0266495",Otro,Micromedidor,Volumétrico,0.5,,"10000565",,1047,,./0.png

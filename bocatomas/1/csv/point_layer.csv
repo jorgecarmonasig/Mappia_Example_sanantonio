@@ -1,0 +1,3 @@
+qc_id,gid,tipoinfra,acueducto,caracter,estainf,adecuacion,tipo_adec,calidad,image,observ,cota,material_f,fecha_ins,funcion_ti,largo_m,ancho_m,alto_m,diam_m,caudal,coord_este,coord_nort,icon_url
+"0","13",Bocatoma,San Antonio,Bocatoma La Graminia 2,Existente,No,Ninguna,Bueno,D:\SIGCIVIL\PROYECTOS\sig_sanantonio\QGS\DCIM\infraestructura-puntos_20210226164806899.jpg,,1218,Concreto,,De rejilla de fondo,2.2,1.5,0.3,,,820776.9,1051902.44,./0.png
+"1","8",Bocatoma,San Antonio,Bocatoma La Graminia 1,Existente,No,Ninguna,Bueno,D:\SIGCIVIL\PROYECTOS\sig_sanantonio\QGS\DCIM\infraestructura-puntos_20210226160249135.jpg,,1234,Concreto,,De rejilla de fondo,2.3,1.1,0.3,,,820793.87,1051745.06,./0.png

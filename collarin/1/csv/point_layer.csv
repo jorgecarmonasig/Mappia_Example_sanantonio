@@ -1,0 +1,160 @@
+qc_id,gid,tipoinfra,acueducto,caracter,estainf,adecuacion,tipo_adec,calidad,image,observ,cota,material_f,fecha_ins,funcion_ti,diam_pulg,diam_pg_sa,diam_pg__1,coord_este,coord_nort,icon_url
+"0","68",Collarín,San Antonio,"Collarin 4""",Existente,No,Ninguna,Bueno,D:\SIGCIVIL\PROYECTOS\sig_sanantonio\QGS\DCIM\infraestructura-puntos_20210312095013803.jpg,Derivación para punto de muestreo,1050,PVC,,Derivación,4,4,0.5,821906.13,1054144.64,./0.png
+"1","101",Collarín,San Antonio,,Existente,No,Ninguna,Bueno,,,1038,PVC,,Derivación,2,2,0.5,822237.17,1054911.28,./0.png
+"2","29",Collarín,San Antonio,Collarín con salida,Existente,No,Ninguna,Bueno,,Derivación conexión finca,1128,PVC,,Conduce agua potable,6,6,0.5,820773.12,1052513.8,./0.png
+"3","30",Collarín,San Antonio,"Collarin salida 3/4""",Existente,No,Ninguna,Bueno,,Lleva agua para 4 fincas,1109,PVC,,Conduce agua potable,6,6,0.5,820819.49,1052565.64,./0.png
+"4","32",Collarín,San Antonio,"Collarin 6"" a 1/2""",Existente,No,Ninguna,Bueno,,Derivación,1100,PVC,,Derivación,6,6,0.5,820831.58,1052761.79,./0.png
+"5","33",Collarín,San Antonio,"Collarín 6"" a 1/2""",Existente,No,Ninguna,Bueno,D:\SIGCIVIL\PROYECTOS\sig_sanantonio\QGS\DCIM\infraestructura-puntos_20210305094045520.jpg,Derivación,1080,PVC,,Derivación,6,6,0.5,820935.35,1052776.91,./0.png
+"6","35",Collarín,San Antonio,"Collarín 6"" a 3/4""",Existente,No,Ninguna,Bueno,D:\SIGCIVIL\PROYECTOS\sig_sanantonio\QGS\DCIM\infraestructura-puntos_20210305094845207.jpg,Derivación parcelación la campiña,1048,PVC,,Conduce agua potable,6,,,821352.96,1053014.91,./0.png
+"7","40",Collarín,San Antonio,"Collarin de 4"" a 3/4""",Existente,No,Ninguna,Bueno,D:\SIGCIVIL\PROYECTOS\sig_sanantonio\QGS\DCIM\infraestructura-puntos_20210305104329457.jpg,Centro glorieta,1044,PVC,,Conduce agua potable,4,,,821887.04,1053971.1,./0.png
+"8","53",Collarín,San Antonio,"Collarin de 4"" para hacienda los mangos",Existente,No,Ninguna,Bueno,D:\SIGCIVIL\PROYECTOS\sig_sanantonio\QGS\DCIM\infraestructura-puntos_20210305123930856.jpg,"Derivación  para hacienda los mangos sale en 3/4""",1081,PVC,,Conduce agua potable,4,,,821295.74,1055875.12,./0.png
+"9","54",Collarín,San Antonio,"Collarín de 2"" salida 3/4""",Existente,No,Ninguna,Bueno,,,1027,PVC,,Conduce agua potable,2,,,821517.97,1055292.65,./0.png
+"10","60",Collarín,San Antonio,"Collarín 4""",Existente,No,Ninguna,Bueno,D:\SIGCIVIL\PROYECTOS\sig_sanantonio\QGS\DCIM\infraestructura-puntos_20210309103404025.jpg,Hay dos en el mismo punto,1043,PVC,,Derivación,4,4,0.75,821775.03,1053854.77,./0.png
+"11","65",Collarín,San Antonio,"Collarín 4""",Existente,No,Ninguna,Bueno,,,1043,PVC,,Derivación,4,4,0.75,821775.03,1053854.77,./0.png
+"12","73",Collarín,San Antonio,"Collarín  de 2""",Existente,No,Ninguna,Bueno,D:\SIGCIVIL\PROYECTOS\sig_sanantonio\QGS\DCIM\infraestructura-puntos_20210312111336445.jpg,Derivacion para conjunto,1031,PVC,,Derivación,2,2,0.75,821969.48,1054730.83,./0.png
+"13","74",Collarín,San Antonio,Collarín,Existente,No,Ninguna,Bueno,D:\SIGCIVIL\PROYECTOS\sig_sanantonio\QGS\DCIM\infraestructura-puntos_20210312112928643.jpg,Une con la linea del otro collarin de la entrada deriva en 3/4 pero amplia a pulgada,1021,PVC,,Derivación,2,2,0.75,821868.85,1054814.48,./0.png
+"14","106",Collarín,San Antonio,Collarín,Existente,No,Ninguna,Bueno,,Lleva agua al CAI,1036,PVC,,Derivación,3,3,0.75,822279.98,1054100.39,./0.png
+"15","114",Collarín,San Antonio,"Collarín 2""",Existente,No,Ninguna,Bueno,D:\SIGCIVIL\PROYECTOS\sig_sanantonio\QGS\DCIM\infraestructura-puntos_20210318143034855.jpg,,1038,PVC,,Derivación,2,2,0.75,823109.38,1053787.43,./0.png
+"16","123",Collarín,San Antonio,"Collarín 2""",Existente,No,Ninguna,Bueno,,Para punto de muestreo,1084,PVC,,Derivación,2,2,0.5,821234.99,1056265.28,./0.png
+"17","124",Collarín,San Antonio,"Collarín 3""",Existente,No,Ninguna,Bueno,,,1084,PVC,,Derivación,3,3,0.75,821234.01,1056265.67,./0.png
+"18","128",Collarín,San Antonio,Collarín,Existente,No,Ninguna,Bueno,,Acometida,1071,PVC,,Otro,3,3,0.5,821335.95,1056644.63,./0.png
+"19","129",Collarín,San Antonio,Collarín,Existente,No,Ninguna,Bueno,,Acometida,1071,PVC,,Otro,3,3,0.5,821336.25,1056644.7,./0.png
+"20","134",Collarín,San Antonio,Collarín,Existente,No,Ninguna,Bueno,,,1034,PVC,,Derivación,2,2,0.75,821277.57,1054430.84,./0.png
+"21","135",Collarín,San Antonio,Collarín,Existente,No,Ninguna,Bueno,,,1043,PVC,,Derivación,3,3,0.75,821374.07,1054223.13,./0.png
+"22","139",Collarín,San Antonio,Derivación,Existente,No,Ninguna,Bueno,,,1045,PVC,,Derivación,4,4,0.5,821803.5,1053856.56,./0.png
+"23","150",Collarín,San Antonio,Derivación,Existente,No,Ninguna,Bueno,,,1041,PVC,,Derivación,4,4,0.5,822057.33,1054180.89,./0.png
+"24","151",Collarín,San Antonio,Derivación,Existente,No,Ninguna,Bueno,,,1043,PVC,,Derivación,4,4,0.5,822039.48,1054175.53,./0.png
+"25","152",Collarín,San Antonio,Derivación,Existente,No,Ninguna,Bueno,,,1046,PVC,,Derivación,4,4,0.5,821984.12,1054159.03,./0.png
+"26","153",Collarín,San Antonio,Derivación,Existente,No,Ninguna,Bueno,,,1040,PVC,,Derivación,3,3,0.5,822371.56,1054130.95,./0.png
+"27","154",Collarín,San Antonio,Derivación,Existente,No,Ninguna,Bueno,,,1044,PVC,,Derivación,3,3,0.5,822416.18,1054147.04,./0.png
+"28","159",Collarín,San Antonio,Derivación,Existente,No,Ninguna,Bueno,,,1032,PVC,,Derivación,2,2,0.5,821699.22,1054689.65,./0.png
+"29","160",Collarín,San Antonio,Derivación,Existente,No,Ninguna,Bueno,,,1032,PVC,,Derivación,2,2,0.5,821696.65,1054679.68,./0.png
+"30","161",Collarín,San Antonio,Derivación,Existente,No,Ninguna,Bueno,,,1031,PVC,,Derivación,2,2,0.5,821688.02,1054628.63,./0.png
+"31","162",Collarín,San Antonio,Derivación,Existente,No,Ninguna,Bueno,,,1047,PVC,,Derivación,3,3,0.5,821735.23,1054493.58,./0.png
+"32","163",Collarín,San Antonio,Derivación,Existente,No,Ninguna,Bueno,,,1047,PVC,,Derivación,3,3,0.5,821741.59,1054483,./0.png
+"33","164",Collarín,San Antonio,Derivación,Existente,No,Ninguna,Bueno,,,1048,PVC,,Derivación,3,3,0.5,821754.05,1054461.21,./0.png
+"34","165",Collarín,San Antonio,Derivación,Existente,No,Ninguna,Bueno,,,1047,PVC,,Derivación,3,3,0.75,821782.4,1054393.9,./0.png
+"35","166",Collarín,San Antonio,Derivación,Existente,No,Ninguna,Bueno,,,1046,PVC,,Derivación,3,3,0.5,821817.09,1054292.12,./0.png
+"36","167",Collarín,San Antonio,Derivación,Existente,No,Ninguna,Bueno,,,1045,PVC,,Derivación,3,3,0.5,821838.73,1054228.6,./0.png
+"37","168",Collarín,San Antonio,Derivación,Existente,No,Ninguna,Bueno,,,1048,PVC,,Derivación,4,4,0.5,821881.03,1054063.57,./0.png
+"38","169",Collarín,San Antonio,Derivación,Existente,No,Ninguna,Bueno,,,1051,PVC,,Derivación,4,4,0.5,821828.44,1053663.21,./0.png
+"39","170",Collarín,San Antonio,Derivación,Existente,No,Ninguna,Bueno,,,1046,PVC,,Derivación,6,6,0.5,821660.44,1053395.97,./0.png
+"40","171",Collarín,San Antonio,Derivación,Existente,No,Ninguna,Bueno,,,1046,PVC,,Derivación,6,6,0.5,821628.55,1053352.12,./0.png
+"41","172",Collarín,San Antonio,Derivación,Existente,No,Ninguna,Bueno,,,1046,PVC,,Derivación,6,6,0.5,821623.77,1053345.16,./0.png
+"42","173",Collarín,San Antonio,Derivación,Existente,No,Ninguna,Bueno,,,1040,PVC,,Derivación,6,6,0.5,821590.88,1053295.68,./0.png
+"43","174",Collarín,San Antonio,Derivación,Existente,No,Ninguna,Bueno,,,1043,PVC,,Derivación,6,6,0.5,821539.72,1053220.77,./0.png
+"44","175",Collarín,San Antonio,Derivación,Existente,No,Ninguna,Bueno,,,1052,PVC,,Derivación,3,3,0.5,821271.29,1053018.16,./0.png
+"45","176",Collarín,San Antonio,Derivación,Existente,No,Ninguna,Bueno,,,1046,PVC,,Derivación,3,3,0.5,821323.95,1053054.51,./0.png
+"46","177",Collarín,San Antonio,Derivación,Existente,No,Ninguna,Bueno,,,1045,PVC,,Derivación,3,3,0.5,821354.8,1053085.86,./0.png
+"47","178",Collarín,San Antonio,Derivación,Existente,No,Ninguna,Bueno,,,1051,PVC,,Derivación,3,3,0.5,821262.88,1053027.53,./0.png
+"48","179",Collarín,San Antonio,Derivación,Existente,No,Ninguna,Bueno,,,1057,PVC,,Derivación,3,3,0.5,821217.67,1053023.56,./0.png
+"49","180",Collarín,San Antonio,Derivación,Existente,No,Ninguna,Bueno,,,1056,PVC,,Derivación,3,3,0.5,821231.56,1053063.45,./0.png
+"50","181",Collarín,San Antonio,Derivación,Existente,No,Ninguna,Bueno,,,1059,PVC,,Derivación,3,3,0.5,821184.46,1052971.66,./0.png
+"51","182",Collarín,San Antonio,Derivación,Existente,No,Ninguna,Bueno,,,1066,PVC,,Derivación,3,3,0.5,821139.12,1052937.48,./0.png
+"52","183",Collarín,San Antonio,Derivación,Existente,No,Ninguna,Bueno,,,1068,PVC,,Derivación,3,3,0.5,821093.33,1052956.77,./0.png
+"53","184",Collarín,San Antonio,Derivación,Existente,No,Ninguna,Bueno,,,1064,PVC,,Derivación,3,3,0.5,821135.36,1052990.35,./0.png
+"54","185",Collarín,San Antonio,Derivación,Existente,No,Ninguna,Bueno,,,1061,PVC,,Derivación,3,3,0.5,821138.56,1053018.63,./0.png
+"55","186",Collarín,San Antonio,Derivación,Existente,No,Ninguna,Bueno,,,1059,PVC,,Derivación,3,3,0.5,821137.29,1053040.43,./0.png
+"56","187",Collarín,San Antonio,Derivación,Existente,No,Ninguna,Bueno,,,1058,PVC,,Derivación,3,3,0.5,821136.7,1053049.75,./0.png
+"57","188",Collarín,San Antonio,Derivación,Existente,No,Ninguna,Bueno,,,1058,PVC,,Derivación,3,3,0.5,821136.59,1053082.32,./0.png
+"58","189",Collarín,San Antonio,Derivación,Existente,No,Ninguna,Bueno,,,1053,PVC,,Derivación,3,3,0.5,821108.66,1053111.51,./0.png
+"59","190",Collarín,San Antonio,Derivación,Existente,No,Ninguna,Bueno,,,1039,PVC,,Derivación,2,2,0.5,821529.28,1055763.37,./0.png
+"60","191",Collarín,San Antonio,Derivación,Existente,No,Ninguna,Bueno,,,1039,PVC,,Derivación,2,2,0.5,821516.28,1055716.85,./0.png
+"61","192",Collarín,San Antonio,Derivación,Existente,No,Ninguna,Bueno,,,1023,PVC,,Derivación,2,2,0.5,821518.31,1055197.02,./0.png
+"62","193",Collarín,San Antonio,Derivación,Existente,No,Ninguna,Bueno,,,1017,PVC,,Derivación,2,2,0.5,821458.18,1055129.95,./0.png
+"63","194",Collarín,San Antonio,Derivación,Existente,No,Ninguna,Bueno,,,1026,PVC,,Derivación,2,2,0.5,821507.91,1054925.1,./0.png
+"64","195",Collarín,San Antonio,Derivación,Existente,No,Ninguna,Bueno,,,1030,PVC,,Derivación,2,2,0.5,821582.97,1054637.18,./0.png
+"65","196",Collarín,San Antonio,Derivación,Existente,No,Ninguna,Bueno,,,1031,PVC,,Derivación,2,2,0.5,821601.59,1054627.06,./0.png
+"66","201",Collarín,San Antonio,Derivación,Existente,No,Ninguna,Bueno,,,1031,PVC,,Derivación,2,2,0.5,821633.32,1054606.77,./0.png
+"67","202",Collarín,San Antonio,Derivación,Existente,No,Ninguna,Bueno,,,1033,PVC,,Derivación,2,2,0.5,821371.33,1054754.99,./0.png
+"68","203",Collarín,San Antonio,Derivación,Existente,No,Ninguna,Bueno,,,1036,PVC,,Derivación,2,2,0.5,821293.53,1054733.44,./0.png
+"69","205",Collarín,San Antonio,Derivación,Existente,No,Ninguna,Bueno,,,1035,PVC,,Derivación,2,2,0.5,821293.53,1054733.44,./0.png
+"70","206",Collarín,San Antonio,Derivación,Existente,No,Ninguna,Bueno,,,1033,PVC,,Derivación,2,2,0.5,821263.79,1054672.89,./0.png
+"71","207",Collarín,San Antonio,Derivación,Existente,No,Ninguna,Bueno,,,1033,PVC,,Derivación,2,2,0.5,821263.79,1054672.89,./0.png
+"72","208",Collarín,San Antonio,Derivación,Existente,No,Ninguna,Bueno,,,1034,PVC,,Derivación,2,2,0.5,821263.79,1054672.89,./0.png
+"73","209",Collarín,San Antonio,Derivación,Existente,No,Ninguna,Bueno,,,1032,PVC,,Derivación,2,2,0.5,821263.79,1054672.89,./0.png
+"74","210",Collarín,San Antonio,Derivación,Existente,No,Ninguna,Bueno,,,1034,PVC,,Derivación,2,2,0.5,821270.73,1054515.67,./0.png
+"75","211",Collarín,San Antonio,Derivación,Existente,No,Ninguna,Bueno,,,1032,PVC,,Derivación,2,2,0.5,821270.73,1054515.67,./0.png
+"76","216",Collarín,San Antonio,Derivación,Existente,No,Ninguna,Bueno,,,1038,PVC,,Derivación,4,4,0.5,821376.89,1054229.25,./0.png
+"77","218",Collarín,San Antonio,Derivación,Existente,No,Ninguna,Bueno,,,1041,PVC,,Derivación,4,4,0.5,821376.89,1054229.25,./0.png
+"78","241",Collarín,San Antonio,"Collarin salida 3/4""",Existente,No,Ninguna,Bueno,,Lleva agua para 4 fincas,1109,PVC,,Conduce agua potable,6,6,0.75,820819.49,1052565.64,./0.png
+"79","242",Collarín,San Antonio,"Collarín 6"" a 1/2""",Existente,No,Ninguna,Bueno,D:\SIGCIVIL\PROYECTOS\sig_sanantonio\QGS\DCIM\infraestructura-puntos_20210305094045520.jpg,Derivación,1086,PVC,,Derivación,6,6,0.5,820935.35,1052776.91,./0.png
+"80","243",Collarín,San Antonio,"Collarín 6"" a 1/2""",Existente,No,Ninguna,Bueno,D:\SIGCIVIL\PROYECTOS\sig_sanantonio\QGS\DCIM\infraestructura-puntos_20210305094045520.jpg,Derivación,1066,PVC,,Derivación,6,6,0.5,820935.35,1052776.91,./0.png
+"81","244",Collarín,San Antonio,"Collarín 6"" a 1/2""",Existente,No,Ninguna,Bueno,D:\SIGCIVIL\PROYECTOS\sig_sanantonio\QGS\DCIM\infraestructura-puntos_20210305094045520.jpg,Derivación,1084,PVC,,Derivación,6,6,0.5,820935.35,1052776.91,./0.png
+"82","245",Collarín,San Antonio,Derivación,Existente,No,Ninguna,Bueno,,,1070,PVC,,Derivación,3,3,0.5,820854.5,1053093.04,./0.png
+"83","246",Collarín,San Antonio,Derivación,Existente,No,Ninguna,Bueno,,,1069,PVC,,Derivación,3,3,0.5,820854.5,1053093.04,./0.png
+"84","247",Collarín,San Antonio,Derivación,Existente,No,Ninguna,Bueno,,,1065,PVC,,Derivación,2,2,0.5,820854.5,1053093.04,./0.png
+"85","248",Collarín,San Antonio,Derivación,Existente,No,Ninguna,Bueno,,,1075,PVC,,Derivación,3,3,0.5,820854.5,1053093.04,./0.png
+"86","264",Collarín,San Antonio,Derivación,Existente,No,Ninguna,Bueno,,,1077,PVC,,Derivación,3,3,0.5,820281.93,1053147.44,./0.png
+"87","266",Collarín,San Antonio,Collarín,Existente,No,Ninguna,Bueno,,,1075,PVC,,Derivación,2,2,0.5,820818.05,1053084.45,./0.png
+"88","267",Collarín,San Antonio,Collarin,Existente,No,Ninguna,Bueno,,,1067,PVC,,Derivación,3,3,0.5,820978.08,1053022.04,./0.png
+"89","268",Collarín,San Antonio,Collarín,Existente,No,Ninguna,Bueno,,,1067,PVC,,Derivación,,,,820979.19,1053021.36,./0.png
+"90","271",Collarín,San Antonio,Collarín,Existente,No,Ninguna,Bueno,,,1043,PVC,,Derivación,4,4,0.5,821607.81,1054138.5,./0.png
+"91","275",Collarín,San Antonio,Collarín,Existente,No,Ninguna,Bueno,,,1047,PVC,,Derivación,4,4,0.5,821887.51,1053895.03,./0.png
+"92","276",Collarín,San Antonio,Collarín,Existente,No,Ninguna,Bueno,,,1046,PVC,,Derivación,4,4,0.5,821887.14,1053851.72,./0.png
+"93","277",Collarín,San Antonio,Collarín,Existente,No,Ninguna,Bueno,,,1033,PVC,,Derivación,2,2,0.5,821266.57,1054500.62,./0.png
+"94","278",Collarín,San Antonio,Collarín,Existente,No,Ninguna,Bueno,,,1033,PVC,,Derivación,2,2,0.5,821341.7,1054749.03,./0.png
+"95","281",Collarín,San Antonio,Collarín,Existente,No,Ninguna,Bueno,,,1032,PVC,,Derivación,2,2,0.5,821393.14,1054759.31,./0.png
+"96","282",Collarín,San Antonio,Collarín,Existente,No,Ninguna,Bueno,,,1031,PVC,,Derivación,2,2,0.5,821401.48,1054745.84,./0.png
+"97","283",Collarín,San Antonio,Collarín,Existente,No,Ninguna,Bueno,,,1026,PVC,,Derivación,2,2,0.75,821518.42,1055248.8,./0.png
+"98","284",Collarín,San Antonio,Collarín,Existente,No,Ninguna,Bueno,,,1060,PVC,,Derivación,4,4,0.75,821336.05,1055963.39,./0.png
+"99","352",Collarín,San Antonio,Collarín,Existente,No,Ninguna,Bueno,,,1042,PVC,,Derivación,2,2,0.75,822680.98,1053860.32,./0.png
+"100","353",Collarín,San Antonio,Collarín,Existente,No,Ninguna,Bueno,,,1042,PVC,,Derivación,2,2,0.5,822628.39,1053845.95,./0.png
+"101","354",Collarín,San Antonio,Collarín,Existente,No,Ninguna,Bueno,,,1042,PVC,,Derivación,2,2,0.5,822618.93,1053862.73,./0.png
+"102","355",Collarín,San Antonio,Collarín,Existente,No,Ninguna,Bueno,,,1043,PVC,,Derivación,2,2,0.5,822600.61,1053908.74,./0.png
+"103","356",Collarín,San Antonio,Collarín,Existente,No,Ninguna,Bueno,,,1042,PVC,,Derivación,2,2,0.5,822584.9,1053956.38,./0.png
+"104","357",Collarín,San Antonio,Collarín,Existente,No,Ninguna,Bueno,,,1042,PVC,,Derivación,2,2,0.5,822574.41,1053988.5,./0.png
+"105","358",Collarín,San Antonio,Collarín,Existente,No,Ninguna,Bueno,,,1043,PVC,,Derivación,2,2,0.5,822553.13,1054048.78,./0.png
+"106","359",Collarín,San Antonio,Collarín,Existente,No,Ninguna,Bueno,,,1044,PVC,,Derivación,2,2,0.5,822542.06,1054081.66,./0.png
+"107","360",Collarín,San Antonio,Collarín,Existente,No,Ninguna,Bueno,,,1044,PVC,,Derivación,2,2,0.5,822532.02,1054112.26,./0.png
+"108","361",Collarín,San Antonio,Collarín,Existente,No,Ninguna,Bueno,,,1042,PVC,,Derivación,2,2,0.5,822521.82,1054141.18,./0.png
+"109","362",Collarín,San Antonio,Collarín,Existente,No,Ninguna,Bueno,,,1042,PVC,,Derivación,2,2,0.5,822506.63,1054185.63,./0.png
+"110","363",Collarín,San Antonio,Collarín,Existente,No,Ninguna,Bueno,,,1043,PVC,,Derivación,2,2,0.5,822492.07,1054228.29,./0.png
+"111","364",Collarín,San Antonio,Collarín,Existente,No,Ninguna,Bueno,,,1043,PVC,,Derivación,2,2,0.5,822467.38,1054298.93,./0.png
+"112","365",Collarín,San Antonio,Collarín,Existente,No,Ninguna,Bueno,,,1044,PVC,,Derivación,2,2,0.75,822438.4,1054383.87,./0.png
+"113","366",Collarín,San Antonio,Collarín,Existente,No,Ninguna,Bueno,,,1044,PVC,,Derivación,2,2,0.5,822417.76,1054443.69,./0.png
+"114","367",Collarín,San Antonio,Collarín,Existente,No,Ninguna,Bueno,,,1045,PVC,,Derivación,2,2,0.5,822371.12,1054577.12,./0.png
+"115","368",Collarín,San Antonio,Collarín,Existente,No,Ninguna,Bueno,,,1044,PVC,,Derivación,2,2,0.75,822352.19,1054629.71,./0.png
+"116","369",Collarín,San Antonio,Collarín,Existente,No,Ninguna,Bueno,,,1043,PVC,,Derivación,2,2,0.75,822350.11,1054635.51,./0.png
+"117","370",Collarín,San Antonio,Collarín,Existente,No,Ninguna,Bueno,,,1042,PVC,,Derivación,2,2,0.75,822320.27,1054728.88,./0.png
+"118","371",Collarín,San Antonio,Collarín,Existente,No,Ninguna,Bueno,,,1041,PVC,,Derivación,2,2,0.75,822318.75,1054733.37,./0.png
+"119","372",Collarín,San Antonio,Collarín,Existente,No,Ninguna,Bueno,,,1039,PVC,,Derivación,2,2,0.5,822299.05,1054787.15,./0.png
+"120","373",Collarín,San Antonio,Collarín,Existente,No,Ninguna,Bueno,,,1038,PVC,,Derivación,2,2,0.5,822283.6,1054834.74,./0.png
+"121","374",Collarín,San Antonio,Collarín,Existente,No,Ninguna,Bueno,,,1041,PVC,,Derivación,2,2,0.5,822267.63,1054877.71,./0.png
+"122","375",Collarín,San Antonio,Collarín,Existente,No,Ninguna,Bueno,,,1042,PVC,,Derivación,3,3,0.5,822482.13,1054171.78,./0.png
+"123","389",Collarín,San Antonio,Collarín,Existente,No,Ninguna,Bueno,,,1038,PVC,,Derivación,3,3,0.5,822236.72,1054219.87,./0.png
+"124","390",Collarín,San Antonio,Collarín,Existente,No,Ninguna,Bueno,,,1035,PVC,,Derivación,3,3,0.5,822219.07,1054274.5,./0.png
+"125","391",Collarín,San Antonio,Collarín,Existente,No,Ninguna,Bueno,,,1034,PVC,,Derivación,4,4,0.5,822155.66,1054310.96,./0.png
+"126","392",Collarín,San Antonio,Collarín,Existente,No,Ninguna,Bueno,,,1034,PVC,,Derivación,4,4,0.5,822124.22,1054257.86,./0.png
+"127","393",Collarín,San Antonio,Collarín,Existente,No,Ninguna,Bueno,,,1035,PVC,,Derivación,2,2,0.5,822148.29,1054325.56,./0.png
+"128","394",Collarín,San Antonio,Collarín,Existente,No,Ninguna,Bueno,,,1033,PVC,,Derivación,2,2,0.5,822129.37,1054366.32,./0.png
+"129","395",Collarín,San Antonio,Collarín,Existente,No,Ninguna,Bueno,,,1034,PVC,,Derivación,2,2,0.5,822117.15,1054430.24,./0.png
+"130","396",Collarín,San Antonio,Collarín,Existente,No,Ninguna,Bueno,,,1037,PVC,,Derivación,2,2,0.5,822125.99,1054466.06,./0.png
+"131","397",Collarín,San Antonio,Collarín,Existente,No,Ninguna,Bueno,,,1038,PVC,,Derivación,2,2,0.5,822127.38,1054507.62,./0.png
+"132","398",Collarín,San Antonio,Collarín,Existente,No,Ninguna,Bueno,,,1038,PVC,,Derivación,2,2,0.5,822110.82,1054521.09,./0.png
+"133","399",Collarín,San Antonio,Collarín,Existente,No,Ninguna,Bueno,,,1032,PVC,,Derivación,2,2,0.5,822058.11,1054592.83,./0.png
+"134","400",Collarín,San Antonio,Collarín,Existente,No,Ninguna,Bueno,,,1034,PVC,,Derivación,2,2,0.5,822062.15,1054624.75,./0.png
+"135","401",Collarín,San Antonio,Collarín,Existente,No,Ninguna,Bueno,,,1039,PVC,,Derivación,2,2,0.5,822032.03,1054700.85,./0.png
+"136","402",Collarín,San Antonio,Collarín,Existente,No,Ninguna,Bueno,,,1033,PVC,,Derivación,2,2,0.5,821975.92,1054723.46,./0.png
+"137","403",Collarín,San Antonio,Collarín,Existente,No,Ninguna,Bueno,,,1038,PVC,,Derivación,2,2,0.5,822040.49,1054794.67,./0.png
+"138","404",Collarín,San Antonio,Collarín,Existente,No,Ninguna,Bueno,,,1039,PVC,,Derivación,2,2,0.5,822052.52,1054793.93,./0.png
+"139","405",Collarín,San Antonio,Collarín,Existente,No,Ninguna,Bueno,,,1036,PVC,,Derivación,2,2,0.75,822011.54,1054793.93,./0.png
+"140","406",Collarín,San Antonio,Collarín,Existente,No,Ninguna,Bueno,,,1028,PVC,,Derivación,2,2,0.5,821952.01,1054771.37,./0.png
+"141","407",Collarín,San Antonio,Collarín,Existente,No,Ninguna,Bueno,,,1021,PVC,,Derivación,2,2,0.5,821866.6,1054815.01,./0.png
+"142","408",Collarín,San Antonio,Collarín,Existente,No,Ninguna,Bueno,,,1015,PVC,,Derivación,2,2,0.75,821793.84,1054797.47,./0.png
+"143","429",Collarín,San Antonio,Collarín,Existente,No,Ninguna,Bueno,,,1034,PVC,,Derivación,3,3,0.5,821703.61,1054548.13,./0.png
+"144","430",Collarín,San Antonio,Collarín,Existente,No,Ninguna,Bueno,,,1034,PVC,,Derivación,3,3,,821701.58,1054550.78,./0.png
+"145","434",Collarín,San Antonio,Collarín,Existente,No,Ninguna,Bueno,,,1035,PVC,,Derivación,2,2,0.5,821717.45,1054723.02,./0.png
+"146","435",Collarín,San Antonio,Collarín,Existente,No,Ninguna,Bueno,,,1034,PVC,,Derivación,2,2,0.5,821689.97,1054702.65,./0.png
+"147","436",Collarín,San Antonio,Collarín,Existente,No,Ninguna,Bueno,,,1034,PVC,,Derivación,2,2,0.5,821727.32,1054721.78,./0.png
+"148","437",Collarín,San Antonio,Collarín,Existente,No,Ninguna,Bueno,,,1043,PVC,,Derivación,2,2,0.75,820998.12,1053260.16,./0.png
+"149","440",Collarín,San Antonio,Tee,Existente,No,Ninguna,Bueno,,,1077,PVC,,Derivación,0.75,0.5,0.5,820803.84,1053058.12,./0.png
+"150","441",Collarín,San Antonio,Collarín,Existente,No,Ninguna,Bueno,,,1049,PVC,,Derivación,2,2,0.5,821008.54,1053321.58,./0.png
+"151","443",Collarín,San Antonio,Collarín,Existente,No,Ninguna,Bueno,,,1041,PVC,,Derivación,4,4,0.5,821705.14,1053469.7,./0.png
+"152","448",Collarín,San Antonio,Collarín,Existente,No,Ninguna,Bueno,,,1033,PVC,,Derivación,3,3,0.75,821532.81,1054670.22,./0.png
+"153","455",Collarín,San Antonio,Collarín,Existente,No,Ninguna,Bueno,,,1050,PVC,,Derivación,4,4,0.5,821928.13,1054147.81,./0.png
+"154","457",Collarín,San Antonio,Collarín,Existente,No,Ninguna,Bueno,,,1034,PVC,,Derivación,2,2,1,822061.08,1054621.06,./0.png
+"155","469",Collarín,San Antonio,"Collarín 6"" a 1/2""",Existente,No,Ninguna,Bueno,D:\SIGCIVIL\PROYECTOS\sig_sanantonio\QGS\DCIM\infraestructura-puntos_20210305094045520.jpg,Derivación,1084,PVC,,Derivación,6,6,0.5,820935.35,1052776.91,./0.png
+"156","478",Collarín,San Antonio,Derivación,Existente,No,Ninguna,Bueno,,,1042,PVC,,Derivación,2,2,0.5,822760.21,1053895.8,./0.png
+"157","479",Collarín,San Antonio,Derivación,Existente,No,Ninguna,Bueno,,,1045,PVC,,Derivación,4,4,0.75,821798.61,1053890.72,./0.png
+"158","472",Collarín,San Antonio,Collarín,Existente,No,Ninguna,Bueno,,,1049,PVC,,Derivación,4,4,0.76,821938.98,1054149.28,./0.png
